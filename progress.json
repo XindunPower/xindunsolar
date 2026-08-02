@@ -1,35 +1,40 @@
 {
-  "page": 28,
-  "note": "page 27 completed 2026-08-02; next pending page is 28",
-  "last_completed_page": 27,
+  "page": 29,
+  "note": "page 28 completed 2026-08-02; next pending page is 29",
+  "last_completed_page": 28,
   "last_run": {
     "date": "2026-08-02",
-    "source": "https://www.xindun-power.com/news/27.html",
+    "source": "https://www.xindun-power.com/news/28.html",
     "published": [
       {
-        "title_en": "Best Solar Generator for Off-grid Living",
-        "title_es": "Mejor generador solar para vida fuera de la red",
-        "url": "https://www.xindunsolar.com/mejor-generador-solar-para-vida-fuera-de-la-red.html"
+        "title_en": "Solar Power Inverter Price in KSA",
+        "title_es": "Precio del inversor de energía solar en KSA",
+        "url": "https://www.xindunsolar.com/precio-del-inversor-de-energia-solar-en-ksa.html",
+        "status": "published"
       },
       {
-        "title_en": "Hybrid Solar Inverter Lebanon for Varied Uses",
-        "title_es": "Inversor solar híbrido en Líbano para diversos usos",
-        "url": "https://www.xindunsolar.com/inversor-solar-hibrido-en-libano-para-diversos-usos.html"
+        "title_en": "Egypt Solar PV Market Analysis",
+        "title_es": "Análisis del mercado solar fotovoltaico de Egipto",
+        "url": "https://www.xindunsolar.com/analisis-del-mercado-solar-fotovoltaico-de-egipto.html",
+        "status": "published"
       },
       {
-        "title_en": "China Solar Home Inverter for Yemen Market",
-        "title_es": "Inversor solar doméstico de China para el mercado de Yemen",
-        "url": "https://www.xindunsolar.com/inversor-solar-domestico-de-china-para-el-mercado-de-yemen.html"
+        "title_en": "On Grid Vs Off Grid Vs Hybrid Solar Inverter Vs Normal Inverter",
+        "title_es": "En la red Vs fuera de la red Vs híbrido solar inversor Vs inversor normal",
+        "url": "https://www.xindunsolar.com/en-la-red-vs-fuera-de-la-red-vs-hibrido-solar-inversor-vs-inversor-normal.html",
+        "status": "skipped_exists"
       },
       {
-        "title_en": "Best Solar Inverter in Saudi Arabia",
-        "title_es": "Mejor inversor solar en Arabia Saudita",
-        "url": "https://www.xindunsolar.com/mejor-inversor-solar-en-arabia-saudita.html"
+        "title_en": "Power Inverter vs Solar Inverter vs UPS vs Electric Inverter",
+        "title_es": "Inversor de energía versus inversor solar versus UPS versus inversor eléctrico",
+        "url": "https://www.xindunsolar.com/inversor-de-energia-versus-inversor-solar-versus-ups-versus-inversor-electrico.html",
+        "status": "published"
       },
       {
-        "title_en": "The current situation and prospects of solar energy in UAE",
-        "title_es": "La situación actual y las perspectivas de la energía solar en los EAU",
-        "url": "https://www.xindunsolar.com/la-situacion-actual-y-las-perspectivas-de-la-energia-solar-en-los-eau.html"
+        "title_en": "One-Stop Solution: Plug And Play Off Grid Solar System",
+        "title_es": "Solución integral: sistema solar fuera de la red Plug and Play",
+        "url": "https://www.xindunsolar.com/solucion-integral-sistema-solar-fuera-de-la-red-plug-and-play.html",
+        "status": "published"
       }
     ]
   }
