@@ -1,4 +1,36 @@
 {
-  "page": 27,
-  "note": "start from news page 27"
+  "page": 28,
+  "note": "page 27 completed 2026-08-02; next pending page is 28",
+  "last_completed_page": 27,
+  "last_run": {
+    "date": "2026-08-02",
+    "source": "https://www.xindun-power.com/news/27.html",
+    "published": [
+      {
+        "title_en": "Best Solar Generator for Off-grid Living",
+        "title_es": "Mejor generador solar para vida fuera de la red",
+        "url": "https://www.xindunsolar.com/mejor-generador-solar-para-vida-fuera-de-la-red.html"
+      },
+      {
+        "title_en": "Hybrid Solar Inverter Lebanon for Varied Uses",
+        "title_es": "Inversor solar híbrido en Líbano para diversos usos",
+        "url": "https://www.xindunsolar.com/inversor-solar-hibrido-en-libano-para-diversos-usos.html"
+      },
+      {
+        "title_en": "China Solar Home Inverter for Yemen Market",
+        "title_es": "Inversor solar doméstico de China para el mercado de Yemen",
+        "url": "https://www.xindunsolar.com/inversor-solar-domestico-de-china-para-el-mercado-de-yemen.html"
+      },
+      {
+        "title_en": "Best Solar Inverter in Saudi Arabia",
+        "title_es": "Mejor inversor solar en Arabia Saudita",
+        "url": "https://www.xindunsolar.com/mejor-inversor-solar-en-arabia-saudita.html"
+      },
+      {
+        "title_en": "The current situation and prospects of solar energy in UAE",
+        "title_es": "La situación actual y las perspectivas de la energía solar en los EAU",
+        "url": "https://www.xindunsolar.com/la-situacion-actual-y-las-perspectivas-de-la-energia-solar-en-los-eau.html"
+      }
+    ]
+  }
 }
