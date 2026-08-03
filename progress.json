@@ -1,39 +1,39 @@
 {
-  "page": 29,
-  "note": "page 28 completed 2026-08-02; next pending page is 29",
-  "last_completed_page": 28,
+  "page": 30,
+  "note": "page 29 completed 2026-08-03; next pending page is 30",
+  "last_completed_page": 29,
   "last_run": {
-    "date": "2026-08-02",
-    "source": "https://www.xindun-power.com/news/28.html",
+    "date": "2026-08-03",
+    "source": "https://www.xindun-power.com/news/29.html",
     "published": [
       {
-        "title_en": "Solar Power Inverter Price in KSA",
-        "title_es": "Precio del inversor de energía solar en KSA",
-        "url": "https://www.xindunsolar.com/precio-del-inversor-de-energia-solar-en-ksa.html",
+        "title_en": "Difference Between Solar Pump Inverter And Solar Inverter For Water Pump",
+        "title_es": "Diferencia entre inversor de bomba solar e inversor solar para bomba de agua",
+        "url": "https://www.xindunsolar.com/diferencia-entre-inversor-de-bomba-solar-e-inversor-solar-para-bomba-de-agua.html",
         "status": "published"
       },
       {
-        "title_en": "Egypt Solar PV Market Analysis",
-        "title_es": "Análisis del mercado solar fotovoltaico de Egipto",
-        "url": "https://www.xindunsolar.com/analisis-del-mercado-solar-fotovoltaico-de-egipto.html",
+        "title_en": "How To Find The World Best Solar Inverter Company?",
+        "title_es": "¿Cómo encontrar la mejor empresa de inversores solares del mundo?",
+        "url": "https://www.xindunsolar.com/como-encontrar-la-mejor-empresa-de-inversores-solares-del-mundo.html",
         "status": "published"
       },
       {
-        "title_en": "On Grid Vs Off Grid Vs Hybrid Solar Inverter Vs Normal Inverter",
-        "title_es": "En la red Vs fuera de la red Vs híbrido solar inversor Vs inversor normal",
-        "url": "https://www.xindunsolar.com/en-la-red-vs-fuera-de-la-red-vs-hibrido-solar-inversor-vs-inversor-normal.html",
-        "status": "skipped_exists"
-      },
-      {
-        "title_en": "Power Inverter vs Solar Inverter vs UPS vs Electric Inverter",
-        "title_es": "Inversor de energía versus inversor solar versus UPS versus inversor eléctrico",
-        "url": "https://www.xindunsolar.com/inversor-de-energia-versus-inversor-solar-versus-ups-versus-inversor-electrico.html",
+        "title_en": "Inverter Plus Battery Charger",
+        "title_es": "Cargador de batería Inverter Plus",
+        "url": "https://www.xindunsolar.com/cargador-de-bateria-inverter-plus.html",
         "status": "published"
       },
       {
-        "title_en": "One-Stop Solution: Plug And Play Off Grid Solar System",
-        "title_es": "Solución integral: sistema solar fuera de la red Plug and Play",
-        "url": "https://www.xindunsolar.com/solucion-integral-sistema-solar-fuera-de-la-red-plug-and-play.html",
+        "title_en": "Inverter With Solar MPPT & Mains Charger",
+        "title_es": "Inversor con MPPT solar y cargador de red",
+        "url": "https://www.xindunsolar.com/inversor-con-mppt-solar-y-cargador-de-red.html",
+        "status": "published"
+      },
+      {
+        "title_en": "Plug And Play Solar Inverters Have Changed Our Lives",
+        "title_es": "Los inversores solares Plug And Play han cambiado nuestras vidas",
+        "url": "https://www.xindunsolar.com/los-inversores-solares-plug-and-play-han-cambiado-nuestras-vidas.html",
         "status": "published"
       }
     ]
