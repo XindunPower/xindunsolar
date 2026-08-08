@@ -26,7 +26,7 @@ from pathlib import Path
 
 BASE_URL = "https://duomiapi.com"
 TERMINAL_FAILURES = {"failed", "error", "cancelled", "canceled"}
-REPO_ROOT = Path(__file__).resolve().parent
+REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
 def load_env_file(path: Path) -> None:

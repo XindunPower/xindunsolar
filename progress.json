@@ -1,39 +1,39 @@
 {
-  "page": 32,
-  "note": "page 31 completed 2026-08-05; next pending page is 32",
-  "last_completed_page": 31,
+  "page": 33,
+  "note": "page 32 completed 2026-08-08; next pending page is 33",
+  "last_completed_page": 32,
   "last_run": {
-    "date": "2026-08-05",
-    "source": "https://www.xindun-power.com/news/31.html",
+    "date": "2026-08-08",
+    "source": "https://www.xindun-power.com/news/32.html",
     "published": [
       {
-        "title_en": "Best quality solar inverter in 2023",
-        "title_es": "Inversor solar de mejor calidad en 2023",
-        "url": "https://www.xindunsolar.com/inversor-solar-de-mejor-calidad-en-2023.html",
+        "title_en": "Correct usage of off grid hybrid solar inverters",
+        "title_es": "Uso correcto de inversores solares híbridos aislados de la red",
+        "url": "https://www.xindunsolar.com/uso-correcto-de-inversores-solares-hibridos-aislados-de-la-red.html",
         "status": "published"
       },
       {
-        "title_en": "Can I buy pv system inverter directly from manufacturers?",
-        "title_es": "¿Puedo comprar inversores para sistemas fotovoltaicos directamente de los fabricantes?",
-        "url": "https://www.xindunsolar.com/puedo-comprar-inversores-para-sistemas-fotovoltaicos-directamente-de-los-fabricantes.html",
+        "title_en": "Is a solar inverter charger the same as a converter?",
+        "title_es": "¿Es lo mismo un cargador inversor solar que un convertidor?",
+        "url": "https://www.xindunsolar.com/es-lo-mismo-un-cargador-inversor-solar-que-un-convertidor.html",
         "status": "published"
       },
       {
-        "title_en": "Best inverter for long power backup",
-        "title_es": "El mejor inversor para respaldo de energía a largo plazo",
-        "url": "https://www.xindunsolar.com/el-mejor-inversor-para-respaldo-de-energia-a-largo-plazo.html",
+        "title_en": "How to choose a reliable UPS power supplier?",
+        "title_es": "¿Cómo elegir un proveedor de energía UPS confiable?",
+        "url": "https://www.xindunsolar.com/como-elegir-un-proveedor-de-energia-ups-confiable.html",
         "status": "published"
       },
       {
-        "title_en": "What is the best solar pv inverter from China?",
-        "title_es": "¿Cuál es el mejor inversor solar fotovoltaico de China?",
-        "url": "https://www.xindunsolar.com/cual-es-el-mejor-inversor-solar-fotovoltaico-de-china.html",
+        "title_en": "Best choice of solar inverter manufacturers in South Africa",
+        "title_es": "La mejor elección de fabricantes de inversores solares en Sudáfrica",
+        "url": "https://www.xindunsolar.com/la-mejor-eleccion-de-fabricantes-de-inversores-solares-en-sudafrica.html",
         "status": "published"
       },
       {
-        "title_en": "Which is the best inverter to buy for home?",
-        "title_es": "¿Cuál es el mejor inversor para comprar para casa?",
-        "url": "https://www.xindunsolar.com/cual-es-el-mejor-inversor-para-comprar-para-casa.html",
+        "title_en": "UPS inverter with battery: Solving Power Outages in Ukraine",
+        "title_es": "Inversor UPS con batería: solución de cortes de energía en Ucrania",
+        "url": "https://www.xindunsolar.com/inversor-ups-con-bateria-solucion-de-cortes-de-energia-en-ucrania.html",
         "status": "published"
       }
     ]
