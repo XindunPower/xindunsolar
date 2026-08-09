@@ -1,41 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "page": 34,
-  "note": "page 33 completed 2026-08-09; next pending page is 34",
-  "last_completed_page": 33,
-  "last_run": {
-    "date": "2026-08-09",
-    "source": "https://www.xindun-power.com/news/33.html",
-    "published": [
-      {
-        "title_en": "Can United Arab Emirates solar energy help to solve energy crisis?",
-        "title_es": "¿Puede la energía solar de los Emiratos Árabes Unidos ayudar a resolver la crisis energética?",
-        "url": "https://www.xindunsolar.com/puede-la-energia-solar-de-los-emiratos-arabes-unidos-ayudar-a-resolver-la-crisis-energetica.html",
-        "status": "published"
-      },
-      {
-        "title_en": "Storage Solar energy ukraine: From Dawn to Dusk",
-        "title_es": "Almacenamiento de energía solar en Ucrania: del amanecer al anochecer",
-        "url": "https://www.xindunsolar.com/almacenamiento-de-energia-solar-en-ucrania-del-amanecer-al-anochecer.html",
-        "status": "published"
-      },
-      {
-        "title_en": "Why are solar power inverter importers willing to cooperate with XINDUN China?",
-        "title_es": "¿Por qué los importadores de inversores de energía solar están dispuestos a cooperar con XINDUN China?",
-        "url": "https://www.xindunsolar.com/por-que-los-importadores-de-inversores-de-energia-solar-estan-dispuestos-a-cooperar-con-xindun-china.html",
-        "status": "published"
-      },
-      {
-        "title_en": "How much does a 20kw solar system cost?",
-        "title_es": "¿Cuánto cuesta un sistema solar de 20kw?",
-        "url": "https://www.xindunsolar.com/cuanto-cuesta-un-sistema-solar-de-20kw.html",
-        "status": "published"
-      },
-      {
-        "title_en": "Is solar system investment a great future in 2023?",
-        "title_es": "¿Es la inversión en sistemas solares un gran futuro en 2023?",
-        "url": "https://www.xindunsolar.com/es-la-inversion-en-sistemas-solares-un-gran-futuro-en-2023.html",
-=======
   "page": 35,
   "note": "page 34 completed 2026-08-09; next pending page is 35",
   "last_completed_page": 34,
@@ -71,7 +34,6 @@
         "title_en": "What is the purpose and function of an inverter?",
         "title_es": "¿Cuál es el propósito y función de un inversor?",
         "url": "https://www.xindunsolar.com/cual-es-el-proposito-y-funcion-de-un-inversor.html",
->>>>>>> Stashed changes
         "status": "published"
       }
     ]
