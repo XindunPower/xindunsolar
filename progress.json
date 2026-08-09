@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "page": 34,
   "note": "page 33 completed 2026-08-09; next pending page is 34",
   "last_completed_page": 33,
@@ -34,6 +35,43 @@
         "title_en": "Is solar system investment a great future in 2023?",
         "title_es": "¿Es la inversión en sistemas solares un gran futuro en 2023?",
         "url": "https://www.xindunsolar.com/es-la-inversion-en-sistemas-solares-un-gran-futuro-en-2023.html",
+=======
+  "page": 35,
+  "note": "page 34 completed 2026-08-09; next pending page is 35",
+  "last_completed_page": 34,
+  "last_run": {
+    "date": "2026-08-09",
+    "source": "https://www.xindun-power.com/news/34.html",
+    "published": [
+      {
+        "title_en": "How much power does a 100kw solar system produce?",
+        "title_es": "¿Cuánta energía produce un sistema solar de 100 kw?",
+        "url": "https://www.xindunsolar.com/cuanta-energia-produce-un-sistema-solar-de-100-kw.html",
+        "status": "published"
+      },
+      {
+        "title_en": "Hope to cooperate with solar inverter retailers malaysia",
+        "title_es": "Espero cooperar con los minoristas de inversores solares de Malasia.",
+        "url": "https://www.xindunsolar.com/espero-cooperar-con-los-minoristas-de-inversores-solares-de-malasia.html",
+        "status": "published"
+      },
+      {
+        "title_en": "Solar Energy System in Oman: Potential and Progress",
+        "title_es": "Sistema de energía solar en Omán: potencial y progreso",
+        "url": "https://www.xindunsolar.com/sistema-de-energia-solar-en-oman-potencial-y-progreso.html",
+        "status": "published"
+      },
+      {
+        "title_en": "How to find the most reliable solar power company for Dubai importers?",
+        "title_es": "¿Cómo encontrar la empresa de energía solar más confiable para los importadores de Dubai?",
+        "url": "https://www.xindunsolar.com/como-encontrar-la-empresa-de-energia-solar-mas-confiable-para-los-importadores-de-dubai.html",
+        "status": "published"
+      },
+      {
+        "title_en": "What is the purpose and function of an inverter?",
+        "title_es": "¿Cuál es el propósito y función de un inversor?",
+        "url": "https://www.xindunsolar.com/cual-es-el-proposito-y-funcion-de-un-inversor.html",
+>>>>>>> Stashed changes
         "status": "published"
       }
     ]
