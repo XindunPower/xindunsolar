@@ -1,39 +1,39 @@
 {
-  "page": 36,
-  "note": "page 35 completed 2026-08-10; next pending page is 36",
-  "last_completed_page": 35,
+  "page": 37,
+  "note": "page 36 completed 2026-08-11; next pending page is 37",
+  "last_completed_page": 36,
   "last_run": {
-    "date": "2026-08-10",
-    "source": "https://www.xindun-power.com/news/35.html",
+    "date": "2026-08-11",
+    "source": "https://www.xindun-power.com/news/36.html",
     "published": [
       {
-        "title_en": "What Can A 10kw Solar System Run?",
-        "title_es": "¿Qué puede funcionar con un sistema solar de 10 kw?",
-        "url": "https://www.xindunsolar.com/que-puede-funcionar-con-un-sistema-solar-de-10-kw.html",
+        "title_en": "On Grid Solar vs Off Grid Solar vs Hybrid Solar Inverter",
+        "title_es": "Inversor solar conectado a la red, solar fuera de la red frente a inversor solar híbrido",
+        "url": "https://www.xindunsolar.com/inversor-solar-conectado-a-la-red-solar-fuera-de-la-red-frente-a-inversor-solar-hibrido.html",
         "status": "published"
       },
       {
-        "title_en": "Difference between single phase and three phase inverter",
-        "title_es": "Diferencia entre inversor monofásico y trifásico",
-        "url": "https://www.xindunsolar.com/diferencia-entre-inversor-monofasico-y-trifasico.html",
+        "title_en": "The role of grid connected solar inverters and off grid solar inverters",
+        "title_es": "El papel de los inversores solares conectados a la red y de los inversores solares aislados",
+        "url": "https://www.xindunsolar.com/el-papel-de-los-inversores-solares-conectados-a-la-red-y-de-los-inversores-solares-aislados.html",
         "status": "published"
       },
       {
-        "title_en": "China manufacturer looking for inverter wholesaler in Myanmar",
-        "title_es": "Fabricante chino busca mayorista de inversores en Myanmar",
-        "url": "https://www.xindunsolar.com/fabricante-chino-busca-mayorista-de-inversores-en-myanmar.html",
+        "title_en": "Solar Generator vs Solar Inverter",
+        "title_es": "Generador solar vs inversor solar",
+        "url": "https://www.xindunsolar.com/generador-solar-vs-inversor-solar.html",
         "status": "published"
       },
       {
-        "title_en": "Looking for top photovoltaic inverter manufacturers?",
-        "title_es": "¿Busca los mejores fabricantes de inversores fotovoltaicos?",
-        "url": "https://www.xindunsolar.com/busca-los-mejores-fabricantes-de-inversores-fotovoltaicos.html",
+        "title_en": "Choose a good pure sine wave inverter company to OEM",
+        "title_es": "Elija una buena empresa de inversores de onda sinusoidal pura para OEM",
+        "url": "https://www.xindunsolar.com/elija-una-buena-empresa-de-inversores-de-onda-sinusoidal-pura-para-oem.html",
         "status": "published"
       },
       {
-        "title_en": "How to use off grid solar with grid backup?",
-        "title_es": "¿Cómo utilizar energía solar fuera de la red con respaldo de red?",
-        "url": "https://www.xindunsolar.com/como-utilizar-energia-solar-fuera-de-la-red-con-respaldo-de-red.html",
+        "title_en": "Which stand alone solar inverter brand is best?",
+        "title_es": "¿Qué marca de inversor solar independiente es mejor?",
+        "url": "https://www.xindunsolar.com/que-marca-de-inversor-solar-independiente-es-mejor.html",
         "status": "published"
       }
     ]
