@@ -1,39 +1,39 @@
 {
-  "page": 37,
-  "note": "page 36 completed 2026-08-11; next pending page is 37",
-  "last_completed_page": 36,
+  "page": 38,
+  "note": "page 37 completed 2026-08-13; next pending page is 38",
+  "last_completed_page": 37,
   "last_run": {
-    "date": "2026-08-11",
-    "source": "https://www.xindun-power.com/news/36.html",
+    "date": "2026-08-13",
+    "source": "https://www.xindun-power.com/news/37.html",
     "published": [
       {
-        "title_en": "On Grid Solar vs Off Grid Solar vs Hybrid Solar Inverter",
-        "title_es": "Inversor solar conectado a la red, solar fuera de la red frente a inversor solar híbrido",
-        "url": "https://www.xindunsolar.com/inversor-solar-conectado-a-la-red-solar-fuera-de-la-red-frente-a-inversor-solar-hibrido.html",
+        "title_en": "How to choose solar inverter OEM manufacturer?",
+        "title_es": "¿Cómo elegir el fabricante OEM del inversor solar?",
+        "url": "https://www.xindunsolar.com/como-elegir-el-fabricante-oem-del-inversor-solar.html",
         "status": "published"
       },
       {
-        "title_en": "The role of grid connected solar inverters and off grid solar inverters",
-        "title_es": "El papel de los inversores solares conectados a la red y de los inversores solares aislados",
-        "url": "https://www.xindunsolar.com/el-papel-de-los-inversores-solares-conectados-a-la-red-y-de-los-inversores-solares-aislados.html",
+        "title_en": "What is the best battery for solar panel system?",
+        "title_es": "¿Cuál es la mejor batería para el sistema de paneles solares?",
+        "url": "https://www.xindunsolar.com/cual-es-la-mejor-bateria-para-el-sistema-de-paneles-solares.html",
         "status": "published"
       },
       {
-        "title_en": "Solar Generator vs Solar Inverter",
-        "title_es": "Generador solar vs inversor solar",
-        "url": "https://www.xindunsolar.com/generador-solar-vs-inversor-solar.html",
+        "title_en": "How to select solar LiFepo4 battery manufacturer?",
+        "title_es": "¿Cómo seleccionar el fabricante de la batería solar LiFepo4?",
+        "url": "https://www.xindunsolar.com/como-seleccionar-el-fabricante-de-la-bateria-solar-lifepo4.html",
         "status": "published"
       },
       {
-        "title_en": "Choose a good pure sine wave inverter company to OEM",
-        "title_es": "Elija una buena empresa de inversores de onda sinusoidal pura para OEM",
-        "url": "https://www.xindunsolar.com/elija-una-buena-empresa-de-inversores-de-onda-sinusoidal-pura-para-oem.html",
+        "title_en": "Why so many traders choose this solar inverter factory(Xindun)?",
+        "title_es": "¿Por qué tantos comerciantes eligen esta fábrica de inversores solares (Xindun)?",
+        "url": "https://www.xindunsolar.com/por-que-tantos-comerciantes-eligen-esta-fabrica-de-inversores-solares-xindun.html",
         "status": "published"
       },
       {
-        "title_en": "Which stand alone solar inverter brand is best?",
-        "title_es": "¿Qué marca de inversor solar independiente es mejor?",
-        "url": "https://www.xindunsolar.com/que-marca-de-inversor-solar-independiente-es-mejor.html",
+        "title_en": "What is the function of MPPT in solar inverter?",
+        "title_es": "¿Cuál es la función del MPPT en el inversor solar?",
+        "url": "https://www.xindunsolar.com/cual-es-la-funcion-del-mppt-en-el-inversor-solar.html",
         "status": "published"
       }
     ]
