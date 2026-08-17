@@ -610,9 +610,47 @@ def replace_images_in_html(
 
 
 def already_published(title_es: str, title_en: str) -> str | None:
+    """Strict duplicate check — avoid false positives on shared stopwords."""
     s = requests.Session()
     s.headers["User-Agent"] = UA
-    queries = {title_es, title_en, title_es.split("?")[0], title_en.split("?")[0]}
+    stop = {
+        "cual",
+        "cuál",
+        "para",
+        "como",
+        "cómo",
+        "que",
+        "qué",
+        "esta",
+        "este",
+        "from",
+        "with",
+        "what",
+        "when",
+        "where",
+        "mejor",
+        "best",
+        "solar",
+        "paneles",
+        "panels",
+        "sistema",
+        "system",
+        "energia",
+        "energía",
+        "power",
+        "the",
+        "and",
+        "for",
+    }
+
+    def tokens(text: str) -> set[str]:
+        return {
+            t
+            for t in re.split(r"[^a-z0-9áéíóúñü]+", text.lower())
+            if len(t) > 3 and t not in stop
+        }
+
+    queries = {title_es, title_en}
     for q in queries:
         if not q or len(q.strip()) < 8:
             continue
@@ -624,18 +662,19 @@ def already_published(title_es: str, title_en: str) -> str | None:
             )
             if not r.ok:
                 continue
+            q_tok = tokens(q)
             for p in r.json():
                 rendered = re.sub(r"<[^>]+>", "", (p.get("title") or {}).get("rendered") or "")
                 rt = rendered.lower().strip()
                 ql = q.lower().strip()
-                # Require strong overlap to avoid false positives on common words.
-                if rt == ql or ql in rt or rt in ql:
+                # Exact / near-exact title only.
+                if rt == ql or rt.rstrip("?") == ql.rstrip("?"):
                     return p.get("link")
-                # token overlap: at least 4 significant shared tokens
-                tok = lambda s: {t for t in re.split(r"[^a-z0-9áéíóúñü]+", s.lower()) if len(t) > 3}
-                shared = tok(rt) & tok(ql)
-                if len(shared) >= 5 and abs(len(rt) - len(ql)) < 25:
-                    return p.get("link")
+                # High-signal content tokens must largely match (no generic words).
+                shared = tokens(rt) & q_tok
+                if len(q_tok) >= 2 and len(shared) >= max(2, len(q_tok) - 1):
+                    if abs(len(rt) - len(ql)) <= 12:
+                        return p.get("link")
         except Exception:  # noqa: BLE001
             continue
     return None
@@ -645,8 +684,12 @@ def main() -> None:
     wp = WPClient()
     wp.login()
     results: list[dict] = []
+    only = os.environ.get("ONLY_ARTICLE")
+    only_idxs = {int(x) for x in only.split(",")} if only else None
 
     for article_idx, art in enumerate(ARTICLES):
+        if only_idxs is not None and article_idx not in only_idxs:
+            continue
         print("=" * 70, flush=True)
         print(f"ARTICLE {article_idx}: {art['title_en']}", flush=True)
         raw = fetch_article(art["url"])
@@ -654,7 +697,7 @@ def main() -> None:
         desc_es = translate_text(raw.get("description") or art["title_en"])
 
         existing = already_published(title_es, art["title_en"])
-        if existing:
+        if existing and os.environ.get("FORCE_PUBLISH") != "1":
             print(f"[skip] already published: {existing}", flush=True)
             results.append(
                 {
