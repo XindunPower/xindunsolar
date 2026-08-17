@@ -1,39 +1,39 @@
 {
-  "page": 43,
-  "note": "page 42 completed 2026-08-17; next pending page is 43",
-  "last_completed_page": 42,
+  "page": 44,
+  "note": "page 43 completed 2026-08-17; next pending page is 44",
+  "last_completed_page": 43,
   "last_run": {
     "date": "2026-08-17",
-    "source": "https://www.xindun-power.com/news/42.html",
+    "source": "https://www.xindun-power.com/news/43.html",
     "published": [
       {
-        "title_en": "How many types of inverter for home?",
-        "title_es": "¿Cuántos tipos de inversor para el hogar?",
-        "url": "https://www.xindunsolar.com/cuantos-tipos-de-inversor-para-el-hogar.html",
+        "title_en": "How to convert 12v dc to 240v ac power?",
+        "title_es": "¿Cómo convertir 12v dc a 240v ac?",
+        "url": "https://www.xindunsolar.com/como-convertir-12v-dc-a-240v-ac.html",
         "status": "published"
       },
       {
-        "title_en": "Best solar inverter on the market",
-        "title_es": "El mejor inversor solar del mercado.",
-        "url": "https://www.xindunsolar.com/el-mejor-inversor-solar-del-mercado.html",
+        "title_en": "Home standby solar generator for rural areas",
+        "title_es": "Generador solar doméstico de reserva para zonas rurales",
+        "url": "https://www.xindunsolar.com/generador-solar-domestico-de-reserva-para-zonas-rurales.html",
         "status": "published"
       },
       {
-        "title_en": "Which inverter and battery combo is best?",
-        "title_es": "¿Qué combinación de inversor y batería es mejor?",
-        "url": "https://www.xindunsolar.com/que-combinacion-de-inversor-y-bateria-es-mejor.html",
+        "title_en": "Differences between off grid,on grid and hybrid inverter",
+        "title_es": "Diferencias entre inversor fuera de red, conectado a red e híbrido",
+        "url": "https://www.xindunsolar.com/diferencias-entre-inversor-fuera-de-red-conectado-a-red-e-hibrido.html",
         "status": "published"
       },
       {
-        "title_en": "How much power does a 5kw solar system produce?",
-        "title_es": "¿Cuánta energía produce un sistema solar de 5kw?",
-        "url": "https://www.xindunsolar.com/cuanta-energia-produce-un-sistema-solar-de-5kw.html",
+        "title_en": "Can I Use Solar Panel and Inverter Without Battery?",
+        "title_es": "¿Puedo utilizar un panel solar y un inversor sin batería?",
+        "url": "https://www.xindunsolar.com/puedo-utilizar-un-panel-solar-y-un-inversor-sin-bateria.html",
         "status": "published"
       },
       {
-        "title_en": "PWM and MPPT solar charge controller working principle",
-        "title_es": "Principio de funcionamiento del controlador de carga solar PWM y MPPT",
-        "url": "https://www.xindunsolar.com/principio-de-funcionamiento-del-controlador-de-carga-solar-pwm-y-mppt.html",
+        "title_en": "How does a hybrid on off grid inverter work?",
+        "title_es": "¿Cómo funciona un inversor híbrido aislado de red?",
+        "url": "https://www.xindunsolar.com/como-funciona-un-inversor-hibrido-aislado-de-red.html",
         "status": "published"
       }
     ]
