@@ -1,39 +1,39 @@
 {
-  "page": 44,
-  "note": "page 43 completed 2026-08-17; next pending page is 44",
-  "last_completed_page": 43,
+  "page": 45,
+  "note": "page 44 completed 2026-08-17; next pending page is 45",
+  "last_completed_page": 44,
   "last_run": {
     "date": "2026-08-17",
-    "source": "https://www.xindun-power.com/news/43.html",
+    "source": "https://www.xindun-power.com/news/44.html",
     "published": [
       {
-        "title_en": "How to convert 12v dc to 240v ac power?",
-        "title_es": "¿Cómo convertir 12v dc a 240v ac?",
-        "url": "https://www.xindunsolar.com/como-convertir-12v-dc-a-240v-ac.html",
+        "title_en": "How to make the operation of three phase inverter safe and orderly?",
+        "title_es": "¿Cómo hacer que el funcionamiento del inversor trifásico sea seguro y ordenado?",
+        "url": "https://www.xindunsolar.com/como-hacer-que-el-funcionamiento-del-inversor-trifasico-sea-seguro-y-ordenado.html",
         "status": "published"
       },
       {
-        "title_en": "Home standby solar generator for rural areas",
-        "title_es": "Generador solar doméstico de reserva para zonas rurales",
-        "url": "https://www.xindunsolar.com/generador-solar-domestico-de-reserva-para-zonas-rurales.html",
+        "title_en": "Can 3 phase inverter be converted to single phase inverter?",
+        "title_es": "¿Se puede convertir un inversor trifásico en un inversor monofásico?",
+        "url": "https://www.xindunsolar.com/se-puede-convertir-un-inversor-trifasico-en-un-inversor-monofasico.html",
         "status": "published"
       },
       {
-        "title_en": "Differences between off grid,on grid and hybrid inverter",
-        "title_es": "Diferencias entre inversor fuera de red, conectado a red e híbrido",
-        "url": "https://www.xindunsolar.com/diferencias-entre-inversor-fuera-de-red-conectado-a-red-e-hibrido.html",
+        "title_en": "How do solar panels convert dc to ac?",
+        "title_es": "¿Cómo convierten los paneles solares CC en CA?",
+        "url": "https://www.xindunsolar.com/como-convierten-los-paneles-solares-cc-en-ca.html",
         "status": "published"
       },
       {
-        "title_en": "Can I Use Solar Panel and Inverter Without Battery?",
-        "title_es": "¿Puedo utilizar un panel solar y un inversor sin batería?",
-        "url": "https://www.xindunsolar.com/puedo-utilizar-un-panel-solar-y-un-inversor-sin-bateria.html",
+        "title_en": "XINDUN POWER WIN GREAT SUCCESS IN 2017 SHANGHAI SNEC PV POWER EXPO",
+        "title_es": "XINDUN POWER LOGRA UN GRAN ÉXITO EN LA SHANGHAI SNEC PV POWER EXPO 2017",
+        "url": "https://www.xindunsolar.com/xindun-power-logra-un-gran-exito-en-la-shanghai-snec-pv-power-expo-2017.html",
         "status": "published"
       },
       {
-        "title_en": "How does a hybrid on off grid inverter work?",
-        "title_es": "¿Cómo funciona un inversor híbrido aislado de red?",
-        "url": "https://www.xindunsolar.com/como-funciona-un-inversor-hibrido-aislado-de-red.html",
+        "title_en": "Xindun Power 2020 New Year Celebration: Together to Create the Future",
+        "title_es": "Celebración del Año Nuevo de Xindun Power 2020: juntos para crear el futuro",
+        "url": "https://www.xindunsolar.com/celebracion-del-ano-nuevo-de-xindun-power-2020-juntos-para-crear-el-futuro.html",
         "status": "published"
       }
     ]
