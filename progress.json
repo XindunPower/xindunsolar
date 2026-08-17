@@ -1,39 +1,39 @@
 {
-  "page": 42,
-  "note": "page 41 completed 2026-08-17; next pending page is 42",
-  "last_completed_page": 41,
+  "page": 43,
+  "note": "page 42 completed 2026-08-17; next pending page is 43",
+  "last_completed_page": 42,
   "last_run": {
     "date": "2026-08-17",
-    "source": "https://www.xindun-power.com/news/41.html",
+    "source": "https://www.xindun-power.com/news/42.html",
     "published": [
       {
-        "title_en": "How to connect 50 kw solar inverter?",
-        "title_es": "¿Cómo conectar un inversor solar de 50 kw?",
-        "url": "https://www.xindunsolar.com/como-conectar-un-inversor-solar-de-50-kw.html",
+        "title_en": "How many types of inverter for home?",
+        "title_es": "¿Cuántos tipos de inversor para el hogar?",
+        "url": "https://www.xindunsolar.com/cuantos-tipos-de-inversor-para-el-hogar.html",
         "status": "published"
       },
       {
-        "title_en": "What is the purpose of solar charge controller in solar panel?",
-        "title_es": "¿Cuál es el propósito del controlador de carga solar en el panel solar?",
-        "url": "https://www.xindunsolar.com/cual-es-el-proposito-del-controlador-de-carga-solar-en-el-panel-solar.html",
+        "title_en": "Best solar inverter on the market",
+        "title_es": "El mejor inversor solar del mercado.",
+        "url": "https://www.xindunsolar.com/el-mejor-inversor-solar-del-mercado.html",
         "status": "published"
       },
       {
-        "title_en": "How much is a solar power system?",
-        "title_es": "¿Cuánto cuesta un sistema de energía solar?",
-        "url": "https://www.xindunsolar.com/cuanto-cuesta-un-sistema-de-energia-solar.html",
+        "title_en": "Which inverter and battery combo is best?",
+        "title_es": "¿Qué combinación de inversor y batería es mejor?",
+        "url": "https://www.xindunsolar.com/que-combinacion-de-inversor-y-bateria-es-mejor.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose best inverter for home?",
-        "title_es": "¿Cómo elegir el mejor inversor para el hogar?",
-        "url": "https://www.xindunsolar.com/como-elegir-el-mejor-inversor-para-el-hogar.html",
+        "title_en": "How much power does a 5kw solar system produce?",
+        "title_es": "¿Cuánta energía produce un sistema solar de 5kw?",
+        "url": "https://www.xindunsolar.com/cuanta-energia-produce-un-sistema-solar-de-5kw.html",
         "status": "published"
       },
       {
-        "title_en": "How to install solar power system for home?",
-        "title_es": "¿Cómo instalar un sistema de energía solar en el hogar?",
-        "url": "https://www.xindunsolar.com/como-instalar-un-sistema-de-energia-solar-en-el-hogar.html",
+        "title_en": "PWM and MPPT solar charge controller working principle",
+        "title_es": "Principio de funcionamiento del controlador de carga solar PWM y MPPT",
+        "url": "https://www.xindunsolar.com/principio-de-funcionamiento-del-controlador-de-carga-solar-pwm-y-mppt.html",
         "status": "published"
       }
     ]
