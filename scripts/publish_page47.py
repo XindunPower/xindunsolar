@@ -654,6 +654,22 @@ def already_published(title_es: str, title_en: str) -> str | None:
         "the",
         "and",
         "for",
+        "inversor",
+        "inverter",
+        "inversores",
+        "phase",
+        "fase",
+        "company",
+        "empresa",
+        "famous",
+        "famosa",
+        "wholesale",
+        "mayorista",
+        "suitable",
+        "adecuado",
+        "which",
+        "find",
+        "encontrar",
     }
 
     def tokens(text: str) -> set[str]:
