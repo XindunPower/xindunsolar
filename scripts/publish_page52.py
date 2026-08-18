@@ -137,15 +137,15 @@ def size_for(w: int, h: int) -> str:
     return min(candidates.items(), key=lambda kv: abs(kv[1] - r))[0]
 
 
-def encode_jpeg(src: Path, dest: Path, tw: int, th: int, max_kb: int = 100) -> None:
+def encode_webp(src: Path, dest: Path, tw: int, th: int, max_kb: int = 100) -> None:
     with Image.open(src) as im:
         img = im.convert("RGB")
     if img.size != (tw, th):
         img = img.resize((tw, th), Image.Resampling.LANCZOS)
-    quality = 92
+    quality = 90
     while quality >= 20:
         buf = BytesIO()
-        img.save(buf, format="JPEG", quality=quality, optimize=True)
+        img.save(buf, format="WEBP", quality=quality, method=6)
         data = buf.getvalue()
         if len(data) <= max_kb * 1024:
             dest.write_bytes(data)
@@ -153,7 +153,7 @@ def encode_jpeg(src: Path, dest: Path, tw: int, th: int, max_kb: int = 100) -> N
         quality -= 8
     # Last resort keeps dimensions unchanged and prioritizes size cap.
     buf = BytesIO()
-    img.save(buf, format="JPEG", quality=16, optimize=True)
+    img.save(buf, format="WEBP", quality=16, method=6)
     dest.write_bytes(buf.getvalue())
 
 
@@ -167,8 +167,8 @@ def image_mean_diff(orig: Path, candidate: Path, tw: int, th: int) -> float:
 
 
 def compress_only(local: Path, name: str, orig_wh: tuple[int, int]) -> Path:
-    dest = OUT / f"{name}.jpg"
-    encode_jpeg(local, dest, orig_wh[0], orig_wh[1], 100)
+    dest = OUT / f"{name}.webp"
+    encode_webp(local, dest, orig_wh[0], orig_wh[1], 100)
     return dest
 
 
@@ -182,7 +182,7 @@ def run_duomi(
     attempts: int = 4,
 ) -> Path | None:
     prompt = f"{PROMPT_BASE} {extra_prompt}"
-    final = OUT / f"{name}.jpg"
+    final = OUT / f"{name}.webp"
     for attempt in range(attempts):
         out_name = f"{name}-try{attempt}"
         print(f"[duomi] {name} attempt={attempt + 1} size={size}", flush=True)
@@ -241,7 +241,7 @@ def run_duomi(
                 print(f"[duomi] reject redesign diff={diff_score:.2f}", flush=True)
                 time.sleep(3)
                 continue
-            encode_jpeg(raw, final, orig_wh[0], orig_wh[1], 100)
+            encode_webp(raw, final, orig_wh[0], orig_wh[1], 100)
         except Exception as exc:  # noqa: BLE001
             print(f"[duomi] layout/compress failed: {exc}", flush=True)
             time.sleep(3)
@@ -374,13 +374,14 @@ class WPClient:
 
     def upload_media(self, path: Path, alt: str, title: str) -> dict:
         last_err = ""
+        mime = "image/webp" if path.suffix.lower() == ".webp" else "image/jpeg"
         for attempt in range(6):
             data = path.read_bytes()
             r = self.s.post(
                 f"{WP}/wp-json/wp/v2/media",
                 headers={
                     "Content-Disposition": f'attachment; filename="{path.name}"',
-                    "Content-Type": "image/jpeg",
+                    "Content-Type": mime,
                     "X-WP-Nonce": self.nonce,
                 },
                 data=data,
@@ -538,7 +539,7 @@ def prepare_images(article_idx: int, imgs: list[dict]) -> list[dict]:
             orig_wh = pil.size
 
         tagged_stem = f"a{article_idx}_i{ii}_{stem}"
-        tagged = OUT / f"{tagged_stem}.jpg"
+        tagged = OUT / f"{tagged_stem}.webp"
 
         method = "duomi" if (article_idx, ii) in DUOMI_MAP else "compress"
         duomi_path = None
