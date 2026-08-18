@@ -1,40 +1,40 @@
 {
-  "page": 51,
-  "note": "2026-08-18 catch-up: main was stuck at page 49 because prior runs pushed progress only to feature branch (PR #9 not merged). Pages 49-50 verified already published; next pending page is 51.",
-  "last_completed_page": 50,
+  "page": 52,
+  "note": "page 51 completed 2026-08-18; next pending page is 52",
+  "last_completed_page": 51,
   "last_run": {
     "date": "2026-08-18",
-    "source": "https://www.xindun-power.com/news/50.html",
+    "source": "https://www.xindun-power.com/news/51.html",
     "published": [
       {
-        "title_en": "Xindun Power Inverter Catalogue 2021",
-        "title_es": "Catálogo de inversores de energía Xindun 2021",
-        "url": "https://www.xindunsolar.com/catalogo-de-inversores-de-energia-xindun-2021.html",
-        "status": "already_published"
+        "title_en": "Why do i need a pure sine wave inverter",
+        "title_es": "¿Por qué necesito un inversor de onda sinusoidal pura?",
+        "url": "https://www.xindunsolar.com/por-que-necesito-un-inversor-de-onda-sinusoidal-pura.html",
+        "status": "published"
       },
       {
-        "title_en": "2022 Chinese New Year Holidays Notice",
-        "title_es": "Aviso de vacaciones del Año Nuevo Chino 2022",
-        "url": "https://www.xindunsolar.com/aviso-de-vacaciones-del-ano-nuevo-chino-2022.html",
-        "status": "already_published"
+        "title_en": "How to choose 3 phase ups manufacturers?",
+        "title_es": "¿Cómo elegir fabricantes de ups trifásicos?",
+        "url": "https://www.xindunsolar.com/como-elegir-fabricantes-de-ups-trifasicos.html",
+        "status": "published"
       },
       {
-        "title_en": "The best Inverter and Battery Combination for Home",
-        "title_es": "La mejor combinación de inversor y batería para el hogar",
-        "url": "https://www.xindunsolar.com/la-mejor-combinacion-de-inversor-y-bateria-para-el-hogar.html",
-        "status": "already_published"
+        "title_en": "Looking for companies in jhb south that sells inverters",
+        "title_es": "Buscando empresas en jhb sur que vendan inversores",
+        "url": "https://www.xindunsolar.com/buscando-empresas-en-jhb-sur-que-vendan-inversores.html",
+        "status": "published"
       },
       {
-        "title_en": "What is 100kw hybrid solar inverter price in bangladesh?",
-        "title_es": "¿Cuál es el precio del inversor solar híbrido de 100 kW en Bangladesh?",
-        "url": "https://www.xindunsolar.com/cual-es-el-precio-del-inversor-solar-hibrido-de-100-kw-en-bangladesh.html",
-        "status": "already_published"
+        "title_en": "Different between solar inverter and charge controller",
+        "title_es": "Diferencia entre inversor solar y controlador de carga",
+        "url": "https://www.xindunsolar.com/diferencia-entre-inversor-solar-y-controlador-de-carga.html",
+        "status": "published"
       },
       {
-        "title_en": "What is mppt solar inverter?",
-        "title_es": "¿Qué es el inversor solar mppt?",
-        "url": "https://www.xindunsolar.com/que-es-el-inversor-solar-mppt.html",
-        "status": "already_published"
+        "title_en": "How to choose inverter capacity?",
+        "title_es": "¿Cómo elegir la capacidad del inversor?",
+        "url": "https://www.xindunsolar.com/como-elegir-la-capacidad-del-inversor.html",
+        "status": "published"
       }
     ]
   }
