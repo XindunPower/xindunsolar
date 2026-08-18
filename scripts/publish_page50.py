@@ -25,6 +25,7 @@ WP = "https://www.xindunsolar.com"
 CAT = 89
 UA = "Mozilla/5.0 (compatible; XindunSpanishBot/1.0)"
 RESULTS_PATH = Path("/tmp/page50_results.json")
+FEATURED_WH = (600, 400)
 
 PROMPT_BASE = (
     "Edit this exact image. Keep layout/products/background/aspect ratio unchanged. "
@@ -200,6 +201,37 @@ def size_for(w: int, h: int) -> str:
         "3:4": 3 / 4,
     }
     return min(candidates.items(), key=lambda kv: abs(kv[1] - r))[0]
+
+
+def to_featured_webp(src: Path, dest: Path, tw: int = FEATURED_WH[0], th: int = FEATURED_WH[1], max_kb: int = 100) -> None:
+    """Letterbox image to a uniform featured size for consistent listing height."""
+    img = Image.open(src).convert("RGB")
+    sw, sh = img.size
+    if (sw, sh) == (tw, th):
+        dest.write_bytes(src.read_bytes())
+        return
+    scale = min(tw / sw, th / sh)
+    nw, nh = max(1, int(sw * scale)), max(1, int(sh * scale))
+    img = img.resize((nw, nh), Image.Resampling.LANCZOS)
+    canvas = Image.new("RGB", (tw, th), (255, 255, 255))
+    canvas.paste(img, ((tw - nw) // 2, (th - nh) // 2))
+    q = 82
+    while q >= 20:
+        buf = BytesIO()
+        canvas.save(buf, format="WEBP", quality=q, method=6)
+        if len(buf.getvalue()) <= max_kb * 1024:
+            dest.write_bytes(buf.getvalue())
+            return
+        q -= 8
+    buf = BytesIO()
+    canvas.save(buf, format="WEBP", quality=15, method=6)
+    dest.write_bytes(buf.getvalue())
+
+
+def make_featured_variant(body_path: Path, slug: str) -> Path:
+    dest = OUT / f"{slug}-featured.webp"
+    to_featured_webp(body_path, dest)
+    return dest
 
 
 def to_webp(src: Path | bytes, dest: Path, tw: int, th: int, max_kb: int = 100) -> None:
@@ -781,6 +813,20 @@ def main() -> None:
         content_es = replace_images_in_html(content_es, prepared, media_list)
         featured = media_list[0]["id"] if media_list else 0
         featured_url = media_list[0].get("source_url", "") if media_list else ""
+        if prepared and prepared[0]["orig_wh"] != FEATURED_WH:
+            feat_slug = slugify(prepared[0]["alt_es"])
+            feat_path = make_featured_variant(prepared[0]["local"], feat_slug)
+            feat_media = wp.upload_media(
+                feat_path,
+                prepared[0]["alt_es"],
+                prepared[0]["title_es"],
+            )
+            featured = feat_media["id"]
+            featured_url = feat_media.get("source_url", "")
+            print(
+                f"[featured] normalized {prepared[0]['orig_wh']} -> {FEATURED_WH} id={featured}",
+                flush=True,
+            )
 
         post = wp.create_post(title_es, content_es, featured)
         print(f"[post] created id={post['id']} {post.get('link')}", flush=True)
