@@ -1,40 +1,40 @@
 {
-  "page": 50,
-  "note": "page 49 checked 2026-08-18; all 5 articles already published; next pending page is 50",
-  "last_completed_page": 49,
+  "page": 51,
+  "note": "page 50 completed 2026-08-18; next pending page is 51",
+  "last_completed_page": 50,
   "last_run": {
     "date": "2026-08-18",
-    "source": "https://www.xindun-power.com/news/49.html",
+    "source": "https://www.xindun-power.com/news/50.html",
     "published": [
       {
-        "title_en": "where can you buy a battery inverter?",
-        "title_es": "¿Dónde se puede comprar un inversor de batería?",
-        "url": "https://www.xindunsolar.com/donde-se-puede-comprar-un-inversor-de-bateria.html",
-        "status": "already_published"
+        "title_en": "Xindun Power Inverter Catalogue 2021",
+        "title_es": "Catálogo de inversores de energía Xindun 2021",
+        "url": "https://www.xindunsolar.com/catalogo-de-inversores-de-energia-xindun-2021.html",
+        "status": "published"
       },
       {
-        "title_en": "How to select solar invertors companies?",
-        "title_es": "¿Cómo seleccionar empresas de inversores solares?",
-        "url": "https://www.xindunsolar.com/como-seleccionar-empresas-de-inversores-solares.html",
-        "status": "already_published"
+        "title_en": "2022 Chinese New Year Holidays Notice",
+        "title_es": "Aviso de vacaciones del Año Nuevo Chino 2022",
+        "url": "https://www.xindunsolar.com/aviso-de-vacaciones-del-ano-nuevo-chino-2022.html",
+        "status": "published"
       },
       {
-        "title_en": "Xindun is looking for inverter distributors around the world",
-        "title_es": "Xindun busca distribuidores de inversores en todo el mundo",
-        "url": "https://www.xindunsolar.com/xindun-busca-distribuidores-de-inversores-en-todo-el-mundo.html",
-        "status": "already_published"
+        "title_en": "The best Inverter and Battery Combination for Home",
+        "title_es": "La mejor combinación de inversor y batería para el hogar",
+        "url": "https://www.xindunsolar.com/la-mejor-combinacion-de-inversor-y-bateria-para-el-hogar.html",
+        "status": "published"
       },
       {
-        "title_en": "Which Chinese solar inverter brand is the best?",
-        "title_es": "¿Qué marca china de inversores solares es la mejor?",
-        "url": "https://www.xindunsolar.com/que-marca-china-de-inversores-solares-es-la-mejor.html",
-        "status": "already_published"
+        "title_en": "What is 100kw hybrid solar inverter price in bangladesh?",
+        "title_es": "¿Cuál es el precio del inversor solar híbrido de 100 kW en Bangladesh?",
+        "url": "https://www.xindunsolar.com/cual-es-el-precio-del-inversor-solar-hibrido-de-100-kw-en-bangladesh.html",
+        "status": "published"
       },
       {
-        "title_en": "what means off grid solar system?",
-        "title_es": "¿Qué significa sistema solar fuera de la red?",
-        "url": "https://www.xindunsolar.com/que-significa-sistema-solar-fuera-de-la-red.html",
-        "status": "already_published"
+        "title_en": "What is mppt solar inverter?",
+        "title_es": "¿Qué es el inversor solar mppt?",
+        "url": "https://www.xindunsolar.com/que-es-el-inversor-solar-mppt.html",
+        "status": "published"
       }
     ]
   }
