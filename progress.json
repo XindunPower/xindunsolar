@@ -1,40 +1,40 @@
 {
-  "page": 54,
-  "note": "page 53 completed 2026-08-21; next pending page is 54",
-  "last_completed_page": 53,
+  "page": 55,
+  "note": "page 54 completed 2026-08-21; next pending page is 55",
+  "last_completed_page": 54,
   "last_run": {
     "date": "2026-08-21",
-    "source": "https://www.xindun-power.com/news/53.html",
+    "source": "https://www.xindun-power.com/news/54.html",
     "published": [
       {
-        "title_en": "Different types of solar charge controllers",
-        "title_es": "Diferentes tipos de controladores de carga solar",
-        "url": "https://www.xindunsolar.com/diferentes-tipos-de-controladores-de-carga-solar.html",
-        "status": "already_published"
+        "title_en": "Xindun invites you to participate in the SNEC 2020 PV POWER EXPO",
+        "title_es": "Xindun te invita a participar en la SNEC 2020 PV POWER EXPO",
+        "url": "https://www.xindunsolar.com/xindun-te-invita-a-participar-en-la-snec-2020-pv-power-expo.html",
+        "status": "published"
       },
       {
-        "title_en": "Power inverter's technical performance (2)",
-        "title_es": "Prestaciones técnicas del inversor de potencia (2)",
-        "url": "https://www.xindunsolar.com/prestaciones-tecnicas-del-inversor-de-potencia-2.html",
-        "status": "already_published"
+        "title_en": "Xindun Power is waiting for you at the Solar PV World Expo 2020 in GZ",
+        "title_es": "Xindun Power le espera en la Solar PV World Expo 2020 en GZ",
+        "url": "https://www.xindunsolar.com/xindun-power-le-espera-en-la-solar-pv-world-expo-2020-en-gz.html",
+        "status": "published"
       },
       {
-        "title_en": "How A Three Phase Inverter Works?",
-        "title_es": "¿Cómo funciona un inversor trifásico?",
-        "url": "https://www.xindunsolar.com/como-funciona-un-inversor-trifasico.html",
-        "status": "already_published"
+        "title_en": "Xindun Invitation Letter for the Power Equipment Industry Online Expo",
+        "title_es": "Carta de invitación de Xindun para la exposición en línea de la industria de equipos eléctricos",
+        "url": "https://www.xindunsolar.com/carta-de-invitacion-de-xindun-para-la-exposicion-en-linea-de-la-industria-de-equipos-electricos.html",
+        "status": "published"
       },
       {
-        "title_en": "Recommend Two Types of Battery Less Solar Inverter Off Grid",
-        "title_es": "Recomendar dos tipos de inversor solar sin batería fuera de la red",
-        "url": "https://www.xindunsolar.com/recomendar-dos-tipos-de-inversor-solar-sin-bateria-fuera-de-la-red.html",
-        "status": "already_published"
+        "title_en": "Inverter Customized Service",
+        "title_es": "Servicio personalizado de inversores",
+        "url": "https://www.xindunsolar.com/servicio-personalizado-de-inversores.html",
+        "status": "published"
       },
       {
-        "title_en": "The difference between low frequency inverter and high frequency inverter",
-        "title_es": "La diferencia entre inversor de baja frecuencia e inversor de alta frecuencia.",
-        "url": "https://www.xindunsolar.com/la-diferencia-entre-inversor-de-baja-frecuencia-e-inversor-de-alta-frecuencia.html",
-        "status": "already_published"
+        "title_en": "Different types of Inverters",
+        "title_es": "Diferentes tipos de inversores",
+        "url": "https://www.xindunsolar.com/diferentes-tipos-de-inversores.html",
+        "status": "published"
       }
     ]
   }
