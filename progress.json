@@ -1,39 +1,39 @@
 {
-  "page": 55,
-  "note": "page 54 completed 2026-08-21; next pending page is 55",
-  "last_completed_page": 54,
+  "page": 56,
+  "note": "page 55 completed 2026-08-21; next pending page is 56",
+  "last_completed_page": 55,
   "last_run": {
     "date": "2026-08-21",
-    "source": "https://www.xindun-power.com/news/54.html",
+    "source": "https://www.xindun-power.com/news/55.html",
     "published": [
       {
-        "title_en": "Xindun invites you to participate in the SNEC 2020 PV POWER EXPO",
-        "title_es": "Xindun te invita a participar en la SNEC 2020 PV POWER EXPO",
-        "url": "https://www.xindunsolar.com/xindun-te-invita-a-participar-en-la-snec-2020-pv-power-expo.html",
+        "title_en": "Pure sine wave inverter or modified wave inverter?",
+        "title_es": "¿Inversor de onda sinusoidal pura o inversor de onda modificada?",
+        "url": "https://www.xindunsolar.com/inversor-de-onda-sinusoidal-pura-o-inversor-de-onda-modificada.html",
         "status": "published"
       },
       {
-        "title_en": "Xindun Power is waiting for you at the Solar PV World Expo 2020 in GZ",
-        "title_es": "Xindun Power le espera en la Solar PV World Expo 2020 en GZ",
-        "url": "https://www.xindunsolar.com/xindun-power-le-espera-en-la-solar-pv-world-expo-2020-en-gz.html",
+        "title_en": "What does a power inverter do, and what can I use one for?",
+        "title_es": "¿Qué hace un inversor de corriente y para qué puedo utilizarlo?",
+        "url": "https://www.xindunsolar.com/que-hace-un-inversor-de-corriente-y-para-que-puedo-utilizarlo.html",
         "status": "published"
       },
       {
-        "title_en": "Xindun Invitation Letter for the Power Equipment Industry Online Expo",
-        "title_es": "Carta de invitación de Xindun para la exposición en línea de la industria de equipos eléctricos",
-        "url": "https://www.xindunsolar.com/carta-de-invitacion-de-xindun-para-la-exposicion-en-linea-de-la-industria-de-equipos-electricos.html",
+        "title_en": "Best Chinese companies selling off-grid solar ac inverter",
+        "title_es": "Las mejores empresas chinas que venden inversores de CA solares fuera de la red",
+        "url": "https://www.xindunsolar.com/las-mejores-empresas-chinas-que-venden-inversores-de-ca-solares-fuera-de-la-red.html",
         "status": "published"
       },
       {
-        "title_en": "Inverter Customized Service",
-        "title_es": "Servicio personalizado de inversores",
-        "url": "https://www.xindunsolar.com/servicio-personalizado-de-inversores.html",
+        "title_en": "How does Xindun sell inverters",
+        "title_es": "¿Cómo vende Xindun inversores?",
+        "url": "https://www.xindunsolar.com/como-vende-xindun-inversores.html",
         "status": "published"
       },
       {
-        "title_en": "Different types of Inverters",
-        "title_es": "Diferentes tipos de inversores",
-        "url": "https://www.xindunsolar.com/diferentes-tipos-de-inversores.html",
+        "title_en": "What does 12v pure sine wave 1500 watt inverter mean?",
+        "title_es": "¿Qué significa inversor de 1500 vatios de onda sinusoidal pura de 12 V?",
+        "url": "https://www.xindunsolar.com/que-significa-inversor-de-1500-vatios-de-onda-sinusoidal-pura-de-12-v.html",
         "status": "published"
       }
     ]
