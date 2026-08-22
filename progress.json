@@ -1,39 +1,39 @@
 {
-  "page": 56,
-  "note": "page 55 completed 2026-08-21; next pending page is 56",
-  "last_completed_page": 55,
+  "page": 57,
+  "note": "page 56 completed 2026-08-22; next pending page is 57",
+  "last_completed_page": 56,
   "last_run": {
-    "date": "2026-08-21",
-    "source": "https://www.xindun-power.com/news/55.html",
+    "date": "2026-08-22",
+    "source": "https://www.xindun-power.com/news/56.html",
     "published": [
       {
-        "title_en": "Pure sine wave inverter or modified wave inverter?",
-        "title_es": "¿Inversor de onda sinusoidal pura o inversor de onda modificada?",
-        "url": "https://www.xindunsolar.com/inversor-de-onda-sinusoidal-pura-o-inversor-de-onda-modificada.html",
+        "title_en": "Install a power inverter in truck",
+        "title_es": "Instalar un inversor de corriente en un camión.",
+        "url": "https://www.xindunsolar.com/instalar-un-inversor-de-corriente-en-un-camion.html",
         "status": "published"
       },
       {
-        "title_en": "What does a power inverter do, and what can I use one for?",
-        "title_es": "¿Qué hace un inversor de corriente y para qué puedo utilizarlo?",
-        "url": "https://www.xindunsolar.com/que-hace-un-inversor-de-corriente-y-para-que-puedo-utilizarlo.html",
+        "title_en": "What is solar hybrid inverter? What are its benefits?",
+        "title_es": "¿Qué es el inversor híbrido solar? ¿Cuáles son sus beneficios?",
+        "url": "https://www.xindunsolar.com/que-es-el-inversor-hibrido-solar-cuales-son-sus-beneficios.html",
         "status": "published"
       },
       {
-        "title_en": "Best Chinese companies selling off-grid solar ac inverter",
-        "title_es": "Las mejores empresas chinas que venden inversores de CA solares fuera de la red",
-        "url": "https://www.xindunsolar.com/las-mejores-empresas-chinas-que-venden-inversores-de-ca-solares-fuera-de-la-red.html",
+        "title_en": "How to calculate the area required for off grid solar power system?",
+        "title_es": "¿Cómo calcular el área requerida para un sistema de energía solar fuera de la red?",
+        "url": "https://www.xindunsolar.com/como-calcular-el-area-requerida-para-un-sistema-de-energia-solar-fuera-de-la-red.html",
         "status": "published"
       },
       {
-        "title_en": "How does Xindun sell inverters",
-        "title_es": "¿Cómo vende Xindun inversores?",
-        "url": "https://www.xindunsolar.com/como-vende-xindun-inversores.html",
+        "title_en": "How to choose OEM power inverter manufacturer?",
+        "title_es": "¿Cómo elegir el fabricante del inversor de potencia OEM?",
+        "url": "https://www.xindunsolar.com/como-elegir-el-fabricante-del-inversor-de-potencia-oem.html",
         "status": "published"
       },
       {
-        "title_en": "What does 12v pure sine wave 1500 watt inverter mean?",
-        "title_es": "¿Qué significa inversor de 1500 vatios de onda sinusoidal pura de 12 V?",
-        "url": "https://www.xindunsolar.com/que-significa-inversor-de-1500-vatios-de-onda-sinusoidal-pura-de-12-v.html",
+        "title_en": "Which solar regulator MPPT or PWM?",
+        "title_es": "¿Qué regulador solar MPPT o PWM?",
+        "url": "https://www.xindunsolar.com/que-regulador-solar-mppt-o-pwm.html",
         "status": "published"
       }
     ]
