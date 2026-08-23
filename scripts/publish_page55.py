@@ -633,8 +633,16 @@ def replace_images_in_html(content_html_es: str, prepared: list[dict], media_lis
     return str(body)
 
 
+def normalize_title(title: str) -> str:
+    """Strip HTML entities and WP brand suffixes before title comparison."""
+    text = re.sub(r"<[^>]+>", "", title or "")
+    text = text.replace("\xa0", " ").replace("–", "-").replace("—", "-")
+    text = re.sub(r"\s*[-|]\s*xindun(?:power)?.*$", "", text, flags=re.I)
+    return clean_spaces(text).lower().strip()
+
+
 def already_published(title_es: str, title_en: str) -> str | None:
-    """Strict duplicate check to avoid false positives on generic words."""
+    """Detect existing Spanish posts by translated title slug and normalized title."""
     s = requests.Session()
     s.headers["User-Agent"] = UA
     stop = {
@@ -687,7 +695,31 @@ def already_published(title_es: str, title_en: str) -> str | None:
             if len(t) > 3 and t not in stop
         }
 
-    for q in {title_es, title_en}:
+    def title_match(query: str, rendered: str) -> bool:
+        ql = normalize_title(query)
+        rt = normalize_title(rendered)
+        if not ql or not rt:
+            return False
+        if rt == ql or rt.rstrip("?") == ql.rstrip("?"):
+            return True
+        q_tok = tokens(query)
+        shared = tokens(rendered) & q_tok
+        return len(q_tok) >= 2 and len(shared) >= max(2, len(q_tok) - 1)
+
+    # Slug lookup is the most reliable signal and avoids WP search misses.
+    if title_es:
+        try:
+            r = s.get(
+                f"{WP}/wp-json/wp/v2/posts",
+                params={"slug": slugify(title_es), "categories": CAT, "per_page": 5, "status": "publish"},
+                timeout=30,
+            )
+            if r.ok and r.json():
+                return r.json()[0].get("link")
+        except Exception:  # noqa: BLE001
+            pass
+
+    for q in (title_es, title_en):
         if not q or len(q.strip()) < 8:
             continue
         try:
@@ -698,23 +730,35 @@ def already_published(title_es: str, title_en: str) -> str | None:
             )
             if not r.ok:
                 continue
-            q_tok = tokens(q)
-            ql = q.lower().strip()
             for post in r.json():
-                rendered = re.sub(r"<[^>]+>", "", (post.get("title") or {}).get("rendered") or "")
-                rt = rendered.lower().strip()
-                if rt == ql or rt.rstrip("?") == ql.rstrip("?"):
+                rendered = (post.get("title") or {}).get("rendered") or ""
+                if title_match(q, rendered):
                     return post.get("link")
-                shared = tokens(rt) & q_tok
-                if len(q_tok) >= 2 and len(shared) >= max(2, len(q_tok) - 1):
-                    if abs(len(rt) - len(ql)) <= 12:
-                        return post.get("link")
         except Exception:  # noqa: BLE001
             continue
     return None
 
 
+def page_already_completed(page_num: int) -> bool:
+    progress_path = REPO / "progress.json"
+    if not progress_path.exists():
+        return False
+    try:
+        progress = json.loads(progress_path.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return False
+    return int(progress.get("last_completed_page") or 0) >= page_num
+
+
 def main() -> None:
+    if page_already_completed(PAGE_NUM) and os.environ.get("FORCE_PUBLISH") != "1":
+        print(
+            f"[skip] page {PAGE_NUM} already completed per progress.json "
+            f"(set FORCE_PUBLISH=1 to override)",
+            flush=True,
+        )
+        return
+
     wp = WPClient()
     wp.login()
 
