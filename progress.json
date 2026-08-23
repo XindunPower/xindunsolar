@@ -1,39 +1,39 @@
 {
-  "page": 59,
-  "note": "page 58 completed 2026-08-23; next pending page is 59",
-  "last_completed_page": 58,
+  "page": 60,
+  "note": "page 59 completed 2026-08-23; next pending page is 60",
+  "last_completed_page": 59,
   "last_run": {
     "date": "2026-08-23",
-    "source": "https://www.xindun-power.com/news/58.html",
+    "source": "https://www.xindun-power.com/news/59.html",
     "published": [
       {
-        "title_en": "What is the best power inverter for a semi truck?",
-        "title_es": "¿Cuál es el mejor inversor de corriente para un semirremolque?",
-        "url": "https://www.xindunsolar.com/cual-es-el-mejor-inversor-de-corriente-para-un-semirremolque.html",
+        "title_en": "How to convert 12V DC to 220V AC?",
+        "title_es": "¿Cómo convertir 12V CC a 220V CA?",
+        "url": "https://www.xindunsolar.com/como-convertir-12v-cc-a-220v-ca.html",
         "status": "published"
       },
       {
-        "title_en": "How to remotely monitor the inverter?",
-        "title_es": "¿Cómo monitorear remotamente el inversor?",
-        "url": "https://www.xindunsolar.com/como-monitorear-remotamente-el-inversor.html",
+        "title_en": "What will a 3000 watt power inverter charger run?",
+        "title_es": "¿Qué funcionará con un cargador inversor de corriente de 3000 vatios?",
+        "url": "https://www.xindunsolar.com/que-funcionara-con-un-cargador-inversor-de-corriente-de-3000-vatios.html",
         "status": "published"
       },
       {
-        "title_en": "What is an uninterruptible power supply?",
-        "title_es": "¿Qué es un sistema de alimentación ininterrumpida?",
-        "url": "https://www.xindunsolar.com/que-es-un-sistema-de-alimentacion-ininterrumpida.html",
+        "title_en": "Why I suggest you choose pure sine wave inverter",
+        "title_es": "¿Por qué te sugiero que elijas un inversor de onda sinusoidal pura?",
+        "url": "https://www.xindunsolar.com/por-que-te-sugiero-que-elijas-un-inversor-de-onda-sinusoidal-pura.html",
         "status": "published"
       },
       {
-        "title_en": "How to select home inverter?",
-        "title_es": "¿Cómo seleccionar el inversor doméstico?",
-        "url": "https://www.xindunsolar.com/como-seleccionar-el-inversor-domestico.html",
+        "title_en": "Can be a high frequency inverter connected with lithium battery or gel battery?",
+        "title_es": "¿Se puede conectar un inversor de alta frecuencia con una batería de litio o una batería de gel?",
+        "url": "https://www.xindunsolar.com/se-puede-conectar-un-inversor-de-alta-frecuencia-con-una-bateria-de-litio-o-una-bateria-de-gel.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose inverter for solar system?",
-        "title_es": "¿Cómo elegir inversor para sistema solar?",
-        "url": "https://www.xindunsolar.com/como-elegir-inversor-para-sistema-solar.html",
+        "title_en": "How to calculate the power requirements for the inverter?",
+        "title_es": "¿Cómo calcular los requisitos de energía para el inversor?",
+        "url": "https://www.xindunsolar.com/como-calcular-los-requisitos-de-energia-para-el-inversor.html",
         "status": "published"
       }
     ]
