@@ -1,39 +1,39 @@
 {
-  "page": 57,
-  "note": "page 56 completed 2026-08-22; next pending page is 57",
-  "last_completed_page": 56,
+  "page": 58,
+  "note": "page 57 completed 2026-08-23; next pending page is 58",
+  "last_completed_page": 57,
   "last_run": {
-    "date": "2026-08-22",
-    "source": "https://www.xindun-power.com/news/56.html",
+    "date": "2026-08-23",
+    "source": "https://www.xindun-power.com/news/57.html",
     "published": [
       {
-        "title_en": "Install a power inverter in truck",
-        "title_es": "Instalar un inversor de corriente en un camión.",
-        "url": "https://www.xindunsolar.com/instalar-un-inversor-de-corriente-en-un-camion.html",
+        "title_en": "Xindun - A leading Chinese specialist for inverter and solar system",
+        "title_es": "Xindun: un especialista chino líder en inversores y sistemas solares",
+        "url": "https://www.xindunsolar.com/xindun-un-especialista-chino-lider-en-inversores-y-sistemas-solares.html",
         "status": "published"
       },
       {
-        "title_en": "What is solar hybrid inverter? What are its benefits?",
-        "title_es": "¿Qué es el inversor híbrido solar? ¿Cuáles son sus beneficios?",
-        "url": "https://www.xindunsolar.com/que-es-el-inversor-hibrido-solar-cuales-son-sus-beneficios.html",
+        "title_en": "Solar hybrid inverter vs Normal inverter which is better?",
+        "title_es": "Inversor híbrido solar vs inversor normal ¿cuál es mejor?",
+        "url": "https://www.xindunsolar.com/inversor-hibrido-solar-vs-inversor-normal-cual-es-mejor.html",
         "status": "published"
       },
       {
-        "title_en": "How to calculate the area required for off grid solar power system?",
-        "title_es": "¿Cómo calcular el área requerida para un sistema de energía solar fuera de la red?",
-        "url": "https://www.xindunsolar.com/como-calcular-el-area-requerida-para-un-sistema-de-energia-solar-fuera-de-la-red.html",
+        "title_en": "Are solar generators really useful?",
+        "title_es": "¿Son realmente útiles los generadores solares?",
+        "url": "https://www.xindunsolar.com/son-realmente-utiles-los-generadores-solares.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose OEM power inverter manufacturer?",
-        "title_es": "¿Cómo elegir el fabricante del inversor de potencia OEM?",
-        "url": "https://www.xindunsolar.com/como-elegir-el-fabricante-del-inversor-de-potencia-oem.html",
+        "title_en": "Difference between pure sine wave and modified sine wave.",
+        "title_es": "Diferencia entre onda sinusoidal pura y onda sinusoidal modificada.",
+        "url": "https://www.xindunsolar.com/diferencia-entre-onda-sinusoidal-pura-y-onda-sinusoidal-modificada.html",
         "status": "published"
       },
       {
-        "title_en": "Which solar regulator MPPT or PWM?",
-        "title_es": "¿Qué regulador solar MPPT o PWM?",
-        "url": "https://www.xindunsolar.com/que-regulador-solar-mppt-o-pwm.html",
+        "title_en": "What is the best 500 watts solar generator and what can a 500 watts solar generator power?",
+        "title_es": "¿Cuál es el mejor generador solar de 500 vatios y qué puede alimentar un generador solar de 500 vatios?",
+        "url": "https://www.xindunsolar.com/cual-es-el-mejor-generador-solar-de-500-vatios-y-que-puede-alimentar-un-generador-solar-de-500-vatios.html",
         "status": "published"
       }
     ]
