@@ -1,39 +1,39 @@
 {
-  "page": 61,
-  "note": "page 60 completed 2026-08-23; next pending page is 61",
-  "last_completed_page": 60,
+  "page": 62,
+  "note": "page 61 completed 2026-08-23; next pending page is 62",
+  "last_completed_page": 61,
   "last_run": {
     "date": "2026-08-23",
-    "source": "https://www.xindun-power.com/news/60.html",
+    "source": "https://www.xindun-power.com/news/61.html",
     "published": [
       {
-        "title_en": "Precautions and Maintenance of Solar Inverter Installation",
-        "title_es": "Precauciones y mantenimiento de la instalación del inversor solar",
-        "url": "https://www.xindunsolar.com/precauciones-y-mantenimiento-de-la-instalacion-del-inversor-solar.html",
+        "title_en": "Difference between Low frequency converter and High frequency converter",
+        "title_es": "Diferencia entre convertidor de baja frecuencia y convertidor de alta frecuencia",
+        "url": "https://www.xindunsolar.com/diferencia-entre-convertidor-de-baja-frecuencia-y-convertidor-de-alta-frecuencia.html",
         "status": "published"
       },
       {
-        "title_en": "Four Ways of Inverter Battery Charging",
-        "title_es": "Cuatro formas de cargar la batería del inversor",
-        "url": "https://www.xindunsolar.com/cuatro-formas-de-cargar-la-bateria-del-inversor.html",
+        "title_en": "Buy a pure sine wave inverter solar charger online",
+        "title_es": "Comprar en línea un cargador solar con inversor de onda sinusoidal pura",
+        "url": "https://www.xindunsolar.com/comprar-en-linea-un-cargador-solar-con-inversor-de-onda-sinusoidal-pura.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose the working modes of solar inverter?",
-        "title_es": "¿Cómo elegir los modos de trabajo del inversor solar?",
-        "url": "https://www.xindunsolar.com/como-elegir-los-modos-de-trabajo-del-inversor-solar.html",
+        "title_en": "Toroidal transformer or EI square transformer? Which one is better for inverter",
+        "title_es": "¿Transformador toroidal o transformador cuadrado EI? ¿Cuál es mejor para el inversor?",
+        "url": "https://www.xindunsolar.com/transformador-toroidal-o-transformador-cuadrado-ei-cual-es-mejor-para-el-inversor.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose your solar inverters?",
-        "title_es": "¿Cómo elegir tus inversores solares?",
-        "url": "https://www.xindunsolar.com/como-elegir-tus-inversores-solares.html",
+        "title_en": "What is the advantages of solar inverter battery charging and discharging voltage can be adjusted?",
+        "title_es": "¿Cuáles son las ventajas de que se pueda ajustar el voltaje de carga y descarga de la batería del inversor solar?",
+        "url": "https://www.xindunsolar.com/cuales-son-las-ventajas-de-que-se-pueda-ajustar-el-voltaje-de-carga-y-descarga-de-la-bateria-del-inversor-solar.html",
         "status": "published"
       },
       {
-        "title_en": "What is off grid solar inverter?",
-        "title_es": "¿Qué es el inversor solar fuera de la red?",
-        "url": "https://www.xindunsolar.com/que-es-el-inversor-solar-fuera-de-la-red.html",
+        "title_en": "What is on off grid inverter?",
+        "title_es": "¿Qué es un inversor on-grid/off-grid?",
+        "url": "https://www.xindunsolar.com/que-es-un-inversor-on-grid-off-grid.html",
         "status": "published"
       }
     ]
