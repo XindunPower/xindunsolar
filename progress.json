@@ -1,39 +1,39 @@
 {
-  "page": 60,
-  "note": "page 59 completed 2026-08-23; next pending page is 60",
-  "last_completed_page": 59,
+  "page": 61,
+  "note": "page 60 completed 2026-08-23; next pending page is 61",
+  "last_completed_page": 60,
   "last_run": {
     "date": "2026-08-23",
-    "source": "https://www.xindun-power.com/news/59.html",
+    "source": "https://www.xindun-power.com/news/60.html",
     "published": [
       {
-        "title_en": "How to convert 12V DC to 220V AC?",
-        "title_es": "¿Cómo convertir 12V CC a 220V CA?",
-        "url": "https://www.xindunsolar.com/como-convertir-12v-cc-a-220v-ca.html",
+        "title_en": "Precautions and Maintenance of Solar Inverter Installation",
+        "title_es": "Precauciones y mantenimiento de la instalación del inversor solar",
+        "url": "https://www.xindunsolar.com/precauciones-y-mantenimiento-de-la-instalacion-del-inversor-solar.html",
         "status": "published"
       },
       {
-        "title_en": "What will a 3000 watt power inverter charger run?",
-        "title_es": "¿Qué funcionará con un cargador inversor de corriente de 3000 vatios?",
-        "url": "https://www.xindunsolar.com/que-funcionara-con-un-cargador-inversor-de-corriente-de-3000-vatios.html",
+        "title_en": "Four Ways of Inverter Battery Charging",
+        "title_es": "Cuatro formas de cargar la batería del inversor",
+        "url": "https://www.xindunsolar.com/cuatro-formas-de-cargar-la-bateria-del-inversor.html",
         "status": "published"
       },
       {
-        "title_en": "Why I suggest you choose pure sine wave inverter",
-        "title_es": "¿Por qué te sugiero que elijas un inversor de onda sinusoidal pura?",
-        "url": "https://www.xindunsolar.com/por-que-te-sugiero-que-elijas-un-inversor-de-onda-sinusoidal-pura.html",
+        "title_en": "How to choose the working modes of solar inverter?",
+        "title_es": "¿Cómo elegir los modos de trabajo del inversor solar?",
+        "url": "https://www.xindunsolar.com/como-elegir-los-modos-de-trabajo-del-inversor-solar.html",
         "status": "published"
       },
       {
-        "title_en": "Can be a high frequency inverter connected with lithium battery or gel battery?",
-        "title_es": "¿Se puede conectar un inversor de alta frecuencia con una batería de litio o una batería de gel?",
-        "url": "https://www.xindunsolar.com/se-puede-conectar-un-inversor-de-alta-frecuencia-con-una-bateria-de-litio-o-una-bateria-de-gel.html",
+        "title_en": "How to choose your solar inverters?",
+        "title_es": "¿Cómo elegir tus inversores solares?",
+        "url": "https://www.xindunsolar.com/como-elegir-tus-inversores-solares.html",
         "status": "published"
       },
       {
-        "title_en": "How to calculate the power requirements for the inverter?",
-        "title_es": "¿Cómo calcular los requisitos de energía para el inversor?",
-        "url": "https://www.xindunsolar.com/como-calcular-los-requisitos-de-energia-para-el-inversor.html",
+        "title_en": "What is off grid solar inverter?",
+        "title_es": "¿Qué es el inversor solar fuera de la red?",
+        "url": "https://www.xindunsolar.com/que-es-el-inversor-solar-fuera-de-la-red.html",
         "status": "published"
       }
     ]
