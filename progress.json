@@ -1,40 +1,40 @@
 {
-  "page": 64,
-  "note": "page 63 completed 2026-08-25; next pending page is 64",
-  "last_completed_page": 63,
+  "page": 65,
+  "note": "page 64 completed 2026-08-25; next pending page is 65",
+  "last_completed_page": 64,
   "last_run": {
     "date": "2026-08-25",
-    "source": "https://www.xindun-power.com/news/63.html",
+    "source": "https://www.xindun-power.com/news/64.html",
     "published": [
       {
-        "title_en": "Xindun house power inverter charger 12v to 220v",
-        "title_es": "Cargador inversor de energía doméstica Xindun de 12 V a 220 V",
-        "url": "https://www.xindunsolar.com/cargador-inversor-de-energia-domestica-xindun-de-12-v-a-220-v.html",
+        "title_en": "what can a off grid solar power inverter do?",
+        "title_es": "¿Qué puede hacer un inversor de energía solar fuera de la red?",
+        "url": "https://www.xindunsolar.com/que-puede-hacer-un-inversor-de-energia-solar-fuera-de-la-red.html",
         "status": "published"
       },
       {
-        "title_en": "Photovoltaic inverter OEM - Xindun Power Technology Co., Ltd.",
-        "title_es": "OEM de inversor fotovoltaico - Xindun Power Technology Co., Ltd.",
-        "url": "https://www.xindunsolar.com/oem-de-inversor-fotovoltaico-xindun-power-technology-co-ltd.html",
+        "title_en": "How long can a fully charged 12 volt battery and 12 volt inverter last?",
+        "title_es": "¿Cuánto tiempo pueden durar una batería de 12 voltios y un inversor de 12 voltios completamente cargados?",
+        "url": "https://www.xindunsolar.com/cuanto-tiempo-pueden-durar-una-bateria-de-12-voltios-y-un-inversor-de-12-voltios-completamente-cargados.html",
         "status": "published"
       },
       {
-        "title_en": "How about pure sine wave inverters sold online",
-        "title_es": "¿Qué tal los inversores de onda sinusoidal pura vendidos en línea?",
-        "url": "https://www.xindunsolar.com/que-tal-los-inversores-de-onda-sinusoidal-pura-vendidos-en-linea.html",
+        "title_en": "What do DC inverter and AC inverter mean?",
+        "title_es": "¿Qué significan inversor de CC e inversor de CA?",
+        "url": "https://www.xindunsolar.com/que-significan-inversor-de-cc-e-inversor-de-ca.html",
         "status": "published"
       },
       {
-        "title_en": "How much power inverter can drive the induction cooker",
-        "title_es": "¿Cuánta potencia necesita un inversor para accionar la cocina de inducción?",
-        "url": "https://www.xindunsolar.com/cuanta-potencia-necesita-un-inversor-para-accionar-la-cocina-de-induccion.html",
+        "title_en": "Is mppt solar controller really better than pwm solar controller?",
+        "title_es": "¿Es el controlador solar MPPT realmente mejor que el controlador solar PWM?",
+        "url": "https://www.xindunsolar.com/es-el-controlador-solar-mppt-realmente-mejor-que-el-controlador-solar-pwm.html",
         "status": "published"
       },
       {
-        "title_en": "Can I Use Solar Inverter Without Battery?",
-        "title_es": "¿Puedo usar un inversor solar sin batería?",
-        "url": "https://www.xindunsolar.com/puedo-utilizar-un-panel-solar-y-un-inversor-sin-bateria.html",
-        "status": "already_published"
+        "title_en": "What does the peak power of the power inverter mean and what is the difference between it and the rated power",
+        "title_es": "¿Qué significa la potencia pico del inversor de corriente y cuál es la diferencia entre ella y la potencia nominal?",
+        "url": "https://www.xindunsolar.com/que-significa-la-potencia-pico-del-inversor-de-corriente-y-cual-es-la-diferencia-entre-ella-y-la-potencia-nominal.html",
+        "status": "published"
       }
     ]
   }
