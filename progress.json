@@ -1,39 +1,39 @@
 {
-  "page": 65,
-  "note": "page 64 completed 2026-08-25; next pending page is 65",
-  "last_completed_page": 64,
+  "page": 66,
+  "note": "page 65 completed 2026-08-26; next pending page is 66",
+  "last_completed_page": 65,
   "last_run": {
-    "date": "2026-08-25",
-    "source": "https://www.xindun-power.com/news/64.html",
+    "date": "2026-08-26",
+    "source": "https://www.xindun-power.com/news/65.html",
     "published": [
       {
-        "title_en": "what can a off grid solar power inverter do?",
-        "title_es": "¿Qué puede hacer un inversor de energía solar fuera de la red?",
-        "url": "https://www.xindunsolar.com/que-puede-hacer-un-inversor-de-energia-solar-fuera-de-la-red.html",
+        "title_en": "How much is the 380V AC output current of a 3 phase 50kw photovoltaic inverter",
+        "title_es": "¿Cuál es la corriente de salida de 380 V CA de un inversor fotovoltaico trifásico de 50 kW?",
+        "url": "https://www.xindunsolar.com/cual-es-la-corriente-de-salida-de-380-v-ca-de-un-inversor-fotovoltaico-trifasico-de-50-kw.html",
         "status": "published"
       },
       {
-        "title_en": "How long can a fully charged 12 volt battery and 12 volt inverter last?",
-        "title_es": "¿Cuánto tiempo pueden durar una batería de 12 voltios y un inversor de 12 voltios completamente cargados?",
-        "url": "https://www.xindunsolar.com/cuanto-tiempo-pueden-durar-una-bateria-de-12-voltios-y-un-inversor-de-12-voltios-completamente-cargados.html",
+        "title_en": "Is the home inverter single-phase or three-phase",
+        "title_es": "¿El inversor doméstico es monofásico o trifásico?",
+        "url": "https://www.xindunsolar.com/el-inversor-domestico-es-monofasico-o-trifasico.html",
         "status": "published"
       },
       {
-        "title_en": "What do DC inverter and AC inverter mean?",
-        "title_es": "¿Qué significan inversor de CC e inversor de CA?",
-        "url": "https://www.xindunsolar.com/que-significan-inversor-de-cc-e-inversor-de-ca.html",
+        "title_en": "How long can a 12V 75A battery with a 3000W pure sine wave power inverter drive a 40W refrigerator?",
+        "title_es": "¿Cuánto tiempo puede una batería de 12 V 75 A con un inversor de onda sinusoidal pura de 3000 W alimentar un refrigerador de 40 W?",
+        "url": "https://www.xindunsolar.com/cuanto-tiempo-puede-una-bateria-de-12-v-75-a-con-un-inversor-de-onda-sinusoidal-pura-de-3000-w-alimentar-un-refrigerador-de-40-w.html",
         "status": "published"
       },
       {
-        "title_en": "Is mppt solar controller really better than pwm solar controller?",
-        "title_es": "¿Es el controlador solar MPPT realmente mejor que el controlador solar PWM?",
-        "url": "https://www.xindunsolar.com/es-el-controlador-solar-mppt-realmente-mejor-que-el-controlador-solar-pwm.html",
+        "title_en": "What is the difference between a low frequency inverter and a pure sine wave inverter",
+        "title_es": "¿Cuál es la diferencia entre un inversor de baja frecuencia y un inversor de onda sinusoidal pura?",
+        "url": "https://www.xindunsolar.com/cual-es-la-diferencia-entre-un-inversor-de-baja-frecuencia-y-un-inversor-de-onda-sinusoidal-pura.html",
         "status": "published"
       },
       {
-        "title_en": "What does the peak power of the power inverter mean and what is the difference between it and the rated power",
-        "title_es": "¿Qué significa la potencia pico del inversor de corriente y cuál es la diferencia entre ella y la potencia nominal?",
-        "url": "https://www.xindunsolar.com/que-significa-la-potencia-pico-del-inversor-de-corriente-y-cual-es-la-diferencia-entre-ella-y-la-potencia-nominal.html",
+        "title_en": "Can the inverter convert AC to DC?",
+        "title_es": "¿Puede el inversor convertir CA a CC?",
+        "url": "https://www.xindunsolar.com/puede-el-inversor-convertir-ca-a-cc.html",
         "status": "published"
       }
     ]
