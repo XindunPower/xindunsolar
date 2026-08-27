@@ -1,39 +1,39 @@
 {
-  "page": 66,
-  "note": "page 65 completed 2026-08-26; next pending page is 66",
-  "last_completed_page": 65,
+  "page": 67,
+  "note": "page 66 completed 2026-08-27; next pending page is 67",
+  "last_completed_page": 66,
   "last_run": {
-    "date": "2026-08-26",
-    "source": "https://www.xindun-power.com/news/65.html",
+    "date": "2026-08-27",
+    "source": "https://www.xindun-power.com/news/66.html",
     "published": [
       {
-        "title_en": "How much is the 380V AC output current of a 3 phase 50kw photovoltaic inverter",
-        "title_es": "¿Cuál es la corriente de salida de 380 V CA de un inversor fotovoltaico trifásico de 50 kW?",
-        "url": "https://www.xindunsolar.com/cual-es-la-corriente-de-salida-de-380-v-ca-de-un-inversor-fotovoltaico-trifasico-de-50-kw.html",
+        "title_en": "Can the inverter power a house?",
+        "title_es": "¿Puede el inversor alimentar una casa?",
+        "url": "https://www.xindunsolar.com/puede-el-inversor-alimentar-una-casa.html",
         "status": "published"
       },
       {
-        "title_en": "Is the home inverter single-phase or three-phase",
-        "title_es": "¿El inversor doméstico es monofásico o trifásico?",
-        "url": "https://www.xindunsolar.com/el-inversor-domestico-es-monofasico-o-trifasico.html",
+        "title_en": "Is the 1000w power inverter in car dangerous?",
+        "title_es": "¿Es peligroso el inversor de corriente de 1000 W en el coche?",
+        "url": "https://www.xindunsolar.com/es-peligroso-el-inversor-de-corriente-de-1000-w-en-el-coche.html",
         "status": "published"
       },
       {
-        "title_en": "How long can a 12V 75A battery with a 3000W pure sine wave power inverter drive a 40W refrigerator?",
-        "title_es": "¿Cuánto tiempo puede una batería de 12 V 75 A con un inversor de onda sinusoidal pura de 3000 W alimentar un refrigerador de 40 W?",
-        "url": "https://www.xindunsolar.com/cuanto-tiempo-puede-una-bateria-de-12-v-75-a-con-un-inversor-de-onda-sinusoidal-pura-de-3000-w-alimentar-un-refrigerador-de-40-w.html",
+        "title_en": "Can a DC to AC high frequency inverter drive a washing machine?",
+        "title_es": "¿Puede un inversor de alta frecuencia de CC a CA accionar una lavadora?",
+        "url": "https://www.xindunsolar.com/puede-un-inversor-de-alta-frecuencia-de-cc-a-ca-accionar-una-lavadora.html",
         "status": "published"
       },
       {
-        "title_en": "What is the difference between a low frequency inverter and a pure sine wave inverter",
-        "title_es": "¿Cuál es la diferencia entre un inversor de baja frecuencia y un inversor de onda sinusoidal pura?",
-        "url": "https://www.xindunsolar.com/cual-es-la-diferencia-entre-un-inversor-de-baja-frecuencia-y-un-inversor-de-onda-sinusoidal-pura.html",
+        "title_en": "How about 220v to 380v three phase inverter",
+        "title_es": "¿Qué tal un inversor trifásico de 220 V a 380 V?",
+        "url": "https://www.xindunsolar.com/que-tal-un-inversor-trifasico-de-220-v-a-380-v.html",
         "status": "published"
       },
       {
-        "title_en": "Can the inverter convert AC to DC?",
-        "title_es": "¿Puede el inversor convertir CA a CC?",
-        "url": "https://www.xindunsolar.com/puede-el-inversor-convertir-ca-a-cc.html",
+        "title_en": "DC 48v to AC 380v 3 phase inverter and 3 phase solar hybrid inverter",
+        "title_es": "Inversor trifásico de CC 48 V a CA 380 V e inversor híbrido solar trifásico",
+        "url": "https://www.xindunsolar.com/inversor-trifasico-de-cc-48-v-a-ca-380-v-e-inversor-hibrido-solar-trifasico.html",
         "status": "published"
       }
     ]
