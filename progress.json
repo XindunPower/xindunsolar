@@ -1,39 +1,39 @@
 {
-  "page": 69,
-  "note": "page 68 completed 2026-08-29; next pending page is 69",
-  "last_completed_page": 68,
+  "page": 70,
+  "note": "page 69 completed 2026-08-30; next pending page is 70",
+  "last_completed_page": 69,
   "last_run": {
-    "date": "2026-08-29",
-    "source": "https://www.xindun-power.com/news/68.html",
+    "date": "2026-08-30",
+    "source": "https://www.xindun-power.com/news/69.html",
     "published": [
       {
-        "title_en": "Does it matter if car's 12V battery is connected to 2000w solar power inverter?",
-        "title_es": "¿Importa si la batería de 12 V del automóvil está conectada a un inversor solar de 2000 W?",
-        "url": "https://www.xindunsolar.com/importa-si-la-bateria-de-12-v-del-automovil-esta-conectada-a-un-inversor-solar-de-2000-w.html",
+        "title_en": "Which appliances need pure sine wave output solar inverter charger",
+        "title_es": "¿Qué electrodomésticos necesitan un cargador de inversor solar de onda sinusoidal pura?",
+        "url": "https://www.xindunsolar.com/que-electrodomesticos-necesitan-un-cargador-de-inversor-solar-de-onda-sinusoidal-pura.html",
         "status": "published"
       },
       {
-        "title_en": "Can an off grid solar inverter charger replace the solar controller?",
-        "title_es": "¿Puede un cargador de inversor solar off-grid reemplazar al controlador solar?",
-        "url": "https://www.xindunsolar.com/puede-un-cargador-de-inversor-solar-off-grid-reemplazar-al-controlador-solar.html",
+        "title_en": "Solution to poor load capacity of inverter",
+        "title_es": "Solución a la baja capacidad de carga del inversor",
+        "url": "https://www.xindunsolar.com/solucion-a-la-baja-capacidad-de-carga-del-inversor.html",
         "status": "published"
       },
       {
-        "title_en": "Xindun power assists China's Shanxi Provincial Government to build a new 5G+ smart tourism business in Dazhai",
-        "title_es": "Xindun Power ayuda al Gobierno Provincial de Shanxi de China a construir un nuevo negocio de turismo inteligente 5G+ en Dazhai",
-        "url": "https://www.xindunsolar.com/xindun-power-ayuda-al-gobierno-provincial-de-shanxi-de-china-a-construir-un-nuevo-negocio-de-turismo-inteligente-5g-en-dazhai.html",
+        "title_en": "What to do if the inverter power supply shows failure",
+        "title_es": "Qué hacer si la fuente de alimentación del inversor muestra falla",
+        "url": "https://www.xindunsolar.com/que-hacer-si-la-fuente-de-alimentacion-del-inversor-muestra-falla.html",
         "status": "published"
       },
       {
-        "title_en": "Which power inverter kit is better",
-        "title_es": "¿Qué kit de inversor de potencia es mejor?",
-        "url": "https://www.xindunsolar.com/que-kit-de-inversor-de-potencia-es-mejor.html",
+        "title_en": "Inverter Choosing Guide",
+        "title_es": "Guía para elegir un inversor",
+        "url": "https://www.xindunsolar.com/inverter-choosing-guide.html",
         "status": "published"
       },
       {
-        "title_en": "How to match the photovoltaic power inverter and photovoltaic power generation system?",
-        "title_es": "¿Cómo emparejar el inversor de energía fotovoltaica y el sistema de generación de energía fotovoltaica?",
-        "url": "https://www.xindunsolar.com/como-emparejar-el-inversor-de-energia-fotovoltaica-y-el-sistema-de-generacion-de-energia-fotovoltaica.html",
+        "title_en": "what is an inverter?",
+        "title_es": "¿Qué es un inversor?",
+        "url": "https://www.xindunsolar.com/que-es-un-inversor.html",
         "status": "published"
       }
     ]
