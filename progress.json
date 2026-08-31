@@ -1,39 +1,39 @@
 {
-  "page": 70,
-  "note": "page 69 completed 2026-08-30; next pending page is 70",
-  "last_completed_page": 69,
+  "page": 71,
+  "note": "page 70 completed 2026-08-31; next pending page is 71",
+  "last_completed_page": 70,
   "last_run": {
-    "date": "2026-08-30",
-    "source": "https://www.xindun-power.com/news/69.html",
+    "date": "2026-08-31",
+    "source": "https://www.xindun-power.com/news/70.html",
     "published": [
       {
-        "title_en": "Which appliances need pure sine wave output solar inverter charger",
-        "title_es": "¿Qué electrodomésticos necesitan un cargador de inversor solar de onda sinusoidal pura?",
-        "url": "https://www.xindunsolar.com/que-electrodomesticos-necesitan-un-cargador-de-inversor-solar-de-onda-sinusoidal-pura.html",
+        "title_en": "Power inverter's technical performance (1)",
+        "title_es": "Rendimiento técnico del inversor de potencia (1)",
+        "url": "https://www.xindunsolar.com/rendimiento-tecnico-del-inversor-de-potencia-1.html",
         "status": "published"
       },
       {
-        "title_en": "Solution to poor load capacity of inverter",
-        "title_es": "Solución a la baja capacidad de carga del inversor",
-        "url": "https://www.xindunsolar.com/solucion-a-la-baja-capacidad-de-carga-del-inversor.html",
+        "title_en": "Solar power inverter charger installation wiring diagram",
+        "title_es": "Diagrama de cableado de instalación del cargador de inversor solar",
+        "url": "https://www.xindunsolar.com/diagrama-de-cableado-de-instalacion-del-cargador-de-inversor-solar.html",
         "status": "published"
       },
       {
-        "title_en": "What to do if the inverter power supply shows failure",
-        "title_es": "Qué hacer si la fuente de alimentación del inversor muestra falla",
-        "url": "https://www.xindunsolar.com/que-hacer-si-la-fuente-de-alimentacion-del-inversor-muestra-falla.html",
+        "title_en": "Hybrid inverter for rv and power car inverter",
+        "title_es": "Inversor híbrido para RV e inversor de potencia para automóvil",
+        "url": "https://www.xindunsolar.com/inversor-hibrido-para-rv-e-inversor-de-potencia-para-automovil.html",
         "status": "published"
       },
       {
-        "title_en": "Inverter Choosing Guide",
-        "title_es": "Guía para elegir un inversor",
-        "url": "https://www.xindunsolar.com/inverter-choosing-guide.html",
+        "title_en": "How do I connect two or more off grid inverter batteries",
+        "title_es": "¿Cómo conectar dos o más baterías de inversor off-grid?",
+        "url": "https://www.xindunsolar.com/como-conectar-dos-o-mas-baterias-de-inversor-off-grid.html",
         "status": "published"
       },
       {
-        "title_en": "what is an inverter?",
-        "title_es": "¿Qué es un inversor?",
-        "url": "https://www.xindunsolar.com/que-es-un-inversor.html",
+        "title_en": "How large is the battery for the 3000w inverter charger, and the total number of inverters and batteries",
+        "title_es": "¿Qué tamaño de batería necesita el cargador de inversor de 3000 W y cuántos inversores y baterías se necesitan?",
+        "url": "https://www.xindunsolar.com/que-tamano-de-bateria-necesita-el-cargador-de-inversor-de-3000-w-y-cuantos-inversores-y-baterias-se-necesitan.html",
         "status": "published"
       }
     ]
