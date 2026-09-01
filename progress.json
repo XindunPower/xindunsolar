@@ -1,39 +1,39 @@
 {
-  "page": 71,
-  "note": "page 70 completed 2026-08-31; next pending page is 71",
-  "last_completed_page": 70,
+  "page": 72,
+  "note": "page 71 completed 2026-09-01; next pending page is 72",
+  "last_completed_page": 71,
   "last_run": {
-    "date": "2026-08-31",
-    "source": "https://www.xindun-power.com/news/70.html",
+    "date": "2026-09-01",
+    "source": "https://www.xindun-power.com/news/71.html",
     "published": [
       {
-        "title_en": "Power inverter's technical performance (1)",
-        "title_es": "Rendimiento técnico del inversor de potencia (1)",
-        "url": "https://www.xindunsolar.com/rendimiento-tecnico-del-inversor-de-potencia-1.html",
+        "title_en": "A pure sine wave solar inverter charger how does it work",
+        "title_es": "¿Cómo funciona un cargador de inversor solar de onda sinusoidal pura?",
+        "url": "https://www.xindunsolar.com/como-funciona-un-cargador-de-inversor-solar-de-onda-sinusoidal-pura.html",
         "status": "published"
       },
       {
-        "title_en": "Solar power inverter charger installation wiring diagram",
-        "title_es": "Diagrama de cableado de instalación del cargador de inversor solar",
-        "url": "https://www.xindunsolar.com/diagrama-de-cableado-de-instalacion-del-cargador-de-inversor-solar.html",
+        "title_en": "Use of off grid power house inverter",
+        "title_es": "Uso del inversor off-grid para vivienda",
+        "url": "https://www.xindunsolar.com/uso-del-inversor-off-grid-para-vivienda.html",
         "status": "published"
       },
       {
-        "title_en": "Hybrid inverter for rv and power car inverter",
-        "title_es": "Inversor híbrido para RV e inversor de potencia para automóvil",
-        "url": "https://www.xindunsolar.com/inversor-hibrido-para-rv-e-inversor-de-potencia-para-automovil.html",
+        "title_en": "Pwm and mppt solar controller selection",
+        "title_es": "Selección de controlador solar PWM y MPPT",
+        "url": "https://www.xindunsolar.com/seleccion-de-controlador-solar-pwm-y-mppt.html",
         "status": "published"
       },
       {
-        "title_en": "How do I connect two or more off grid inverter batteries",
-        "title_es": "¿Cómo conectar dos o más baterías de inversor off-grid?",
-        "url": "https://www.xindunsolar.com/como-conectar-dos-o-mas-baterias-de-inversor-off-grid.html",
+        "title_en": "How much AH battery is needed for the inverter",
+        "title_es": "¿Cuántos Ah de batería se necesitan para el inversor?",
+        "url": "https://www.xindunsolar.com/cuantos-ah-de-bateria-se-necesitan-para-el-inversor.html",
         "status": "published"
       },
       {
-        "title_en": "How large is the battery for the 3000w inverter charger, and the total number of inverters and batteries",
-        "title_es": "¿Qué tamaño de batería necesita el cargador de inversor de 3000 W y cuántos inversores y baterías se necesitan?",
-        "url": "https://www.xindunsolar.com/que-tamano-de-bateria-necesita-el-cargador-de-inversor-de-3000-w-y-cuantos-inversores-y-baterias-se-necesitan.html",
+        "title_en": "Off grid 100kw inverter parameters",
+        "title_es": "Parámetros del inversor off-grid de 100 kW",
+        "url": "https://www.xindunsolar.com/parametros-del-inversor-off-grid-de-100-kw.html",
         "status": "published"
       }
     ]
