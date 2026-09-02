@@ -1,39 +1,39 @@
 {
-  "page": 72,
-  "note": "page 71 completed 2026-09-01; next pending page is 72",
-  "last_completed_page": 71,
+  "page": 73,
+  "note": "page 72 completed 2026-09-02; next pending page is 73",
+  "last_completed_page": 72,
   "last_run": {
-    "date": "2026-09-01",
-    "source": "https://www.xindun-power.com/news/71.html",
+    "date": "2026-09-02",
+    "source": "https://www.xindun-power.com/news/72.html",
     "published": [
       {
-        "title_en": "A pure sine wave solar inverter charger how does it work",
-        "title_es": "¿Cómo funciona un cargador de inversor solar de onda sinusoidal pura?",
-        "url": "https://www.xindunsolar.com/como-funciona-un-cargador-de-inversor-solar-de-onda-sinusoidal-pura.html",
+        "title_en": "Buy dc to ac power inverters for cars, choose pure sine wave or modified sine wave?",
+        "title_es": "¿Comprar inversores de CC a CA para automóviles: onda sinusoidal pura o modificada?",
+        "url": "https://www.xindunsolar.com/comprar-inversores-de-cc-a-ca-para-automoviles-onda-sinusoidal-pura-o-modificada.html",
         "status": "published"
       },
       {
-        "title_en": "Use of off grid power house inverter",
-        "title_es": "Uso del inversor off-grid para vivienda",
-        "url": "https://www.xindunsolar.com/uso-del-inversor-off-grid-para-vivienda.html",
+        "title_en": "Solar photovoltaic inverters for solar power systems",
+        "title_es": "Inversores solares fotovoltaicos para sistemas de energía solar",
+        "url": "https://www.xindunsolar.com/inversores-solares-fotovoltaicos-para-sistemas-de-energia-solar.html",
         "status": "published"
       },
       {
-        "title_en": "Pwm and mppt solar controller selection",
-        "title_es": "Selección de controlador solar PWM y MPPT",
-        "url": "https://www.xindunsolar.com/seleccion-de-controlador-solar-pwm-y-mppt.html",
+        "title_en": "What brand of inverters for home is better",
+        "title_es": "¿Qué marca de inversores para el hogar es mejor?",
+        "url": "https://www.xindunsolar.com/que-marca-de-inversores-para-el-hogar-es-mejor.html",
         "status": "published"
       },
       {
-        "title_en": "How much AH battery is needed for the inverter",
-        "title_es": "¿Cuántos Ah de batería se necesitan para el inversor?",
-        "url": "https://www.xindunsolar.com/cuantos-ah-de-bateria-se-necesitan-para-el-inversor.html",
+        "title_en": "How to choose a pure sine wave inverter charger or converter charger?",
+        "title_es": "¿Cómo elegir un cargador inversor de onda sinusoidal pura o un cargador convertidor?",
+        "url": "https://www.xindunsolar.com/como-elegir-un-cargador-inversor-de-onda-sinusoidal-pura-o-un-cargador-convertidor.html",
         "status": "published"
       },
       {
-        "title_en": "Off grid 100kw inverter parameters",
-        "title_es": "Parámetros del inversor off-grid de 100 kW",
-        "url": "https://www.xindunsolar.com/parametros-del-inversor-off-grid-de-100-kw.html",
+        "title_en": "What can 12v 1000w pure sine wave inverter charger do?",
+        "title_es": "¿Qué puede hacer el cargador inversor de onda sinusoidal pura de 12 V y 1000 W?",
+        "url": "https://www.xindunsolar.com/que-puede-hacer-el-cargador-inversor-de-onda-sinusoidal-pura-de-12-v-y-1000-w.html",
         "status": "published"
       }
     ]
