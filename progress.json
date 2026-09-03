@@ -1,39 +1,39 @@
 {
-  "page": 73,
-  "note": "page 72 completed 2026-09-02; next pending page is 73",
-  "last_completed_page": 72,
+  "page": 74,
+  "note": "page 73 completed 2026-09-03; next pending page is 74",
+  "last_completed_page": 73,
   "last_run": {
-    "date": "2026-09-02",
-    "source": "https://www.xindun-power.com/news/72.html",
+    "date": "2026-09-03",
+    "source": "https://www.xindun-power.com/news/73.html",
     "published": [
       {
-        "title_en": "Buy dc to ac power inverters for cars, choose pure sine wave or modified sine wave?",
-        "title_es": "¿Comprar inversores de CC a CA para automóviles: onda sinusoidal pura o modificada?",
-        "url": "https://www.xindunsolar.com/comprar-inversores-de-cc-a-ca-para-automoviles-onda-sinusoidal-pura-o-modificada.html",
+        "title_en": "What is the peak power of the inverter?",
+        "title_es": "¿Cuál es la potencia máxima del inversor?",
+        "url": "https://www.xindunsolar.com/cual-es-la-potencia-maxima-del-inversor.html",
         "status": "published"
       },
       {
-        "title_en": "Solar photovoltaic inverters for solar power systems",
-        "title_es": "Inversores solares fotovoltaicos para sistemas de energía solar",
-        "url": "https://www.xindunsolar.com/inversores-solares-fotovoltaicos-para-sistemas-de-energia-solar.html",
+        "title_en": "Is the electricity from the a power storage inverter AC or DC",
+        "title_es": "¿La electricidad de un inversor de almacenamiento de energía es CA o CC?",
+        "url": "https://www.xindunsolar.com/la-electricidad-de-un-inversor-de-almacenamiento-de-energia-es-ca-o-cc.html",
         "status": "published"
       },
       {
-        "title_en": "What brand of inverters for home is better",
-        "title_es": "¿Qué marca de inversores para el hogar es mejor?",
-        "url": "https://www.xindunsolar.com/que-marca-de-inversores-para-el-hogar-es-mejor.html",
+        "title_en": "How much is the DC to AC power inverter",
+        "title_es": "¿Cuánto cuesta el inversor de corriente CC a CA?",
+        "url": "https://www.xindunsolar.com/cuanto-cuesta-el-inversor-de-corriente-cc-a-ca.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose a pure sine wave inverter charger or converter charger?",
-        "title_es": "¿Cómo elegir un cargador inversor de onda sinusoidal pura o un cargador convertidor?",
-        "url": "https://www.xindunsolar.com/como-elegir-un-cargador-inversor-de-onda-sinusoidal-pura-o-un-cargador-convertidor.html",
+        "title_en": "DC 12v to AC 220v 1000w inverter power inverter charger for car",
+        "title_es": "Cargador inversor de corriente CC 12 V a CA 220 V 1000 W para coche",
+        "url": "https://www.xindunsolar.com/cargador-inversor-de-corriente-cc-12-v-a-ca-220-v-1000-w-para-coche.html",
         "status": "published"
       },
       {
-        "title_en": "What can 12v 1000w pure sine wave inverter charger do?",
-        "title_es": "¿Qué puede hacer el cargador inversor de onda sinusoidal pura de 12 V y 1000 W?",
-        "url": "https://www.xindunsolar.com/que-puede-hacer-el-cargador-inversor-de-onda-sinusoidal-pura-de-12-v-y-1000-w.html",
+        "title_en": "Off grid pure sine wave solar inverter charger with mppt controller built in",
+        "title_es": "Cargador inversor solar de onda sinusoidal pura fuera de red con controlador MPPT integrado",
+        "url": "https://www.xindunsolar.com/cargador-inversor-solar-de-onda-sinusoidal-pura-fuera-de-red-con-controlador-mppt-integrado.html",
         "status": "published"
       }
     ]
