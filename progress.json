@@ -1,39 +1,39 @@
 {
-  "page": 79,
-  "note": "page 78 completed 2026-09-08; next pending page is 79",
-  "last_completed_page": 78,
+  "page": 80,
+  "note": "page 79 completed 2026-09-09; next pending page is 80",
+  "last_completed_page": 79,
   "last_run": {
-    "date": "2026-09-08",
-    "source": "https://www.xindun-power.com/news/78.html",
+    "date": "2026-09-09",
+    "source": "https://www.xindun-power.com/news/79.html",
     "published": [
       {
-        "title_en": "Can the 1500w hybrid solar inverter drive a 240w washing machine?",
-        "title_es": "¿Puede el inversor solar híbrido de 1500 W accionar una lavadora de 240 W?",
-        "url": "https://www.xindunsolar.com/puede-el-inversor-solar-hibrido-de-1500-w-accionar-una-lavadora-de-240-w.html",
+        "title_en": "How do 12 volt power inverters convert DC electricity to AC?",
+        "title_es": "¿Cómo convierten los inversores de 12 voltios la electricidad CC en CA?",
+        "url": "https://www.xindunsolar.com/como-convierten-los-inversores-de-12-voltios-la-electricidad-cc-en-ca.html",
         "status": "published"
       },
       {
-        "title_en": "Can an inverter convert DC into AC?",
-        "title_es": "¿Puede un inversor convertir CC en CA?",
-        "url": "https://www.xindunsolar.com/puede-un-inversor-convertir-cc-en-ca.html",
+        "title_en": "The use of car power inverter charger for rv/truck",
+        "title_es": "El uso del cargador inversor de corriente para autocaravana/camión",
+        "url": "https://www.xindunsolar.com/el-uso-del-cargador-inversor-de-corriente-para-autocaravana-camion.html",
         "status": "published"
       },
       {
-        "title_en": "Xindun solar inverters ranking! Top 6 best solar inverters prices in south africa",
-        "title_es": "¡Ranking de inversores solares Xindun! Top 6 mejores precios de inversores solares en Sudáfrica",
-        "url": "https://www.xindunsolar.com/ranking-de-inversores-solares-xindun-top-6-mejores-precios-de-inversores-solares-en-sudafrica.html",
+        "title_en": "Backup uninterruptible power supply working principle",
+        "title_es": "Principio de funcionamiento de la fuente de alimentación ininterrumpida de respaldo",
+        "url": "https://www.xindunsolar.com/principio-de-funcionamiento-de-la-fuente-de-alimentacion-ininterrumpida-de-respaldo.html",
         "status": "published"
       },
       {
-        "title_en": "Which one is better, power inverter vs inverter generator?",
-        "title_es": "¿Cuál es mejor, inversor de corriente o generador inversor?",
-        "url": "https://www.xindunsolar.com/cual-es-mejor-inversor-de-corriente-o-generador-inversor.html",
+        "title_en": "How to determine the installed capacity of solar energy power system at home?",
+        "title_es": "¿Cómo determinar la capacidad instalada del sistema de energía solar en el hogar?",
+        "url": "https://www.xindunsolar.com/como-determinar-la-capacidad-instalada-del-sistema-de-energia-solar-en-el-hogar.html",
         "status": "published"
       },
       {
-        "title_en": "Types of residential solar inverters",
-        "title_es": "Tipos de inversores solares residenciales",
-        "url": "https://www.xindunsolar.com/tipos-de-inversores-solares-residenciales.html",
+        "title_en": "Advantages and disadvantages of solar photovoltaic power station",
+        "title_es": "Ventajas y desventajas de la central fotovoltaica solar",
+        "url": "https://www.xindunsolar.com/ventajas-y-desventajas-de-la-central-fotovoltaica-solar.html",
         "status": "published"
       }
     ]
