@@ -1,40 +1,40 @@
 {
-  "page": 81,
-  "note": "page 80 completed 2026-09-10; next pending page is 81",
-  "last_completed_page": 80,
+  "page": 82,
+  "note": "page 81 completed 2026-09-11; next pending page is 82",
+  "last_completed_page": 81,
   "last_run": {
-    "date": "2026-09-10",
-    "source": "https://www.xindun-power.com/news/80.html",
+    "date": "2026-09-11",
+    "source": "https://www.xindun-power.com/news/81.html",
     "published": [
       {
-        "title_en": "Which one is better, power inverter vs inverter generator?",
-        "title_es": "¿Cuál es mejor, inversor de corriente o generador inversor?",
-        "url": "https://www.xindunsolar.com/cual-es-mejor-inversor-de-corriente-o-generador-inversor.html",
+        "title_en": "How to determine the installed capacity of solar energy power system at home?",
+        "title_es": "¿Cómo determinar la capacidad instalada del sistema de energía solar en el hogar?",
+        "url": "https://www.xindunsolar.com/como-determinar-la-capacidad-instalada-del-sistema-de-energia-solar-en-el-hogar.html",
         "status": "already_published"
       },
       {
-        "title_en": "Types of residential solar inverters",
-        "title_es": "Tipos de inversores solares residenciales",
-        "url": "https://www.xindunsolar.com/tipos-de-inversores-solares-residenciales.html",
+        "title_en": "Advantages and disadvantages of solar photovoltaic power station",
+        "title_es": "Ventajas y desventajas de la central fotovoltaica solar",
+        "url": "https://www.xindunsolar.com/ventajas-y-desventajas-de-la-central-fotovoltaica-solar.html",
         "status": "already_published"
       },
       {
-        "title_en": "How do 12 volt power inverters convert DC electricity to AC?",
-        "title_es": "¿Cómo convierten los inversores de 12 voltios la electricidad CC en CA?",
-        "url": "https://www.xindunsolar.com/como-convierten-los-inversores-de-12-voltios-la-electricidad-cc-en-ca.html",
-        "status": "already_published"
+        "title_en": "Xindun most praised solar generator kit for fridge/cabin/apartment",
+        "title_es": "Kit generador solar más elogiado de Xindun para nevera/cabaña/apartamento",
+        "url": "https://www.xindunsolar.com/kit-generador-solar-mas-elogiado-de-xindun-para-nevera-cabana-apartamento.html",
+        "status": "published"
       },
       {
-        "title_en": "The use of car power inverter charger for rv/truck",
-        "title_es": "El uso del cargador inversor de corriente para autocaravana/camión",
-        "url": "https://www.xindunsolar.com/el-uso-del-cargador-inversor-de-corriente-para-autocaravana-camion.html",
-        "status": "already_published"
+        "title_en": "Main equipment of photovoltaic off-grid system",
+        "title_es": "Equipo principal del sistema fotovoltaico fuera de red",
+        "url": "https://www.xindunsolar.com/equipo-principal-del-sistema-fotovoltaico-fuera-de-red.html",
+        "status": "published"
       },
       {
-        "title_en": "Backup uninterruptible power supply working principle",
-        "title_es": "Principio de funcionamiento de la fuente de alimentación ininterrumpida de respaldo",
-        "url": "https://www.xindunsolar.com/principio-de-funcionamiento-de-la-fuente-de-alimentacion-ininterrumpida-de-respaldo.html",
-        "status": "already_published"
+        "title_en": "What is uninterruptible power supply (UPS)？",
+        "title_es": "¿Qué es la fuente de alimentación ininterrumpida (SAI)?",
+        "url": "https://www.xindunsolar.com/que-es-la-fuente-de-alimentacion-ininterrumpida-sai.html",
+        "status": "published"
       }
     ]
   }
