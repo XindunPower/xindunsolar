@@ -1,39 +1,39 @@
 {
-  "page": 85,
-  "note": "page 84 completed 2026-09-19; next pending page is 85",
-  "last_completed_page": 84,
+  "page": 86,
+  "note": "page 85 completed 2026-09-19; next pending page is 86",
+  "last_completed_page": 85,
   "last_run": {
     "date": "2026-09-19",
-    "source": "https://www.xindun-power.com/news/84.html",
+    "source": "https://www.xindun-power.com/news/85.html",
     "published": [
       {
-        "title_en": "How high-frequency inverters solve the problem of mobile power supply?",
-        "title_es": "¿Cómo resuelven los inversores de alta frecuencia el problema de la alimentación móvil?",
-        "url": "https://www.xindunsolar.com/como-resuelven-los-inversores-de-alta-frecuencia-el-problema-de-la-alimentacion-movil.html",
+        "title_en": "Is inverter important?",
+        "title_es": "¿Es importante el inversor?",
+        "url": "https://www.xindunsolar.com/es-importante-el-inversor.html",
         "status": "published"
       },
       {
-        "title_en": "Which brand of high power pure sine wave inverter is better?",
-        "title_es": "¿Qué marca de inversor de onda sinusoidal pura de alta potencia es mejor?",
-        "url": "https://www.xindunsolar.com/que-marca-de-inversor-de-onda-sinusoidal-pura-de-alta-potencia-es-mejor.html",
+        "title_en": "Do off-grid inverters need to be equipped with batteries ?",
+        "title_es": "¿Los inversores off-grid necesitan estar equipados con baterías?",
+        "url": "https://www.xindunsolar.com/los-inversores-off-grid-necesitan-estar-equipados-con-baterias.html",
         "status": "published"
       },
       {
-        "title_en": "How to choose safe inverters?",
-        "title_es": "¿Cómo elegir inversores seguros?",
-        "url": "https://www.xindunsolar.com/como-elegir-inversores-seguros.html",
+        "title_en": "How important is a full-power inverter?",
+        "title_es": "¿Qué importancia tiene un inversor de plena potencia?",
+        "url": "https://www.xindunsolar.com/que-importancia-tiene-un-inversor-de-plena-potencia.html",
         "status": "published"
       },
       {
-        "title_en": "How to use low frequency inverter?",
-        "title_es": "¿Cómo utilizar un inversor de baja frecuencia?",
-        "url": "https://www.xindunsolar.com/como-utilizar-un-inversor-de-baja-frecuencia.html",
+        "title_en": "Recommended inverters for trucks",
+        "title_es": "Inversores recomendados para camiones",
+        "url": "https://www.xindunsolar.com/inversores-recomendados-para-camiones.html",
         "status": "published"
       },
       {
-        "title_en": "Is there an inverter that can invert 380v?",
-        "title_es": "¿Existe un inversor que pueda invertir 380 V?",
-        "url": "https://www.xindunsolar.com/existe-un-inversor-que-pueda-invertir-380-v.html",
+        "title_en": "What is the difference between rated power and peak power of inverter?",
+        "title_es": "¿Cuál es la diferencia entre la potencia nominal y la potencia pico de un inversor?",
+        "url": "https://www.xindunsolar.com/cual-es-la-diferencia-entre-la-potencia-nominal-y-la-potencia-pico-de-un-inversor.html",
         "status": "published"
       }
     ]
