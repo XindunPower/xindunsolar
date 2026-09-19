@@ -185,6 +185,24 @@ def already_published_strict(title_es: str, title_en: str) -> str | None:
     return None
 
 
+def fix_inverter_leaks(text: str) -> str:
+    """Post-process common untranslated inverter tokens in Spanish output."""
+    if not text or not re.search(r"[A-Za-z]", text):
+        return text
+    replacements = [
+        (r"\boff-grid inverters\b", "inversores off-grid"),
+        (r"\boff-grid inverter\b", "inversor off-grid"),
+        (r"\bInverter siempre\b", "El inversor siempre"),
+        (r"\binverter siempre\b", "el inversor siempre"),
+        (r"\bInverter always\b", "El inversor siempre"),
+        (r"\binverter always\b", "el inversor siempre"),
+    ]
+    out = text
+    for pat, rep in replacements:
+        out = re.sub(pat, rep, out, flags=re.I)
+    return out
+
+
 def translate_text_resilient(text: str, retries: int = 1) -> str:
     text = base.clean_spaces(text.replace("\\'", "'"))
     if not text:
@@ -201,7 +219,7 @@ def translate_text_resilient(text: str, retries: int = 1) -> str:
         normalized = text.replace("-", " ")
 
     try:
-        out = base.clean_spaces(_argos_en_es().translate(normalized))
+        out = fix_inverter_leaks(base.clean_spaces(_argos_en_es().translate(normalized)))
         if out and not re.search(r"Error\s*500|Server Error", out, re.I):
             return out
     except Exception as exc:  # noqa: BLE001
@@ -209,8 +227,9 @@ def translate_text_resilient(text: str, retries: int = 1) -> str:
 
     for attempt in range(retries):
         try:
-            out = GoogleTranslator(source="en", target="es").translate(normalized)
-            out = base.clean_spaces(out)
+            out = fix_inverter_leaks(
+                base.clean_spaces(GoogleTranslator(source="en", target="es").translate(normalized))
+            )
             if out and not re.search(r"Error\s*500|Server Error", out, re.I):
                 return out
         except Exception as exc:  # noqa: BLE001
@@ -218,14 +237,14 @@ def translate_text_resilient(text: str, retries: int = 1) -> str:
         time.sleep(1.6 * (attempt + 1))
 
     try:
-        out = base.clean_spaces(_mymemory_chunked(normalized))
+        out = fix_inverter_leaks(base.clean_spaces(_mymemory_chunked(normalized)))
         if out and not re.search(r"Error\s*500|Server Error", out, re.I):
             return out
     except Exception as exc:  # noqa: BLE001
         print(f"[translate-mymemory] failed: {exc}", flush=True)
 
     print(f"[translate] fallback keep original: {text[:80]!r}", flush=True)
-    return text
+    return fix_inverter_leaks(text)
 
 
 def translate_html_resilient(html: str) -> str:
@@ -249,8 +268,10 @@ def translate_html_resilient(html: str) -> str:
         a.unwrap()
 
     if body.name == "body":
-        return "".join(str(c) for c in body.children)
-    return str(body)
+        html_out = "".join(str(c) for c in body.children)
+    else:
+        html_out = str(body)
+    return fix_inverter_leaks(html_out)
 
 
 def run_duomi_resilient(
