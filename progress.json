@@ -1,39 +1,39 @@
 {
-  "page": 83,
-  "note": "page 82 completed 2026-09-12; next pending page is 83",
-  "last_completed_page": 82,
+  "page": 84,
+  "note": "page 83 completed 2026-09-19; next pending page is 84",
+  "last_completed_page": 83,
   "last_run": {
-    "date": "2026-09-12",
-    "source": "https://www.xindun-power.com/news/82.html",
+    "date": "2026-09-19",
+    "source": "https://www.xindun-power.com/news/83.html",
     "published": [
       {
-        "title_en": "Which is better, PWM or MPPT solar controller?",
-        "title_es": "¿Qué es mejor, un controlador solar PWM o MPPT?",
-        "url": "https://www.xindunsolar.com/que-es-mejor-un-controlador-solar-pwm-o-mppt.html",
+        "title_en": "Common faults of solar inverters and their solutions.",
+        "title_es": "Fallos comunes de los inversores solares y sus soluciones.",
+        "url": "https://www.xindunsolar.com/fallos-comunes-de-los-inversores-solares-y-sus-soluciones.html",
+        "status": "updated"
+      },
+      {
+        "title_en": "How long is the service life of the photovoltaic inverter?",
+        "title_es": "¿Cuál es la vida útil del inversor fotovoltaico?",
+        "url": "https://www.xindunsolar.com/cual-es-la-vida-util-del-inversor-fotovoltaico.html",
         "status": "published"
       },
       {
-        "title_en": "Xindun Power won the \"2020 Excellent Manufacturer in Solar Photovoltaic Industry\" award",
-        "title_es": "Xindun Power ganó el premio \"Excelente Fabricante en la Industria Fotovoltaica Solar 2020\"",
-        "url": "https://www.xindunsolar.com/xindun-power-gano-el-premio-excelente-fabricante-en-la-industria-fotovoltaica-solar-2020.html",
+        "title_en": "How to improve the power generation efficiency of photovoltaic systems?",
+        "title_es": "¿Cómo mejorar la eficiencia de generación de energía de los sistemas fotovoltaicos?",
+        "url": "https://www.xindunsolar.com/como-mejorar-la-eficiencia-de-generacion-de-energia-de-los-sistemas-fotovoltaicos.html",
         "status": "published"
       },
       {
-        "title_en": "What factors need to be considered when configuring a solar power system?",
-        "title_es": "¿Qué factores deben tenerse en cuenta al configurar un sistema de energía solar?",
-        "url": "https://www.xindunsolar.com/que-factores-deben-tenerse-en-cuenta-al-configurar-un-sistema-de-energia-solar.html",
+        "title_en": "What should we pay attention to when repairing PV inverter?",
+        "title_es": "¿A qué debemos prestar atención al reparar un inversor fotovoltaico?",
+        "url": "https://www.xindunsolar.com/a-que-debemos-prestar-atencion-al-reparar-un-inversor-fotovoltaico.html",
         "status": "published"
       },
       {
-        "title_en": "Design of off-grid photovoltaic power generation system",
-        "title_es": "Diseño del sistema de generación de energía fotovoltaica fuera de la red",
-        "url": "https://www.xindunsolar.com/diseno-del-sistema-de-generacion-de-energia-fotovoltaica-fuera-de-la-red.html",
-        "status": "published"
-      },
-      {
-        "title_en": "Pure sine wave inverter applications",
-        "title_es": "Aplicaciones de inversores de onda sinusoidal pura",
-        "url": "https://www.xindunsolar.com/aplicaciones-de-inversores-de-onda-sinusoidal-pura.html",
+        "title_en": "Which manufacturer has better inverter OEM service?",
+        "title_es": "¿Qué fabricante ofrece un mejor servicio OEM de inversores?",
+        "url": "https://www.xindunsolar.com/que-fabricante-ofrece-un-mejor-servicio-oem-de-inversores.html",
         "status": "published"
       }
     ]
