@@ -190,12 +190,16 @@ def fix_inverter_leaks(text: str) -> str:
     if not text or not re.search(r"[A-Za-z]", text):
         return text
     replacements = [
+        (r"^¿Inverter es importante\?$", "¿Es importante el inversor?"),
         (r"\boff-grid inverters\b", "inversores off-grid"),
         (r"\boff-grid inverter\b", "inversor off-grid"),
         (r"\bInverter siempre\b", "El inversor siempre"),
         (r"\binverter siempre\b", "el inversor siempre"),
         (r"\bInverter always\b", "El inversor siempre"),
         (r"\binverter always\b", "el inversor siempre"),
+        (r"\bEl inverter\b", "El inversor"),
+        (r"\bel inverter\b", "el inversor"),
+        (r"\bInverter es\b", "El inversor es"),
     ]
     out = text
     for pat, rep in replacements:
