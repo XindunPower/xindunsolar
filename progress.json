@@ -1,39 +1,39 @@
 {
-  "page": 86,
-  "note": "page 85 completed 2026-09-19; next pending page is 86",
-  "last_completed_page": 85,
+  "page": 87,
+  "note": "page 86 completed 2026-09-19; next pending page is 87",
+  "last_completed_page": 86,
   "last_run": {
     "date": "2026-09-19",
-    "source": "https://www.xindun-power.com/news/85.html",
+    "source": "https://www.xindun-power.com/news/86.html",
     "published": [
       {
-        "title_en": "Is inverter important?",
-        "title_es": "¿Es importante el inversor?",
-        "url": "https://www.xindunsolar.com/es-importante-el-inversor.html",
+        "title_en": "How about the inverters of Xindun Power?",
+        "title_es": "¿Qué tal los inversores de Xindun Power?",
+        "url": "https://www.xindunsolar.com/que-tal-los-inversores-de-xindun-power.html",
         "status": "published"
       },
       {
-        "title_en": "Do off-grid inverters need to be equipped with batteries ?",
-        "title_es": "¿Los inversores off-grid necesitan estar equipados con baterías?",
-        "url": "https://www.xindunsolar.com/los-inversores-off-grid-necesitan-estar-equipados-con-baterias.html",
+        "title_en": "What are the differences between single phase inverter and three phase inverter?",
+        "title_es": "¿Cuáles son las diferencias entre un inversor monofásico y un inversor trifásico?",
+        "url": "https://www.xindunsolar.com/cuales-son-las-diferencias-entre-un-inversor-monofasico-y-un-inversor-trifasico.html",
         "status": "published"
       },
       {
-        "title_en": "How important is a full-power inverter?",
-        "title_es": "¿Qué importancia tiene un inversor de plena potencia?",
-        "url": "https://www.xindunsolar.com/que-importancia-tiene-un-inversor-de-plena-potencia.html",
+        "title_en": "What is an off-grid inverter?",
+        "title_es": "¿Qué es un inversor off-grid?",
+        "url": "https://www.xindunsolar.com/que-es-un-inversor-off-grid.html",
         "status": "published"
       },
       {
-        "title_en": "Recommended inverters for trucks",
-        "title_es": "Inversores recomendados para camiones",
-        "url": "https://www.xindunsolar.com/inversores-recomendados-para-camiones.html",
+        "title_en": "The difference between off-grid power system and on-grid power system",
+        "title_es": "La diferencia entre un sistema off-grid y un sistema on-grid",
+        "url": "https://www.xindunsolar.com/la-diferencia-entre-un-sistema-off-grid-y-un-sistema-on-grid.html",
         "status": "published"
       },
       {
-        "title_en": "What is the difference between rated power and peak power of inverter?",
-        "title_es": "¿Cuál es la diferencia entre la potencia nominal y la potencia pico de un inversor?",
-        "url": "https://www.xindunsolar.com/cual-es-la-diferencia-entre-la-potencia-nominal-y-la-potencia-pico-de-un-inversor.html",
+        "title_en": "Which inverter manufacturer is better for custom processing?",
+        "title_es": "¿Qué fabricante de inversores es mejor para el procesamiento personalizado?",
+        "url": "https://www.xindunsolar.com/que-fabricante-de-inversores-es-mejor-para-el-procesamiento-personalizado.html",
         "status": "published"
       }
     ]
