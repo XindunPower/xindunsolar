@@ -1,0 +1,56 @@
+{
+  "page": 67,
+  "note": "page 66 completed 2026-11-13; next pending page is 67",
+  "last_completed_page": 66,
+  "last_run": {
+    "date": "2026-11-13",
+    "source": "https://www.xindun-power.com/news/66.html",
+    "published": [
+      {
+        "title_en": "Is mppt solar controller really better than pwm solar controller?",
+        "title_fr": "Le régulateur solaire MPPT est-il vraiment meilleur que le régulateur solaire PWM ?",
+        "url": "https://www.xindunsolar.com/le-regulateur-solaire-mppt-est-il-vraiment-meilleur-que-le-regulateur-solaire-pwm.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/le-regulateur-solaire-mppt-est-il-vraiment-meilleur-que-le-regulateur-solaire-pwm.html",
+        "post_id": 19648,
+        "francais_tag": true
+      },
+      {
+        "title_en": "What does the peak power of the power inverter mean and what is the difference between it and the rated power",
+        "title_fr": "Que signifie la puissance de crête d’un onduleur et quelle est la différence avec la puissance nominale",
+        "url": "https://www.xindunsolar.com/que-signifie-la-puissance-de-crete-dun-onduleur-et-quelle-est-la-difference-avec-la-puissance-nominale.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/que-signifie-la-puissance-de-crete-dun-onduleur-et-quelle-est-la-difference-avec-la-puissance-nominale.html",
+        "post_id": 19651,
+        "francais_tag": true
+      },
+      {
+        "title_en": "How much is the 380V AC output current of a 3 phase 50kw photovoltaic inverter",
+        "title_fr": "Quel est le courant de sortie CA 380 V d’un onduleur photovoltaïque triphasé de 50 kW",
+        "url": "https://www.xindunsolar.com/quel-est-le-courant-de-sortie-ca-380-v-dun-onduleur-photovoltaique-triphase-de-50-kw.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/quel-est-le-courant-de-sortie-ca-380-v-dun-onduleur-photovoltaique-triphase-de-50-kw.html",
+        "post_id": 19654,
+        "francais_tag": true
+      },
+      {
+        "title_en": "Is the home inverter single-phase or three-phase",
+        "title_fr": "L’onduleur domestique est-il monophasé ou triphasé",
+        "url": "https://www.xindunsolar.com/londuleur-domestique-est-il-monophase-ou-triphase.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/londuleur-domestique-est-il-monophase-ou-triphase.html",
+        "post_id": 19657,
+        "francais_tag": true
+      },
+      {
+        "title_en": "How long can a 12V 75A battery with a 3000W pure sine wave power inverter drive a 40W refrigerator?",
+        "title_fr": "Combien de temps une batterie 12 V 75 A avec un onduleur à onde sinusoïdale pure de 3000 W peut-elle alimenter un réfrigérateur de 40 W ?",
+        "url": "https://www.xindunsolar.com/combien-de-temps-une-batterie-12-v-75-a-avec-un-onduleur-a-onde-sinusoidale-pure-de-3000-w-peut-elle-alimenter-un-refrigerateur-de-40-w.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/combien-de-temps-une-batterie-12-v-75-a-avec-un-onduleur-a-onde-sinusoidale-pure-de-3000-w-peut-elle-alimenter-un-refrigerateur-de-40-w.html",
+        "post_id": 19660,
+        "francais_tag": true
+      }
+    ]
+  }
+}
