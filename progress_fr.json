@@ -1,54 +1,54 @@
 {
-  "page": 75,
-  "note": "page 74 completed 2026-11-15; next pending page is 75",
-  "last_completed_page": 74,
+  "page": 76,
+  "note": "page 75 completed 2026-11-15; next pending page is 76",
+  "last_completed_page": 75,
   "last_run": {
     "date": "2026-11-15",
-    "source": "https://www.xindun-power.com/news/74.html",
+    "source": "https://www.xindun-power.com/news/75.html",
     "published": [
       {
-        "title_en": "How to choose a pure sine wave inverter charger or converter charger?",
-        "title_fr": "Comment choisir un onduleur-chargeur à onde sinusoïdale pure ou un convertisseur-chargeur ?",
-        "url": "https://www.xindunsolar.com/comment-choisir-un-onduleur-chargeur-a-onde-sinusoidale-pure-ou-un-convertisseur-chargeur.html",
+        "title_en": "DC 12v to AC 220v 1000w inverter power inverter charger for car",
+        "title_fr": "Onduleur-chargeur 12 V CC vers 220 V CA 1000 W pour voiture",
+        "url": "https://www.xindunsolar.com/onduleur-chargeur-12-v-cc-vers-220-v-ca-1000-w-pour-voiture.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-choisir-un-onduleur-chargeur-a-onde-sinusoidale-pure-ou-un-convertisseur-chargeur.html",
-        "post_id": 19829,
+        "published_url": "https://www.xindunsolar.com/onduleur-chargeur-12-v-cc-vers-220-v-ca-1000-w-pour-voiture.html",
+        "post_id": 19897,
         "francais_tag": true
       },
       {
-        "title_en": "What can 12v 1000w pure sine wave inverter charger do?",
-        "title_fr": "Que peut faire un onduleur-chargeur 12 V 1000 W à onde sinusoïdale pure ?",
-        "url": "https://www.xindunsolar.com/que-peut-faire-un-onduleur-chargeur-12-v-1000-w-a-onde-sinusoidale-pure.html",
+        "title_en": "Off grid pure sine wave solar inverter charger with mppt controller built in",
+        "title_fr": "Onduleur-chargeur solaire hors réseau à onde sinusoïdale pure avec régulateur MPPT intégré",
+        "url": "https://www.xindunsolar.com/onduleur-chargeur-solaire-hors-reseau-a-onde-sinusoidale-pure-avec-regulateur-mppt-integre.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/que-peut-faire-un-onduleur-chargeur-12-v-1000-w-a-onde-sinusoidale-pure.html",
-        "post_id": 19832,
+        "published_url": "https://www.xindunsolar.com/onduleur-chargeur-solaire-hors-reseau-a-onde-sinusoidale-pure-avec-regulateur-mppt-integre.html",
+        "post_id": 19901,
         "francais_tag": true
       },
       {
-        "title_en": "What is the peak power of the inverter?",
-        "title_fr": "Qu’est-ce que la puissance de crête d’un onduleur ?",
-        "url": "https://www.xindunsolar.com/quest-ce-que-la-puissance-de-crete-dun-onduleur.html",
+        "title_en": "Off grid solar a/c inverters prices in pakistan",
+        "title_fr": "Prix des onduleurs solaires CA hors réseau au Pakistan",
+        "url": "https://www.xindunsolar.com/prix-des-onduleurs-solaires-ca-hors-reseau-au-pakistan.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quest-ce-que-la-puissance-de-crete-dun-onduleur.html",
-        "post_id": 19835,
+        "published_url": "https://www.xindunsolar.com/prix-des-onduleurs-solaires-ca-hors-reseau-au-pakistan.html",
+        "post_id": 19904,
         "francais_tag": true
       },
       {
-        "title_en": "Is the electricity from the a power storage inverter AC or DC",
-        "title_fr": "L’électricité d’un onduleur de stockage est-elle en CA ou en CC",
-        "url": "https://www.xindunsolar.com/lelectricite-dun-onduleur-de-stockage-est-elle-en-ca-ou-en-cc.html",
+        "title_en": "3 phase solar power battery storage inverter charger for sale",
+        "title_fr": "Onduleur-chargeur solaire triphasé de stockage sur batterie à vendre",
+        "url": "https://www.xindunsolar.com/onduleur-chargeur-solaire-triphase-de-stockage-sur-batterie-a-vendre.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/lelectricite-dun-onduleur-de-stockage-est-elle-en-ca-ou-en-cc.html",
-        "post_id": 19838,
+        "published_url": "https://www.xindunsolar.com/onduleur-chargeur-solaire-triphase-de-stockage-sur-batterie-a-vendre.html",
+        "post_id": 19907,
         "francais_tag": true
       },
       {
-        "title_en": "How much is the DC to AC power inverter",
-        "title_fr": "Combien coûte un onduleur CC vers CA",
-        "url": "https://www.xindunsolar.com/combien-coute-un-onduleur-cc-vers-ca.html",
+        "title_en": "Xindun Power 2020 team building activity-outdoor barbecue",
+        "title_fr": "Activité de cohésion d’équipe Xindun Power 2020 — barbecue en plein air",
+        "url": "https://www.xindunsolar.com/activite-de-cohesion-dequipe-xindun-power-2020-barbecue-en-plein-air.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/combien-coute-un-onduleur-cc-vers-ca.html",
-        "post_id": 19841,
+        "published_url": "https://www.xindunsolar.com/activite-de-cohesion-dequipe-xindun-power-2020-barbecue-en-plein-air.html",
+        "post_id": 19911,
         "francais_tag": true
       }
     ]
