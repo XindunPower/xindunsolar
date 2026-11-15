@@ -1,54 +1,54 @@
 {
-  "page": 71,
-  "note": "page 70 completed 2026-11-15; next pending page is 71",
-  "last_completed_page": 70,
+  "page": 72,
+  "note": "page 71 completed 2026-11-15; next pending page is 72",
+  "last_completed_page": 71,
   "last_run": {
     "date": "2026-11-15",
-    "source": "https://www.xindun-power.com/news/70.html",
+    "source": "https://www.xindun-power.com/news/71.html",
     "published": [
       {
-        "title_en": "Which power inverter kit is better",
-        "title_fr": "Quel kit d’onduleur de puissance est le meilleur ?",
-        "url": "https://www.xindunsolar.com/quel-kit-donduleur-de-puissance-est-le-meilleur.html",
+        "title_en": "Inverter Choosing  Guide",
+        "title_fr": "Guide de choix d’un onduleur",
+        "url": "https://www.xindunsolar.com/guide-de-choix-dun-onduleur.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quel-kit-donduleur-de-puissance-est-le-meilleur.html",
-        "post_id": 19712,
+        "published_url": "https://www.xindunsolar.com/guide-de-choix-dun-onduleur.html",
+        "post_id": 19727,
         "francais_tag": true
       },
       {
-        "title_en": "How to match the photovoltaic power inverter and photovoltaic power generation system?",
-        "title_fr": "Comment apparier l’onduleur photovoltaïque et le système de production photovoltaïque ?",
-        "url": "https://www.xindunsolar.com/comment-apparier-londuleur-photovoltaique-et-le-systeme-de-production-photovoltaique.html",
+        "title_en": "what is an inverter?",
+        "title_fr": "Qu’est-ce qu’un onduleur ?",
+        "url": "https://www.xindunsolar.com/quest-ce-quun-onduleur.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-apparier-londuleur-photovoltaique-et-le-systeme-de-production-photovoltaique.html",
-        "post_id": 19715,
+        "published_url": "https://www.xindunsolar.com/quest-ce-quun-onduleur.html",
+        "post_id": 19730,
         "francais_tag": true
       },
       {
-        "title_en": "Which appliances need pure sine wave output solar inverter charger",
-        "title_fr": "Quels appareils ont besoin d’un onduleur-chargeur solaire à onde sinusoïdale pure ?",
-        "url": "https://www.xindunsolar.com/quels-appareils-ont-besoin-dun-onduleur-chargeur-solaire-a-onde-sinusoidale-pure.html",
+        "title_en": "Power inverter's technical performance (1)",
+        "title_fr": "Performances techniques de l’onduleur de puissance (1)",
+        "url": "https://www.xindunsolar.com/performances-techniques-de-londuleur-de-puissance-1.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quels-appareils-ont-besoin-dun-onduleur-chargeur-solaire-a-onde-sinusoidale-pure.html",
-        "post_id": 19718,
+        "published_url": "https://www.xindunsolar.com/performances-techniques-de-londuleur-de-puissance-1.html",
+        "post_id": 19733,
         "francais_tag": true
       },
       {
-        "title_en": "Solution to poor load capacity of inverter",
-        "title_fr": "Solution à la faible capacité de charge d’un onduleur",
-        "url": "https://www.xindunsolar.com/solution-a-la-faible-capacite-de-charge-dun-onduleur.html",
+        "title_en": "Solar power inverter charger installation wiring diagram",
+        "title_fr": "Schéma de câblage pour l’installation d’un onduleur-chargeur solaire",
+        "url": "https://www.xindunsolar.com/schema-de-cablage-pour-linstallation-dun-onduleur-chargeur-solaire.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/solution-a-la-faible-capacite-de-charge-dun-onduleur.html",
-        "post_id": 19721,
+        "published_url": "https://www.xindunsolar.com/schema-de-cablage-pour-linstallation-dun-onduleur-chargeur-solaire.html",
+        "post_id": 19736,
         "francais_tag": true
       },
       {
-        "title_en": "What to do if the inverter power supply shows failure",
-        "title_fr": "Que faire si l’alimentation onduleur affiche une panne ?",
-        "url": "https://www.xindunsolar.com/que-faire-si-lalimentation-onduleur-affiche-une-panne.html",
+        "title_en": "Hybrid inverter for rv and power car inverter",
+        "title_fr": "Onduleur hybride pour camping-car et onduleur de voiture",
+        "url": "https://www.xindunsolar.com/onduleur-hybride-pour-camping-car-et-onduleur-de-voiture.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/que-faire-si-lalimentation-onduleur-affiche-une-panne.html",
-        "post_id": 19724,
+        "published_url": "https://www.xindunsolar.com/onduleur-hybride-pour-camping-car-et-onduleur-de-voiture.html",
+        "post_id": 19739,
         "francais_tag": true
       }
     ]
