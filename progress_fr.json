@@ -1,54 +1,54 @@
 {
-  "page": 72,
-  "note": "page 71 completed 2026-11-15; next pending page is 72",
-  "last_completed_page": 71,
+  "page": 73,
+  "note": "page 72 completed 2026-11-15; next pending page is 73",
+  "last_completed_page": 72,
   "last_run": {
     "date": "2026-11-15",
-    "source": "https://www.xindun-power.com/news/71.html",
+    "source": "https://www.xindun-power.com/news/72.html",
     "published": [
       {
-        "title_en": "Inverter Choosing  Guide",
-        "title_fr": "Guide de choix d’un onduleur",
-        "url": "https://www.xindunsolar.com/guide-de-choix-dun-onduleur.html",
+        "title_en": "How do I connect two or more off grid inverter batteries",
+        "title_fr": "Comment raccorder deux batteries ou plus à un onduleur hors réseau",
+        "url": "https://www.xindunsolar.com/comment-raccorder-deux-batteries-ou-plus-a-un-onduleur-hors-reseau.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/guide-de-choix-dun-onduleur.html",
-        "post_id": 19727,
+        "published_url": "https://www.xindunsolar.com/comment-raccorder-deux-batteries-ou-plus-a-un-onduleur-hors-reseau.html",
+        "post_id": 19742,
         "francais_tag": true
       },
       {
-        "title_en": "what is an inverter?",
-        "title_fr": "Qu’est-ce qu’un onduleur ?",
-        "url": "https://www.xindunsolar.com/quest-ce-quun-onduleur.html",
+        "title_en": "How large is the battery for the 3000w inverter charger, and the total number of inverters and batteries",
+        "title_fr": "Quelle capacité de batterie pour un onduleur-chargeur de 3000 W, et combien d’onduleurs et de batteries au total",
+        "url": "https://www.xindunsolar.com/quelle-capacite-de-batterie-pour-un-onduleur-chargeur-de-3000-w-et-combien-donduleurs-et-de-batteries-au-total.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quest-ce-quun-onduleur.html",
-        "post_id": 19730,
+        "published_url": "https://www.xindunsolar.com/quelle-capacite-de-batterie-pour-un-onduleur-chargeur-de-3000-w-et-combien-donduleurs-et-de-batteries-au-total.html",
+        "post_id": 19745,
         "francais_tag": true
       },
       {
-        "title_en": "Power inverter's technical performance (1)",
-        "title_fr": "Performances techniques de l’onduleur de puissance (1)",
-        "url": "https://www.xindunsolar.com/performances-techniques-de-londuleur-de-puissance-1.html",
+        "title_en": "A pure sine wave solar inverter charger how does it work",
+        "title_fr": "Comment fonctionne un onduleur-chargeur solaire à onde sinusoïdale pure",
+        "url": "https://www.xindunsolar.com/comment-fonctionne-un-onduleur-chargeur-solaire-a-onde-sinusoidale-pure.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/performances-techniques-de-londuleur-de-puissance-1.html",
-        "post_id": 19733,
+        "published_url": "https://www.xindunsolar.com/comment-fonctionne-un-onduleur-chargeur-solaire-a-onde-sinusoidale-pure.html",
+        "post_id": 19748,
         "francais_tag": true
       },
       {
-        "title_en": "Solar power inverter charger installation wiring diagram",
-        "title_fr": "Schéma de câblage pour l’installation d’un onduleur-chargeur solaire",
-        "url": "https://www.xindunsolar.com/schema-de-cablage-pour-linstallation-dun-onduleur-chargeur-solaire.html",
+        "title_en": "Use of off grid power house inverter",
+        "title_fr": "Utilisation d’un onduleur hors réseau pour la maison",
+        "url": "https://www.xindunsolar.com/utilisation-dun-onduleur-hors-reseau-pour-la-maison.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/schema-de-cablage-pour-linstallation-dun-onduleur-chargeur-solaire.html",
-        "post_id": 19736,
+        "published_url": "https://www.xindunsolar.com/utilisation-dun-onduleur-hors-reseau-pour-la-maison.html",
+        "post_id": 19751,
         "francais_tag": true
       },
       {
-        "title_en": "Hybrid inverter for rv and power car inverter",
-        "title_fr": "Onduleur hybride pour camping-car et onduleur de voiture",
-        "url": "https://www.xindunsolar.com/onduleur-hybride-pour-camping-car-et-onduleur-de-voiture.html",
+        "title_en": "Pwm and mppt solar controller selection",
+        "title_fr": "Choix d’un régulateur solaire PWM ou MPPT",
+        "url": "https://www.xindunsolar.com/choix-dun-regulateur-solaire-pwm-ou-mppt.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/onduleur-hybride-pour-camping-car-et-onduleur-de-voiture.html",
-        "post_id": 19739,
+        "published_url": "https://www.xindunsolar.com/choix-dun-regulateur-solaire-pwm-ou-mppt.html",
+        "post_id": 19754,
         "francais_tag": true
       }
     ]
