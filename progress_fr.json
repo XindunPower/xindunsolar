@@ -1,54 +1,54 @@
 {
-  "page": 77,
-  "note": "page 76 completed 2026-11-15; next pending page is 77",
-  "last_completed_page": 76,
+  "page": 78,
+  "note": "page 77 completed 2026-11-15; next pending page is 78",
+  "last_completed_page": 77,
   "last_run": {
     "date": "2026-11-15",
-    "source": "https://www.xindun-power.com/news/76.html",
+    "source": "https://www.xindun-power.com/news/77.html",
     "published": [
       {
-        "title_en": "Why can't square wave inverter carry inductive load?",
-        "title_fr": "Pourquoi un onduleur à onde carrée ne peut-il pas alimenter une charge inductive ?",
-        "url": "https://www.xindunsolar.com/pourquoi-un-onduleur-a-onde-carree-ne-peut-il-pas-alimenter-une-charge-inductive.html",
+        "title_en": "What is the role of solar energy storage inverter in solar energy storage system?",
+        "title_fr": "Quel est le rôle de l’onduleur de stockage d’énergie solaire dans un système de stockage d’énergie solaire ?",
+        "url": "https://www.xindunsolar.com/quel-est-le-role-de-londuleur-de-stockage-denergie-solaire-dans-un-systeme-de-stockage-denergie-solaire.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/pourquoi-un-onduleur-a-onde-carree-ne-peut-il-pas-alimenter-une-charge-inductive.html",
-        "post_id": 19914,
+        "published_url": "https://www.xindunsolar.com/quel-est-le-role-de-londuleur-de-stockage-denergie-solaire-dans-un-systeme-de-stockage-denergie-solaire.html",
+        "post_id": 19977,
         "francais_tag": true
       },
       {
-        "title_en": "Pure sine wave inverter vs. square wave inverter vs modified sine wave",
-        "title_fr": "Onduleur à onde sinusoïdale pure vs onduleur à onde carrée vs onde sinusoïdale modifiée",
-        "url": "https://www.xindunsolar.com/onduleur-a-onde-sinusoidale-pure-vs-onduleur-a-onde-carree-vs-onde-sinusoidale-modifiee.html",
+        "title_en": "Professional off grid energy storage power inverter charger manufacturers",
+        "title_fr": "Fabricants professionnels d’onduleurs-chargeurs de stockage d’énergie hors réseau",
+        "url": "https://www.xindunsolar.com/fabricants-professionnels-donduleurs-chargeurs-de-stockage-denergie-hors-reseau.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/onduleur-a-onde-sinusoidale-pure-vs-onduleur-a-onde-carree-vs-onde-sinusoidale-modifiee.html",
-        "post_id": 19917,
+        "published_url": "https://www.xindunsolar.com/fabricants-professionnels-donduleurs-chargeurs-de-stockage-denergie-hors-reseau.html",
+        "post_id": 19981,
         "francais_tag": true
       },
       {
-        "title_en": "How many batteries do I need for a 3000 watt power inverter charger?",
-        "title_fr": "Combien de batteries faut-il pour un onduleur-chargeur de 3000 watts ?",
-        "url": "https://www.xindunsolar.com/combien-de-batteries-faut-il-pour-un-onduleur-chargeur-de-3000-watts.html",
+        "title_en": "How does inverter power inverter storage battery pack work?",
+        "title_fr": "Comment fonctionne le pack de batteries de stockage d’un onduleur ?",
+        "url": "https://www.xindunsolar.com/comment-fonctionne-le-pack-de-batteries-de-stockage-dun-onduleur.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/combien-de-batteries-faut-il-pour-un-onduleur-chargeur-de-3000-watts.html",
-        "post_id": 19920,
+        "published_url": "https://www.xindunsolar.com/comment-fonctionne-le-pack-de-batteries-de-stockage-dun-onduleur.html",
+        "post_id": 19984,
         "francais_tag": true
       },
       {
-        "title_en": "How long will a 12v pure sine wave inverter battery last with a pure sine wave power generator inverter?",
-        "title_fr": "Combien de temps durera une batterie d’onduleur 12 V à onde sinusoïdale pure avec un onduleur-générateur à onde sinusoïdale pure ?",
-        "url": "https://www.xindunsolar.com/combien-de-temps-durera-une-batterie-donduleur-12-v-a-onde-sinusoidale-pure-avec-un-onduleur-generateur-a-onde-sinusoidale-pure.html",
+        "title_en": "What is the meaning of bidirectional energy storage inverters?",
+        "title_fr": "Que signifie un onduleur de stockage d’énergie bidirectionnel ?",
+        "url": "https://www.xindunsolar.com/que-signifie-un-onduleur-de-stockage-denergie-bidirectionnel.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/combien-de-temps-durera-une-batterie-donduleur-12-v-a-onde-sinusoidale-pure-avec-un-onduleur-generateur-a-onde-sinusoidale-pure.html",
-        "post_id": 19923,
+        "published_url": "https://www.xindunsolar.com/que-signifie-un-onduleur-de-stockage-denergie-bidirectionnel.html",
+        "post_id": 19987,
         "francais_tag": true
       },
       {
-        "title_en": "Which type of transformer is used in DC to AC converter and inverter?",
-        "title_fr": "Quel type de transformateur est utilisé dans le convertisseur et l’onduleur CC-CA ?",
-        "url": "https://www.xindunsolar.com/quel-type-de-transformateur-est-utilise-dans-le-convertisseur-et-londuleur-cc-ca.html",
+        "title_en": "How to connect a 5 kw hybrid solar off grid inverter？",
+        "title_fr": "Comment raccorder un onduleur solaire hybride hors réseau de 5 kW ?",
+        "url": "https://www.xindunsolar.com/comment-raccorder-un-onduleur-solaire-hybride-hors-reseau-de-5-kw.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quel-type-de-transformateur-est-utilise-dans-le-convertisseur-et-londuleur-cc-ca.html",
-        "post_id": 19926,
+        "published_url": "https://www.xindunsolar.com/comment-raccorder-un-onduleur-solaire-hybride-hors-reseau-de-5-kw.html",
+        "post_id": 19990,
         "francais_tag": true
       }
     ]
