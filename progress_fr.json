@@ -1,54 +1,54 @@
 {
-  "page": 80,
-  "note": "page 79 completed 2026-11-16; next pending page is 80",
-  "last_completed_page": 79,
+  "page": 81,
+  "note": "page 80 completed 2026-11-16; next pending page is 81",
+  "last_completed_page": 80,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/79.html",
+    "source": "https://www.xindun-power.com/news/80.html",
     "published": [
       {
-        "title_en": "What is the difference between a UPS and an inverter?",
-        "title_fr": "Quelle est la différence entre un UPS et un onduleur ?",
-        "url": "https://www.xindunsolar.com/quelle-est-la-difference-entre-un-ups-et-un-onduleur.html",
+        "title_en": "Which one is better, power inverter vs inverter generator?",
+        "title_fr": "Lequel est le meilleur : onduleur de puissance ou générateur-onduleur ?",
+        "url": "https://www.xindunsolar.com/lequel-est-le-meilleur-onduleur-de-puissance-ou-generateur-onduleur.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quelle-est-la-difference-entre-un-ups-et-un-onduleur.html",
-        "post_id": 20050,
+        "published_url": "https://www.xindunsolar.com/lequel-est-le-meilleur-onduleur-de-puissance-ou-generateur-onduleur.html",
+        "post_id": 20071,
         "francais_tag": true
       },
       {
-        "title_en": "How do I invert 12v to 220v?",
-        "title_fr": "Comment convertir 12 V en 220 V ?",
-        "url": "https://www.xindunsolar.com/comment-convertir-12-v-en-220-v.html",
+        "title_en": "Types of residential solar inverters",
+        "title_fr": "Types d’onduleurs solaires résidentiels",
+        "url": "https://www.xindunsolar.com/types-donduleurs-solaires-residentiels.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-convertir-12-v-en-220-v.html",
-        "post_id": 20053,
+        "published_url": "https://www.xindunsolar.com/types-donduleurs-solaires-residentiels.html",
+        "post_id": 20074,
         "francais_tag": true
       },
       {
-        "title_en": "Can the 1500w hybrid solar inverter drive a 240w washing machine?",
-        "title_fr": "Un onduleur solaire hybride de 1500 W peut-il alimenter un lave-linge de 240 W ?",
-        "url": "https://www.xindunsolar.com/un-onduleur-solaire-hybride-de-1500-w-peut-il-alimenter-un-lave-linge-de-240-w.html",
+        "title_en": "How do 12 volt power inverters convert DC electricity to AC?",
+        "title_fr": "Comment les onduleurs de 12 V convertissent-ils le courant continu en courant alternatif ?",
+        "url": "https://www.xindunsolar.com/comment-les-onduleurs-de-12-v-convertissent-ils-le-courant-continu-en-courant-alternatif.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/un-onduleur-solaire-hybride-de-1500-w-peut-il-alimenter-un-lave-linge-de-240-w.html",
-        "post_id": 20056,
+        "published_url": "https://www.xindunsolar.com/comment-les-onduleurs-de-12-v-convertissent-ils-le-courant-continu-en-courant-alternatif.html",
+        "post_id": 20077,
         "francais_tag": true
       },
       {
-        "title_en": "Can an inverter convert DC into AC?",
-        "title_fr": "Un onduleur peut-il convertir le courant continu en courant alternatif ?",
-        "url": "https://www.xindunsolar.com/un-onduleur-peut-il-convertir-le-courant-continu-en-courant-alternatif.html",
+        "title_en": "The use of car power inverter charger for rv/truck",
+        "title_fr": "Utilisation du chargeur-onduleur automobile pour camping-car / camion",
+        "url": "https://www.xindunsolar.com/utilisation-du-chargeur-onduleur-automobile-pour-camping-car-camion.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/un-onduleur-peut-il-convertir-le-courant-continu-en-courant-alternatif.html",
-        "post_id": 20059,
+        "published_url": "https://www.xindunsolar.com/utilisation-du-chargeur-onduleur-automobile-pour-camping-car-camion.html",
+        "post_id": 20080,
         "francais_tag": true
       },
       {
-        "title_en": "Xindun solar inverters ranking! Top 6 best solar inverters prices in south africa",
-        "title_fr": "Classement des onduleurs solaires Xindun ! Top 6 des meilleurs prix d’onduleurs solaires en Afrique du Sud",
-        "url": "https://www.xindunsolar.com/classement-des-onduleurs-solaires-xindun-top-6-des-meilleurs-prix-donduleurs-solaires-en-afrique-du-sud.html",
+        "title_en": "Backup uninterruptible power supply working principle",
+        "title_fr": "Principe de fonctionnement de l’alimentation sans interruption de secours",
+        "url": "https://www.xindunsolar.com/principe-de-fonctionnement-de-lalimentation-sans-interruption-de-secours.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/classement-des-onduleurs-solaires-xindun-top-6-des-meilleurs-prix-donduleurs-solaires-en-afrique-du-sud.html",
-        "post_id": 20062,
+        "published_url": "https://www.xindunsolar.com/principe-de-fonctionnement-de-lalimentation-sans-interruption-de-secours.html",
+        "post_id": 20083,
         "francais_tag": true
       }
     ]
