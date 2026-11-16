@@ -1,54 +1,54 @@
 {
-  "page": 83,
-  "note": "page 82 completed 2026-11-16; next pending page is 83",
-  "last_completed_page": 82,
+  "page": 84,
+  "note": "page 83 completed 2026-11-16; next pending page is 84",
+  "last_completed_page": 83,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/82.html",
+    "source": "https://www.xindun-power.com/news/83.html",
     "published": [
       {
-        "title_en": "Which is better, PWM or MPPT solar controller?",
-        "title_fr": "Lequel est le meilleur, le régulateur solaire PWM ou MPPT ?",
-        "url": "https://www.xindunsolar.com/lequel-est-le-meilleur-le-regulateur-solaire-pwm-ou-mppt.html",
+        "title_en": "Common faults of solar inverters and their solutions.",
+        "title_fr": "Pannes courantes des onduleurs solaires et leurs solutions",
+        "url": "https://www.xindunsolar.com/pannes-courantes-des-onduleurs-solaires-et-leurs-solutions.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/lequel-est-le-meilleur-le-regulateur-solaire-pwm-ou-mppt.html",
-        "post_id": 20103,
+        "published_url": "https://www.xindunsolar.com/pannes-courantes-des-onduleurs-solaires-et-leurs-solutions.html",
+        "post_id": 20118,
         "francais_tag": true
       },
       {
-        "title_en": "Xindun Power won the \"2020 Excellent Manufacturer in Solar Photovoltaic Industry\" award",
-        "title_fr": "Xindun Power a remporté le prix « Excellent fabricant 2020 de l’industrie photovoltaïque solaire »",
-        "url": "https://www.xindunsolar.com/xindun-power-a-remporte-le-prix-excellent-fabricant-2020-de-lindustrie-photovoltaique-solaire.html",
+        "title_en": "How long is the service life of the photovoltaic inverter?",
+        "title_fr": "Quelle est la durée de vie de l’onduleur photovoltaïque ?",
+        "url": "https://www.xindunsolar.com/quelle-est-la-duree-de-vie-de-londuleur-photovoltaique.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/xindun-power-a-remporte-le-prix-excellent-fabricant-2020-de-lindustrie-photovoltaique-solaire.html",
-        "post_id": 20106,
+        "published_url": "https://www.xindunsolar.com/quelle-est-la-duree-de-vie-de-londuleur-photovoltaique.html",
+        "post_id": 20121,
         "francais_tag": true
       },
       {
-        "title_en": "What factors need to be considered when configuring a solar power system?",
-        "title_fr": "Quels facteurs faut-il prendre en compte pour configurer un système d’énergie solaire ?",
-        "url": "https://www.xindunsolar.com/quels-facteurs-faut-il-prendre-en-compte-pour-configurer-un-systeme-denergie-solaire.html",
+        "title_en": "How to improve the power generation efficiency of photovoltaic systems?",
+        "title_fr": "Comment améliorer le rendement de production des systèmes photovoltaïques ?",
+        "url": "https://www.xindunsolar.com/comment-ameliorer-le-rendement-de-production-des-systemes-photovoltaiques.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quels-facteurs-faut-il-prendre-en-compte-pour-configurer-un-systeme-denergie-solaire.html",
-        "post_id": 20109,
+        "published_url": "https://www.xindunsolar.com/comment-ameliorer-le-rendement-de-production-des-systemes-photovoltaiques.html",
+        "post_id": 20124,
         "francais_tag": true
       },
       {
-        "title_en": "Design of off-grid photovoltaic power generation system",
-        "title_fr": "Conception d’un système de production photovoltaïque hors réseau",
-        "url": "https://www.xindunsolar.com/conception-dun-systeme-de-production-photovoltaique-hors-reseau.html",
+        "title_en": "What should we pay attention to when repairing PV inverter?",
+        "title_fr": "À quoi faut-il prêter attention lors de la réparation d’un onduleur photovoltaïque ?",
+        "url": "https://www.xindunsolar.com/a-quoi-faut-il-preter-attention-lors-de-la-reparation-dun-onduleur-photovoltaique.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/conception-dun-systeme-de-production-photovoltaique-hors-reseau.html",
-        "post_id": 20112,
+        "published_url": "https://www.xindunsolar.com/a-quoi-faut-il-preter-attention-lors-de-la-reparation-dun-onduleur-photovoltaique.html",
+        "post_id": 20127,
         "francais_tag": true
       },
       {
-        "title_en": "Pure sine wave inverter applications",
-        "title_fr": "Applications de l’onduleur à onde sinusoïdale pure",
-        "url": "https://www.xindunsolar.com/applications-de-londuleur-a-onde-sinusoidale-pure.html",
+        "title_en": "Which manufacturer has better inverter OEM service?",
+        "title_fr": "Quel fabricant propose le meilleur service OEM d’onduleurs ?",
+        "url": "https://www.xindunsolar.com/quel-fabricant-propose-le-meilleur-service-oem-donduleurs.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/applications-de-londuleur-a-onde-sinusoidale-pure.html",
-        "post_id": 20115,
+        "published_url": "https://www.xindunsolar.com/quel-fabricant-propose-le-meilleur-service-oem-donduleurs.html",
+        "post_id": 20130,
         "francais_tag": true
       }
     ]
