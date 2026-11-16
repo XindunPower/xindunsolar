@@ -1,54 +1,18 @@
 {
-  "page": 87,
-  "note": "page 86 completed 2026-11-16; next pending page is 87",
-  "last_completed_page": 86,
+  "page": 88,
+  "note": "page 87 completed 2026-11-16; next pending page is 88; listing ended (page 87 had 1 article)",
+  "last_completed_page": 87,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/86.html",
+    "source": "https://www.xindun-power.com/news/87.html",
     "published": [
       {
-        "title_en": "How about the inverters of Xindun Power?",
-        "title_fr": "Comment sont les onduleurs de Xindun Power ?",
-        "url": "https://www.xindunsolar.com/comment-sont-les-onduleurs-de-xindun-power.html",
+        "title_en": "The difference between inverter and hybrid inverter",
+        "title_fr": "La différence entre un onduleur et un onduleur hybride",
+        "url": "https://www.xindunsolar.com/la-difference-entre-un-onduleur-et-un-onduleur-hybride.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-sont-les-onduleurs-de-xindun-power.html",
-        "post_id": 20167,
-        "francais_tag": true
-      },
-      {
-        "title_en": "What are the differences between single phase inverter and three phase inverter?",
-        "title_fr": "Quelles sont les différences entre un onduleur monophasé et un onduleur triphasé ?",
-        "url": "https://www.xindunsolar.com/quelles-sont-les-differences-entre-un-onduleur-monophase-et-un-onduleur-triphase.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/quelles-sont-les-differences-entre-un-onduleur-monophase-et-un-onduleur-triphase.html",
-        "post_id": 20171,
-        "francais_tag": true
-      },
-      {
-        "title_en": "What is an off-grid inverter?",
-        "title_fr": "Qu’est-ce qu’un onduleur hors réseau ?",
-        "url": "https://www.xindunsolar.com/quest-ce-quun-onduleur-hors-reseau.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/quest-ce-quun-onduleur-hors-reseau.html",
-        "post_id": 20174,
-        "francais_tag": true
-      },
-      {
-        "title_en": "The difference between off-grid power system and on-grid power system",
-        "title_fr": "La différence entre un système hors réseau et un système raccordé au réseau",
-        "url": "https://www.xindunsolar.com/la-difference-entre-un-systeme-hors-reseau-et-un-systeme-raccorde-au-reseau.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/la-difference-entre-un-systeme-hors-reseau-et-un-systeme-raccorde-au-reseau.html",
-        "post_id": 20177,
-        "francais_tag": true
-      },
-      {
-        "title_en": "Which inverter manufacturer is better for custom processing?",
-        "title_fr": "Quel fabricant d’onduleurs est le plus adapté à la personnalisation ?",
-        "url": "https://www.xindunsolar.com/quel-fabricant-donduleurs-est-le-plus-adapte-a-la-personnalisation.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/quel-fabricant-donduleurs-est-le-plus-adapte-a-la-personnalisation.html",
-        "post_id": 20180,
+        "published_url": "https://www.xindunsolar.com/la-difference-entre-un-onduleur-et-un-onduleur-hybride.html",
+        "post_id": 20184,
         "francais_tag": true
       }
     ]
