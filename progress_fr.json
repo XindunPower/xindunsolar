@@ -1,54 +1,54 @@
 {
-  "page": 85,
-  "note": "page 84 completed 2026-11-16; next pending page is 85",
-  "last_completed_page": 84,
+  "page": 86,
+  "note": "page 85 completed 2026-11-16; next pending page is 86",
+  "last_completed_page": 85,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/84.html",
+    "source": "https://www.xindun-power.com/news/85.html",
     "published": [
       {
-        "title_en": "How high-frequency inverters solve the problem of mobile power supply?",
-        "title_fr": "Comment les onduleurs haute fréquence résolvent-ils le problème de l’alimentation mobile ?",
-        "url": "https://www.xindunsolar.com/comment-les-onduleurs-haute-frequence-resolvent-ils-le-probleme-de-lalimentation-mobile.html",
+        "title_en": "Is inverter important?",
+        "title_fr": "L’onduleur est-il important ?",
+        "url": "https://www.xindunsolar.com/londuleur-est-il-important.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-les-onduleurs-haute-frequence-resolvent-ils-le-probleme-de-lalimentation-mobile.html",
-        "post_id": 20133,
+        "published_url": "https://www.xindunsolar.com/londuleur-est-il-important.html",
+        "post_id": 20149,
         "francais_tag": true
       },
       {
-        "title_en": "Which brand of high power pure sine wave inverter is better?",
-        "title_fr": "Quelle marque d’onduleur haute puissance à onde sinusoïdale pure est la meilleure ?",
-        "url": "https://www.xindunsolar.com/quelle-marque-donduleur-haute-puissance-a-onde-sinusoidale-pure-est-la-meilleure.html",
+        "title_en": "Do off-grid inverters need to be equipped with batteries ?",
+        "title_fr": "Les onduleurs hors réseau doivent-ils être équipés de batteries ?",
+        "url": "https://www.xindunsolar.com/les-onduleurs-hors-reseau-doivent-ils-etre-equipes-de-batteries.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quelle-marque-donduleur-haute-puissance-a-onde-sinusoidale-pure-est-la-meilleure.html",
-        "post_id": 20137,
+        "published_url": "https://www.xindunsolar.com/les-onduleurs-hors-reseau-doivent-ils-etre-equipes-de-batteries.html",
+        "post_id": 20155,
         "francais_tag": true
       },
       {
-        "title_en": "How to choose safe inverters?",
-        "title_fr": "Comment choisir un onduleur sûr ?",
-        "url": "https://www.xindunsolar.com/comment-choisir-un-onduleur-sur.html",
+        "title_en": "How important is a full-power inverter?",
+        "title_fr": "Quelle est l’importance d’un onduleur à pleine puissance ?",
+        "url": "https://www.xindunsolar.com/quelle-est-limportance-dun-onduleur-a-pleine-puissance.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-choisir-un-onduleur-sur.html",
-        "post_id": 20140,
+        "published_url": "https://www.xindunsolar.com/quelle-est-limportance-dun-onduleur-a-pleine-puissance.html",
+        "post_id": 20158,
         "francais_tag": true
       },
       {
-        "title_en": "How to use low frequency inverter?",
-        "title_fr": "Comment utiliser un onduleur basse fréquence ?",
-        "url": "https://www.xindunsolar.com/comment-utiliser-un-onduleur-basse-frequence.html",
+        "title_en": "Recommended inverters for trucks",
+        "title_fr": "Onduleurs recommandés pour les camions",
+        "url": "https://www.xindunsolar.com/onduleurs-recommandes-pour-les-camions.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-utiliser-un-onduleur-basse-frequence.html",
-        "post_id": 20143,
+        "published_url": "https://www.xindunsolar.com/onduleurs-recommandes-pour-les-camions.html",
+        "post_id": 20161,
         "francais_tag": true
       },
       {
-        "title_en": "Is there an inverter that can invert 380v?",
-        "title_fr": "Existe-t-il un onduleur capable d’inverser du 380 V ?",
-        "url": "https://www.xindunsolar.com/existe-t-il-un-onduleur-capable-dinverser-du-380-v.html",
+        "title_en": "What is the difference between rated power and peak power of inverter?",
+        "title_fr": "Quelle est la différence entre la puissance nominale et la puissance de crête d’un onduleur ?",
+        "url": "https://www.xindunsolar.com/quelle-est-la-difference-entre-la-puissance-nominale-et-la-puissance-de-crete-dun-onduleur.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/existe-t-il-un-onduleur-capable-dinverser-du-380-v.html",
-        "post_id": 20146,
+        "published_url": "https://www.xindunsolar.com/quelle-est-la-difference-entre-la-puissance-nominale-et-la-puissance-de-crete-dun-onduleur.html",
+        "post_id": 20164,
         "francais_tag": true
       }
     ]
