@@ -1,11 +1,41 @@
 {
-  "page": 2,
-  "note": "page 1 completed 2026-11-16; next pending page is 2. Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404). Featured image is featured_media only and must not be inserted into the post body. The post title is already the page H1; do not prepend another title inside the body.",
-  "last_completed_page": 1,
+  "page": 3,
+  "note": "page 2 completed 2026-11-16; next pending page is 3. Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404). Featured image is featured_media only and must not be inserted into the post body. The post title is already the page H1; do not prepend another title inside the body. The page 2 listing repeats is-battery-necessary-for-inverter.html, already published as post 20192; do not duplicate it.",
+  "last_completed_page": 2,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/index.html",
+    "source": "https://www.xindun-power.com/news/2.html",
     "published": [
+      {
+        "title_en": "How to Prevent Inverter Damage?",
+        "title_ru": "Как предотвратить повреждение инвертора?",
+        "url": "https://www.xindun-power.com/faq/how-to-prevent-inverter-damage.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%d0%ba%d0%b0%d0%ba-%d0%bf%d1%80%d0%b5%d0%b4%d0%be%d1%82%d0%b2%d1%80%d0%b0%d1%82%d0%b8%d1%82%d1%8c-%d0%bf%d0%be%d0%b2%d1%80%d0%b5%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80.html",
+        "post_id": 20227,
+        "russkiy_tag": true,
+        "category_id": 125
+      },
+      {
+        "title_en": "Should I Leave My Inverter On All The Time?",
+        "title_ru": "Нужно ли оставлять инвертор включённым постоянно?",
+        "url": "https://www.xindun-power.com/faq/should-i-leave-my-inverter-on-all-the-time.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%bb%d0%b8-%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80-%d0%b2%d0%ba%d0%bb%d1%8e%d1%87%d1%91%d0%bd%d0%bd.html",
+        "post_id": 20230,
+        "russkiy_tag": true,
+        "category_id": 125
+      },
+      {
+        "title_en": "How Many Amps of Current Does a 2000 Watt Inverter Consume?",
+        "title_ru": "Сколько ампер потребляет инвертор на 2000 ватт?",
+        "url": "https://www.xindun-power.com/faq/how-many-amps-of-current-does-a-2000-watt-inverter-consume.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d0%b0%d0%bc%d0%bf%d0%b5%d1%80-%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%bb%d1%8f%d0%b5%d1%82-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80-%d0%bd%d0%b0-200.html",
+        "post_id": 20233,
+        "russkiy_tag": true,
+        "category_id": 125
+      },
       {
         "title_en": "Is Battery Necessary for Inverter?",
         "title_ru": "Нужен ли аккумулятор для инвертора?",
@@ -17,42 +47,12 @@
         "category_id": 125
       },
       {
-        "title_en": "What Can a 3kW 24V Off Grid Hybrid Solar Inverter Run?",
-        "title_ru": "Что может питать автономный гибридный солнечный инвертор 3 кВт 24 В?",
-        "url": "https://www.xindun-power.com/faq/what-can-a-3kw-24v-off-grid-hybrid-solar-inverter-run.html",
+        "title_en": "What Is SHS Solar Home System?",
+        "title_ru": "Что такое домашняя солнечная система SHS?",
+        "url": "https://www.xindun-power.com/faq/what-is-shs-solar-home-system.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/%d1%87%d1%82%d0%be-%d0%bc%d0%be%d0%b6%d0%b5%d1%82-%d0%bf%d0%b8%d1%82%d0%b0%d1%82%d1%8c-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b9-%d0%b3%d0%b8%d0%b1%d1%80%d0%b8%d0%b4%d0%bd%d1%8b.html",
-        "post_id": 20201,
-        "russkiy_tag": true,
-        "category_id": 125
-      },
-      {
-        "title_en": "Can Off Grid Inverter Power Appliances Directly?",
-        "title_ru": "Может ли автономный инвертор питать приборы напрямую?",
-        "url": "https://www.xindun-power.com/faq/can-off-grid-inverter-power-appliances-directly.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/%d0%bc%d0%be%d0%b6%d0%b5%d1%82-%d0%bb%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b9-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80-%d0%bf%d0%b8%d1%82%d0%b0%d1%82%d1%8c-%d0%bf.html",
-        "post_id": 20204,
-        "russkiy_tag": true,
-        "category_id": 125
-      },
-      {
-        "title_en": "Can an Inverter Be Too Big and How to Choose the Right Size?",
-        "title_ru": "Может ли инвертор быть слишком мощным и как выбрать подходящую мощность?",
-        "url": "https://www.xindun-power.com/faq/can-an-inverter-be-too-big-and-how-to-choose-the-right-size.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/%d0%bc%d0%be%d0%b6%d0%b5%d1%82-%d0%bb%d0%b8-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80-%d0%b1%d1%8b%d1%82%d1%8c-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%bc%d0%be%d1%89%d0%bd%d1%8b%d0%bc.html",
-        "post_id": 20207,
-        "russkiy_tag": true,
-        "category_id": 125
-      },
-      {
-        "title_en": "How to Match PV Power with Inverter Max PV Input Power?",
-        "title_ru": "Как согласовать мощность фотоэлектрических модулей с максимальной входной мощностью PV инвертора?",
-        "url": "https://www.xindun-power.com/faq/how-to-match-pv-power-with-inverter-max-pv-input-power.html",
-        "status": "published",
-        "published_url": "https://www.xindunsolar.com/%d0%ba%d0%b0%d0%ba-%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d0%bc%d0%be%d1%89%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%84%d0%be%d1%82%d0%be%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80.html",
-        "post_id": 20210,
+        "published_url": "https://www.xindunsolar.com/%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0%d1%88%d0%bd%d1%8f%d1%8f-%d1%81%d0%be%d0%bb%d0%bd%d0%b5%d1%87%d0%bd%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-shs.html",
+        "post_id": 20237,
         "russkiy_tag": true,
         "category_id": 125
       }
