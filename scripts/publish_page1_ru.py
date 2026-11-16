@@ -59,10 +59,13 @@ def main() -> None:
         assert_no_translate_error(art["description_ru"])
 
         prepared = prepared_all[article_idx]
-        placeholders = re.findall(r"\{img(\d+)\}", body)
-        if sorted(int(x) for x in placeholders) != list(range(len(prepared))):
+        placeholders = [int(x) for x in re.findall(r"\{img(\d+)\}", body)]
+        # Image 0 is the featured image only. Do not place it in the body.
+        expected = list(range(1, len(prepared)))
+        if sorted(placeholders) != expected or 0 in placeholders:
             raise RuntimeError(
-                f"article {article_idx} placeholders {placeholders} vs {len(prepared)} images"
+                f"article {article_idx} body placeholders {placeholders}; "
+                f"expected {expected} (featured image stays out of the body)"
             )
 
         media_list = []
@@ -72,6 +75,8 @@ def main() -> None:
 
         filled = body
         for i, media in enumerate(media_list):
+            if i == 0:
+                continue
             filled = filled.replace(
                 "{img" + str(i) + "}",
                 img_tag(media.get("source_url", ""), prepared[i]["alt_ru"], prepared[i]["title_ru"]),

@@ -1,6 +1,6 @@
 {
   "page": 2,
-  "note": "page 1 completed 2026-11-16; next pending page is 2. Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404).",
+  "note": "page 1 completed 2026-11-16; next pending page is 2. Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404). Featured image is featured_media only and must not be inserted into the post body.",
   "last_completed_page": 1,
   "last_run": {
     "date": "2026-11-16",
