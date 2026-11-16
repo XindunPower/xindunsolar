@@ -332,7 +332,8 @@ def run_duomi(
             with Image.open(raw) as chk:
                 cw, ch = chk.size
             ratio_delta = abs((cw / ch) - (orig_wh[0] / orig_wh[1]))
-            if ratio_delta > 0.08:
+            # Near-square diagrams come back as 1:1; 0.11 still rejects a real crop.
+            if ratio_delta > 0.11:
                 print(f"[duomi] reject ratio {cw}x{ch} vs {orig_wh} delta={ratio_delta:.3f}", flush=True)
                 time.sleep(3)
                 continue
