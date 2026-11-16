@@ -1,54 +1,54 @@
 {
-  "page": 81,
-  "note": "page 80 completed 2026-11-16; next pending page is 81",
-  "last_completed_page": 80,
+  "page": 82,
+  "note": "page 81 completed 2026-11-16; next pending page is 82",
+  "last_completed_page": 81,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/80.html",
+    "source": "https://www.xindun-power.com/news/81.html",
     "published": [
       {
-        "title_en": "Which one is better, power inverter vs inverter generator?",
-        "title_fr": "Lequel est le meilleur : onduleur de puissance ou générateur-onduleur ?",
-        "url": "https://www.xindunsolar.com/lequel-est-le-meilleur-onduleur-de-puissance-ou-generateur-onduleur.html",
+        "title_en": "How to determine the installed capacity of solar energy power system at home?",
+        "title_fr": "Comment déterminer la capacité installée d’un système d’énergie solaire à domicile ?",
+        "url": "https://www.xindunsolar.com/comment-determiner-la-capacite-installee-dun-systeme-denergie-solaire-a-domicile.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/lequel-est-le-meilleur-onduleur-de-puissance-ou-generateur-onduleur.html",
-        "post_id": 20071,
+        "published_url": "https://www.xindunsolar.com/comment-determiner-la-capacite-installee-dun-systeme-denergie-solaire-a-domicile.html",
+        "post_id": 20086,
         "francais_tag": true
       },
       {
-        "title_en": "Types of residential solar inverters",
-        "title_fr": "Types d’onduleurs solaires résidentiels",
-        "url": "https://www.xindunsolar.com/types-donduleurs-solaires-residentiels.html",
+        "title_en": "Advantages and disadvantages of solar photovoltaic power station",
+        "title_fr": "Avantages et inconvénients d’une centrale photovoltaïque solaire",
+        "url": "https://www.xindunsolar.com/avantages-et-inconvenients-dune-centrale-photovoltaique-solaire.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/types-donduleurs-solaires-residentiels.html",
-        "post_id": 20074,
+        "published_url": "https://www.xindunsolar.com/avantages-et-inconvenients-dune-centrale-photovoltaique-solaire.html",
+        "post_id": 20089,
         "francais_tag": true
       },
       {
-        "title_en": "How do 12 volt power inverters convert DC electricity to AC?",
-        "title_fr": "Comment les onduleurs de 12 V convertissent-ils le courant continu en courant alternatif ?",
-        "url": "https://www.xindunsolar.com/comment-les-onduleurs-de-12-v-convertissent-ils-le-courant-continu-en-courant-alternatif.html",
+        "title_en": "Xindun most praised solar generator kit for fridge/cabin/apartment",
+        "title_fr": "Kit générateur solaire Xindun le plus plébiscité pour réfrigérateur / cabane / appartement",
+        "url": "https://www.xindunsolar.com/kit-generateur-solaire-xindun-le-plus-plebiscite-pour-refrigerateur-cabane-appartement.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-les-onduleurs-de-12-v-convertissent-ils-le-courant-continu-en-courant-alternatif.html",
-        "post_id": 20077,
+        "published_url": "https://www.xindunsolar.com/kit-generateur-solaire-xindun-le-plus-plebiscite-pour-refrigerateur-cabane-appartement.html",
+        "post_id": 20094,
         "francais_tag": true
       },
       {
-        "title_en": "The use of car power inverter charger for rv/truck",
-        "title_fr": "Utilisation du chargeur-onduleur automobile pour camping-car / camion",
-        "url": "https://www.xindunsolar.com/utilisation-du-chargeur-onduleur-automobile-pour-camping-car-camion.html",
+        "title_en": "Main equipment of photovoltaic off-grid system",
+        "title_fr": "Équipements principaux d’un système photovoltaïque hors réseau",
+        "url": "https://www.xindunsolar.com/equipements-principaux-dun-systeme-photovoltaique-hors-reseau.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/utilisation-du-chargeur-onduleur-automobile-pour-camping-car-camion.html",
-        "post_id": 20080,
+        "published_url": "https://www.xindunsolar.com/equipements-principaux-dun-systeme-photovoltaique-hors-reseau.html",
+        "post_id": 20097,
         "francais_tag": true
       },
       {
-        "title_en": "Backup uninterruptible power supply working principle",
-        "title_fr": "Principe de fonctionnement de l’alimentation sans interruption de secours",
-        "url": "https://www.xindunsolar.com/principe-de-fonctionnement-de-lalimentation-sans-interruption-de-secours.html",
+        "title_en": "What is uninterruptible power supply (UPS)？",
+        "title_fr": "Qu’est-ce qu’une alimentation sans interruption (UPS) ?",
+        "url": "https://www.xindunsolar.com/quest-ce-quune-alimentation-sans-interruption-ups.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/principe-de-fonctionnement-de-lalimentation-sans-interruption-de-secours.html",
-        "post_id": 20083,
+        "published_url": "https://www.xindunsolar.com/quest-ce-quune-alimentation-sans-interruption-ups.html",
+        "post_id": 20100,
         "francais_tag": true
       }
     ]
