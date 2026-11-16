@@ -201,10 +201,6 @@ ARTICLES = [
 ]
 
 
-def prepend_18pt_title(body_html: str, title_ru: str) -> str:
-    return f'<p><span style="font-size: 18pt;">{title_ru}</span></p>\n{body_html}'
-
-
 def assert_no_translate_error(html: str) -> None:
     if re.search(r"Error\s*500|Server Error", html, re.I):
         raise RuntimeError("Google Translate Error 500/Server Error found in Russian content")

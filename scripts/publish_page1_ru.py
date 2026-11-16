@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from page1_ru_content import ARTICLES, assert_article, assert_no_translate_error, prepend_18pt_title
+from page1_ru_content import ARTICLES, assert_article, assert_no_translate_error
 from page1_ru_images import IMAGE_LOG, IMAGE_SOURCES, prepare_all
 from wp_ru import CATEGORY_ID, WPClient
 
@@ -86,10 +86,10 @@ def main() -> None:
         if "<a " in filled.lower() or "</a>" in filled.lower():
             raise RuntimeError(f"hyperlink remains in article {article_idx}")
 
-        content = prepend_18pt_title(filled, art["title_ru"])
+        content = filled
         assert_no_translate_error(content)
-        if 'font-size: 18pt' not in content:
-            raise RuntimeError("18pt title missing")
+        if re.search(r"font-size:\s*18pt", content, re.I):
+            raise RuntimeError("duplicate 18pt title is still in the body")
 
         featured = media_list[0]["id"] if media_list else 0
         featured_url = media_list[0].get("source_url", "") if media_list else ""
