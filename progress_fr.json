@@ -1,54 +1,54 @@
 {
-  "page": 84,
-  "note": "page 83 completed 2026-11-16; next pending page is 84",
-  "last_completed_page": 83,
+  "page": 85,
+  "note": "page 84 completed 2026-11-16; next pending page is 85",
+  "last_completed_page": 84,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/83.html",
+    "source": "https://www.xindun-power.com/news/84.html",
     "published": [
       {
-        "title_en": "Common faults of solar inverters and their solutions.",
-        "title_fr": "Pannes courantes des onduleurs solaires et leurs solutions",
-        "url": "https://www.xindunsolar.com/pannes-courantes-des-onduleurs-solaires-et-leurs-solutions.html",
+        "title_en": "How high-frequency inverters solve the problem of mobile power supply?",
+        "title_fr": "Comment les onduleurs haute fréquence résolvent-ils le problème de l’alimentation mobile ?",
+        "url": "https://www.xindunsolar.com/comment-les-onduleurs-haute-frequence-resolvent-ils-le-probleme-de-lalimentation-mobile.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/pannes-courantes-des-onduleurs-solaires-et-leurs-solutions.html",
-        "post_id": 20118,
+        "published_url": "https://www.xindunsolar.com/comment-les-onduleurs-haute-frequence-resolvent-ils-le-probleme-de-lalimentation-mobile.html",
+        "post_id": 20133,
         "francais_tag": true
       },
       {
-        "title_en": "How long is the service life of the photovoltaic inverter?",
-        "title_fr": "Quelle est la durée de vie de l’onduleur photovoltaïque ?",
-        "url": "https://www.xindunsolar.com/quelle-est-la-duree-de-vie-de-londuleur-photovoltaique.html",
+        "title_en": "Which brand of high power pure sine wave inverter is better?",
+        "title_fr": "Quelle marque d’onduleur haute puissance à onde sinusoïdale pure est la meilleure ?",
+        "url": "https://www.xindunsolar.com/quelle-marque-donduleur-haute-puissance-a-onde-sinusoidale-pure-est-la-meilleure.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quelle-est-la-duree-de-vie-de-londuleur-photovoltaique.html",
-        "post_id": 20121,
+        "published_url": "https://www.xindunsolar.com/quelle-marque-donduleur-haute-puissance-a-onde-sinusoidale-pure-est-la-meilleure.html",
+        "post_id": 20137,
         "francais_tag": true
       },
       {
-        "title_en": "How to improve the power generation efficiency of photovoltaic systems?",
-        "title_fr": "Comment améliorer le rendement de production des systèmes photovoltaïques ?",
-        "url": "https://www.xindunsolar.com/comment-ameliorer-le-rendement-de-production-des-systemes-photovoltaiques.html",
+        "title_en": "How to choose safe inverters?",
+        "title_fr": "Comment choisir un onduleur sûr ?",
+        "url": "https://www.xindunsolar.com/comment-choisir-un-onduleur-sur.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-ameliorer-le-rendement-de-production-des-systemes-photovoltaiques.html",
-        "post_id": 20124,
+        "published_url": "https://www.xindunsolar.com/comment-choisir-un-onduleur-sur.html",
+        "post_id": 20140,
         "francais_tag": true
       },
       {
-        "title_en": "What should we pay attention to when repairing PV inverter?",
-        "title_fr": "À quoi faut-il prêter attention lors de la réparation d’un onduleur photovoltaïque ?",
-        "url": "https://www.xindunsolar.com/a-quoi-faut-il-preter-attention-lors-de-la-reparation-dun-onduleur-photovoltaique.html",
+        "title_en": "How to use low frequency inverter?",
+        "title_fr": "Comment utiliser un onduleur basse fréquence ?",
+        "url": "https://www.xindunsolar.com/comment-utiliser-un-onduleur-basse-frequence.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/a-quoi-faut-il-preter-attention-lors-de-la-reparation-dun-onduleur-photovoltaique.html",
-        "post_id": 20127,
+        "published_url": "https://www.xindunsolar.com/comment-utiliser-un-onduleur-basse-frequence.html",
+        "post_id": 20143,
         "francais_tag": true
       },
       {
-        "title_en": "Which manufacturer has better inverter OEM service?",
-        "title_fr": "Quel fabricant propose le meilleur service OEM d’onduleurs ?",
-        "url": "https://www.xindunsolar.com/quel-fabricant-propose-le-meilleur-service-oem-donduleurs.html",
+        "title_en": "Is there an inverter that can invert 380v?",
+        "title_fr": "Existe-t-il un onduleur capable d’inverser du 380 V ?",
+        "url": "https://www.xindunsolar.com/existe-t-il-un-onduleur-capable-dinverser-du-380-v.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quel-fabricant-propose-le-meilleur-service-oem-donduleurs.html",
-        "post_id": 20130,
+        "published_url": "https://www.xindunsolar.com/existe-t-il-un-onduleur-capable-dinverser-du-380-v.html",
+        "post_id": 20146,
         "francais_tag": true
       }
     ]
