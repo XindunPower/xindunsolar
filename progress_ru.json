@@ -1,6 +1,6 @@
 {
   "page": 5,
-  "note": "page 4 completed 2026-11-16; next pending page is 5. The five page-4 articles were already live on the Russian frontend before this progress update (posts 20292, 20301, 20306, 20309, 20312). Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404). Featured image is featured_media only and must not be inserted into the post body. The post title is already the page H1; do not prepend another title inside the body. Do not duplicate a source URL already recorded in progress_ru.json. Page 2 repeated is-battery-necessary-for-inverter.html as post 20192.",
+  "note": "page 4 completed 2026-11-16; next pending page is 5. Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404). Featured image is featured_media only and must not be inserted into the post body. The post title is already the page H1; do not prepend another title inside the body. Do not duplicate a source URL already recorded in progress_ru.json. Page 2 repeated is-battery-necessary-for-inverter.html as post 20192.",
   "last_completed_page": 4,
   "last_run": {
     "date": "2026-11-16",
