@@ -1,54 +1,54 @@
 {
-  "page": 82,
-  "note": "page 81 completed 2026-11-16; next pending page is 82",
-  "last_completed_page": 81,
+  "page": 83,
+  "note": "page 82 completed 2026-11-16; next pending page is 83",
+  "last_completed_page": 82,
   "last_run": {
     "date": "2026-11-16",
-    "source": "https://www.xindun-power.com/news/81.html",
+    "source": "https://www.xindun-power.com/news/82.html",
     "published": [
       {
-        "title_en": "How to determine the installed capacity of solar energy power system at home?",
-        "title_fr": "Comment déterminer la capacité installée d’un système d’énergie solaire à domicile ?",
-        "url": "https://www.xindunsolar.com/comment-determiner-la-capacite-installee-dun-systeme-denergie-solaire-a-domicile.html",
+        "title_en": "Which is better, PWM or MPPT solar controller?",
+        "title_fr": "Lequel est le meilleur, le régulateur solaire PWM ou MPPT ?",
+        "url": "https://www.xindunsolar.com/lequel-est-le-meilleur-le-regulateur-solaire-pwm-ou-mppt.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/comment-determiner-la-capacite-installee-dun-systeme-denergie-solaire-a-domicile.html",
-        "post_id": 20086,
+        "published_url": "https://www.xindunsolar.com/lequel-est-le-meilleur-le-regulateur-solaire-pwm-ou-mppt.html",
+        "post_id": 20103,
         "francais_tag": true
       },
       {
-        "title_en": "Advantages and disadvantages of solar photovoltaic power station",
-        "title_fr": "Avantages et inconvénients d’une centrale photovoltaïque solaire",
-        "url": "https://www.xindunsolar.com/avantages-et-inconvenients-dune-centrale-photovoltaique-solaire.html",
+        "title_en": "Xindun Power won the \"2020 Excellent Manufacturer in Solar Photovoltaic Industry\" award",
+        "title_fr": "Xindun Power a remporté le prix « Excellent fabricant 2020 de l’industrie photovoltaïque solaire »",
+        "url": "https://www.xindunsolar.com/xindun-power-a-remporte-le-prix-excellent-fabricant-2020-de-lindustrie-photovoltaique-solaire.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/avantages-et-inconvenients-dune-centrale-photovoltaique-solaire.html",
-        "post_id": 20089,
+        "published_url": "https://www.xindunsolar.com/xindun-power-a-remporte-le-prix-excellent-fabricant-2020-de-lindustrie-photovoltaique-solaire.html",
+        "post_id": 20106,
         "francais_tag": true
       },
       {
-        "title_en": "Xindun most praised solar generator kit for fridge/cabin/apartment",
-        "title_fr": "Kit générateur solaire Xindun le plus plébiscité pour réfrigérateur / cabane / appartement",
-        "url": "https://www.xindunsolar.com/kit-generateur-solaire-xindun-le-plus-plebiscite-pour-refrigerateur-cabane-appartement.html",
+        "title_en": "What factors need to be considered when configuring a solar power system?",
+        "title_fr": "Quels facteurs faut-il prendre en compte pour configurer un système d’énergie solaire ?",
+        "url": "https://www.xindunsolar.com/quels-facteurs-faut-il-prendre-en-compte-pour-configurer-un-systeme-denergie-solaire.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/kit-generateur-solaire-xindun-le-plus-plebiscite-pour-refrigerateur-cabane-appartement.html",
-        "post_id": 20094,
+        "published_url": "https://www.xindunsolar.com/quels-facteurs-faut-il-prendre-en-compte-pour-configurer-un-systeme-denergie-solaire.html",
+        "post_id": 20109,
         "francais_tag": true
       },
       {
-        "title_en": "Main equipment of photovoltaic off-grid system",
-        "title_fr": "Équipements principaux d’un système photovoltaïque hors réseau",
-        "url": "https://www.xindunsolar.com/equipements-principaux-dun-systeme-photovoltaique-hors-reseau.html",
+        "title_en": "Design of off-grid photovoltaic power generation system",
+        "title_fr": "Conception d’un système de production photovoltaïque hors réseau",
+        "url": "https://www.xindunsolar.com/conception-dun-systeme-de-production-photovoltaique-hors-reseau.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/equipements-principaux-dun-systeme-photovoltaique-hors-reseau.html",
-        "post_id": 20097,
+        "published_url": "https://www.xindunsolar.com/conception-dun-systeme-de-production-photovoltaique-hors-reseau.html",
+        "post_id": 20112,
         "francais_tag": true
       },
       {
-        "title_en": "What is uninterruptible power supply (UPS)？",
-        "title_fr": "Qu’est-ce qu’une alimentation sans interruption (UPS) ?",
-        "url": "https://www.xindunsolar.com/quest-ce-quune-alimentation-sans-interruption-ups.html",
+        "title_en": "Pure sine wave inverter applications",
+        "title_fr": "Applications de l’onduleur à onde sinusoïdale pure",
+        "url": "https://www.xindunsolar.com/applications-de-londuleur-a-onde-sinusoidale-pure.html",
         "status": "published",
-        "published_url": "https://www.xindunsolar.com/quest-ce-quune-alimentation-sans-interruption-ups.html",
-        "post_id": 20100,
+        "published_url": "https://www.xindunsolar.com/applications-de-londuleur-a-onde-sinusoidale-pure.html",
+        "post_id": 20115,
         "francais_tag": true
       }
     ]
