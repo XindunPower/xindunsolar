@@ -276,6 +276,17 @@ def run_duomi(
     orig_path: Path,
     attempts: int = 2,
 ) -> Path | None:
+    from sync_news_progress import ensure_current
+
+    try:
+        updated = ensure_current(("progress_ru.json",))
+    except Exception as exc:  # noqa: BLE001
+        raise RuntimeError(f"refusing Duomi until origin/main progress can be read: {exc}") from exc
+    if updated:
+        raise RuntimeError(
+            "origin/main progress_ru.json is ahead of this snapshot. "
+            "No Duomi request was sent. Re-read progress_ru.json and continue from its page."
+        )
     prompt = f"{PROMPT_BASE} {extra_prompt}"
     final = OUT / f"{stem}.jpg"
     timeouts = [240, 600]

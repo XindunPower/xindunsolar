@@ -32,6 +32,17 @@ class WPClient:
         self.tag_id = 0
 
     def login(self) -> None:
+        from sync_news_progress import ensure_current
+
+        try:
+            updated = ensure_current(("progress_ru.json",))
+        except Exception as exc:  # noqa: BLE001
+            raise RuntimeError(f"refusing WordPress login until origin/main progress can be read: {exc}") from exc
+        if updated:
+            raise RuntimeError(
+                "origin/main progress_ru.json is ahead of this snapshot. "
+                "No post was created. Re-read progress_ru.json and continue from its page."
+            )
         user = os.environ["WP_USER"]
         pw = os.environ["WP_APP_PASSWORD"]
         last_err = ""

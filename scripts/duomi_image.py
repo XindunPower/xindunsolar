@@ -182,6 +182,27 @@ def main() -> None:
         print(json.dumps(payload, ensure_ascii=False, indent=2))
         return
 
+    # A stale snapshot must not spend Duomi credits on a page main already finished.
+    # Only Russian prompts are gated here so Spanish/French runs are unchanged.
+    if "to Russian" in args.prompt or "俄语" in args.prompt:
+        from sync_news_progress import ensure_current
+
+        try:
+            updated = ensure_current(("progress_ru.json",))
+        except Exception as exc:  # noqa: BLE001
+            print(
+                f"Error: refusing Duomi call because origin/main progress could not be checked: {exc}",
+                file=sys.stderr,
+            )
+            sys.exit(1)
+        if updated:
+            print(
+                "Error: origin/main progress_ru.json is ahead of this snapshot. "
+                "No Duomi request was sent. Re-read progress_ru.json and continue from its page.",
+                file=sys.stderr,
+            )
+            sys.exit(3)
+
     api_key = args.api_key or os.environ.get("DUOMI_API_KEY")
     if not api_key:
         parser.error("Set DUOMI_API_KEY in Cloud Agents secrets, or pass --api-key")
