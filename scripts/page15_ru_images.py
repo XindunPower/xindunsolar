@@ -248,23 +248,27 @@ IMAGE_LOG: list[dict] = []
 
 
 def api_size(w: int, h: int) -> str:
-    """Named ratios the API accepts, or a pixel size divisible by 16."""
+    """Named ratios the API accepts, or a pixel size divisible by 16.
+
+    Duomi rejects any side above 3840, so the search stays inside that limit
+    and prefers the smaller canvas when ratios are equally close.
+    """
     ratio = w / h if h else 1.0
-    named = {"1:1": 1.0, "3:2": 1.5, "2:3": 2 / 3}
+    named = {"1:1": 1.0, "3:2": 1.5, "2:3": 2 / 3, "2:1": 2.0, "16:9": 16 / 9}
     best_name, best_ratio = min(named.items(), key=lambda kv: abs(kv[1] - ratio))
     if abs(best_ratio - ratio) <= 0.03:
         return best_name
     best = None
-    for height in range(640, 2200, 16):
+    for height in range(640, 2048, 16):
         width = int(round((ratio * height) / 16.0)) * 16
-        if width < 16:
+        if width < 16 or width > 3840 or height > 3840:
             continue
         pixels = width * height
         if pixels < 655360 or pixels > 8294400:
             continue
         delta = abs((width / height) - ratio)
-        if best is None or delta < best[0]:
-            best = (delta, f"{width}x{height}")
+        if best is None or delta < best[0] - 1e-9 or (abs(delta - best[0]) <= 1e-9 and pixels < best[2]):
+            best = (delta, f"{width}x{height}", pixels)
     if best is None:
         return best_name
     return best[1]
