@@ -293,9 +293,16 @@ def prepare_all() -> list[list[dict]]:
                 with Image.open(tagged) as chk:
                     size_ok = chk.size == orig_wh
                 expected = "duomi" if need_duomi else "compress"
-                if size_ok and meta.get("method") == expected and meta.get("src") == im["src"]:
+                stored = meta.get("method")
+                method_ok = stored == expected or (
+                    need_duomi and stored == "duomi-fallback-original"
+                )
+                if size_ok and method_ok and meta.get("src") == im["src"]:
                     final = tagged
-                    method = "duomi-reuse" if need_duomi else "compress-reuse"
+                    if stored == "duomi-fallback-original":
+                        method = "duomi-fallback-original"
+                    else:
+                        method = "duomi-reuse" if need_duomi else "compress-reuse"
                     duomi_path = meta.get("duomi_path")
                     reused = True
                     print(f"[img] reuse {tagged.name} method={method}", flush=True)
