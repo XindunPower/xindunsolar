@@ -47,11 +47,13 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
     ),
     (0, 1): (
         "This is a product composite: two views of a white hybrid inverter and a circular inset of the AC terminals. "
-        "Translate only the two English labels inside that circular inset. "
+        "Change ONLY the two English labels inside the circular inset. Do not touch anything else. "
         "'MAIN AC OUT' → 'Основной выход AC'. "
         "'SECOND AC OUT' → 'Второй выход AC'. "
-        "Keep the letters N and L under the terminals. Do not change the inverter body, display, buttons, "
-        "logo or the red corner. " + _KEEP
+        "The gold line on both inverter bodies must stay exactly 'HYBRID SOLAR INVERTER' in Latin letters. "
+        "Do NOT add Chinese characters, do NOT add 混合, do NOT rewrite the logo or the gold caption. "
+        "Keep the letters N and L, the displays, buttons, fans, red corner and both product photos identical. "
+        + _KEEP
     ),
     (0, 2): (
         "This is a wiring diagram of an HFP-S hybrid inverter. Translate only the English diagram labels. "
