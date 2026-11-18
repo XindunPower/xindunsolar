@@ -76,6 +76,18 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
         "Do not move products. Do not redesign the poster. " + _KEEP
     ),
     (4, 0): (
+        "This is a dark marketing banner with three inverters on the right. "
+        "Translate only the English headline and the two red badges. "
+        "Line 1, large white: 'LOW FREQUENCY' → 'НИЗКОЧАСТОТНЫЙ'. "
+        "Line 2, large red: 'HYBRID INVERTER' → 'ГИБРИДНЫЙ ИНВЕРТОР'. "
+        "Upper red badge: '24VDC TO 120VAC INVERTER' → 'ИНВЕРТОР 24 В DC НА 120 В AC'. "
+        "Lower red badge: '24VDC TO 110VAC INVERTER' → 'ИНВЕРТОР 24 В DC НА 110 В AC'. "
+        "Keep the two-line headline, both red pills, the red arc, and the black background. "
+        "Keep the xindun logo and the words GREEN POWER exactly. "
+        "Do NOT change text printed on the product casings. "
+        "Do not move the three inverters. Do not redesign. " + _KEEP
+    ),
+    (4, 1): (
         "This is a wiring diagram of an LF low-frequency inverter. Translate only the English diagram labels. "
         "'Solar Panels' → 'Солнечные панели'. "
         "'Utility Grid' → 'Электросеть'. "
@@ -90,7 +102,7 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
         "Do not change 'Low Frequency PV Inverter' printed on the white unit. "
         "Keep arrows, icons and the white background. " + _KEEP
     ),
-    (4, 1): (
+    (4, 2): (
         "This is a wiring diagram of a DF low-frequency inverter. Translate only the English diagram labels. "
         "'Solar Panels' → 'Солнечные панели'. "
         "'AC Output' → 'Выход AC'. "
@@ -106,7 +118,7 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
         "Do not change 'Low Frequency PV Inverter' printed on the white unit. "
         "Keep arrows, icons and the white background. " + _KEEP
     ),
-    (4, 2): (
+    (4, 3): (
         "This is a wiring diagram of a WF low-frequency inverter. Translate only the English diagram labels. "
         "'Solar Panels' → 'Солнечные панели'. "
         "'AC Output' → 'Выход AC'. "
@@ -122,7 +134,7 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
         "Do not change 'Low Frequency Inverter' or 'Pure Sine Wave' printed on the white unit. "
         "Keep arrows, icons and the white background. " + _KEEP
     ),
-    (4, 3): (
+    (4, 4): (
         "This is a wiring diagram of a blue LS inverter. Translate only the English diagram labels. "
         "'SOLAR PANELS' → 'СОЛНЕЧНЫЕ ПАНЕЛИ'. "
         "'AC INPUT' → 'ВХОД AC'. "
@@ -136,7 +148,7 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
         "'Battery' → 'Аккумулятор'. "
         "Keep arrows, icons and the white background. " + _KEEP
     ),
-    (4, 4): (
+    (4, 5): (
         "This is a wiring diagram of a yellow WD inverter. Translate only the English diagram labels. "
         "'Solar Panels' → 'Солнечные панели'. "
         "'AC Output' → 'Выход AC'. "
@@ -236,6 +248,10 @@ IMAGE_SOURCES: list[list[dict]] = [
         ),
     ],
     [
+        _im(
+            "https://www.xindun-power.com/uploadfile/2025/04/19/202504191456263173.jpg",
+            "Как выбрать инвертор 24 В DC на 120 В AC или 110 В AC",
+        ),
         _im(
             "https://www.xindun-power.com/uploadfile/2025/04/19/202504191503471831.png",
             "Схема инвертора LF 24 В в 110 В",
