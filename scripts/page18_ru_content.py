@@ -236,16 +236,17 @@ ARTICLES = [
 <tbody>
 <tr>
 <td style="width:33%;vertical-align:top;">
+<p style="text-align:center;">{img1}</p>
 <p>Солнечный регулятор MPPT Wonder1, 10–100 А (12 В / 24 В / 48 В), 50 А / 100 А (96–384 В)</p>
 <p>Сам определяет 12 В / 24 В / 48 В. Пользоваться гибко и удобно.</p>
 </td>
 <td style="width:33%;vertical-align:top;">
-<p style="text-align:center;">{img1}</p>
+<p style="text-align:center;">{img2}</p>
 <p>Солнечный регулятор MPPT Wonder2, 10–100 А (12 В / 24 В / 48 В)</p>
 <p>Есть активация литиевого аккумулятора, чтобы батарея служила дольше.</p>
 </td>
 <td style="width:33%;vertical-align:top;">
-<p style="text-align:center;">{img2}</p>
+<p style="text-align:center;">{img3}</p>
 <p>Солнечный регулятор PWM KY1, 10–200 А (12 В / 24 В / 48 В / 96 В / 120 В / 384 В)</p>
 <p>Управление зарядом PWM, метод постоянного тока, низкая цена.</p>
 </td>

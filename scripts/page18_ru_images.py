@@ -65,6 +65,16 @@ DUOMI_MAP: dict[tuple[int, int], str] = {
         "Do not change 'Low Frequency PV Inverter' or 'HYBRID SOLAR INVERTER' printed on the white units, "
         "or 'MPPT Solar Charge Controller' printed on the orange unit. " + _KEEP
     ),
+    (3, 0): (
+        "This is a black marketing banner of orange and white solar regulators. "
+        "Translate only the two white headlines. "
+        "'MPPT Solar Regulator' → 'Солнечный регулятор MPPT'. "
+        "'PWM Solar Regulator' → 'Солнечный регулятор PWM'. "
+        "Keep the yellow slash and the black-and-gold VS badge exactly as drawn. "
+        "Keep the xindun logo and the words GREEN POWER. "
+        "Do NOT change text printed on the product casings. "
+        "Do not move products. Do not redesign the poster. " + _KEEP
+    ),
     (4, 0): (
         "This is a wiring diagram of an LF low-frequency inverter. Translate only the English diagram labels. "
         "'Solar Panels' → 'Солнечные панели'. "
@@ -208,6 +218,10 @@ IMAGE_SOURCES: list[list[dict]] = [
         ),
     ],
     [
+        _im(
+            "https://www.xindun-power.com/uploadfile/2025/04/19/20250419092007PxYuaS.jpg",
+            "Разница между солнечными регуляторами PWM и MPPT",
+        ),
         _im(
             "https://www.xindun-power.com/uploadfile/2025/04/18/202504181719461485.jpg",
             "Солнечный регулятор MPPT Wonder1",
