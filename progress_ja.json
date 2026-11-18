@@ -1,0 +1,61 @@
+{
+  "page": 2,
+  "note": "page 1 completed 2026-11-18; next pending page is 2. Listing page 1 is https://www.xindun-power.com/news/index.html (news/1.html returns 404).",
+  "last_completed_page": 1,
+  "last_run": {
+    "date": "2026-11-18",
+    "source": "https://www.xindun-power.com/news/index.html",
+    "published": [
+      {
+        "title_en": "Is Battery Necessary for Inverter?",
+        "title_ja": "インバーターにバッテリーは必要か？",
+        "url": "https://www.xindun-power.com/faq/is-battery-necessary-for-inverter.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%ab%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%83%bc%e3%81%af%e5%bf%85%e8%a6%81%e3%81%8b%ef%bc%9f.html",
+        "post_id": 20814,
+        "nihongo_tag": true,
+        "category_id": 123
+      },
+      {
+        "title_en": "What Can a 3kW 24V Off Grid Hybrid Solar Inverter Run?",
+        "title_ja": "3kW 24Vのオフグリッドハイブリッドソーラーインバーターは何を動かせるか？",
+        "url": "https://www.xindun-power.com/faq/what-can-a-3kw-24v-off-grid-hybrid-solar-inverter-run.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/3kw-24v%e3%81%ae%e3%82%aa%e3%83%95%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%8f%e3%82%a4%e3%83%96%e3%83%aa%e3%83%83%e3%83%89%e3%82%bd%e3%83%bc%e3%83%a9%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc.html",
+        "post_id": 20823,
+        "nihongo_tag": true,
+        "category_id": 123
+      },
+      {
+        "title_en": "Can Off Grid Inverter Power Appliances Directly?",
+        "title_ja": "オフグリッドインバーターは機器を直接給電できるか？",
+        "url": "https://www.xindun-power.com/faq/can-off-grid-inverter-power-appliances-directly.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%e3%82%aa%e3%83%95%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%af%e6%a9%9f%e5%99%a8%e3%82%92%e7%9b%b4%e6%8e%a5%e7%b5%a6%e9%9b%bb%e3%81%a7%e3%81%8d.html",
+        "post_id": 20826,
+        "nihongo_tag": true,
+        "category_id": 123
+      },
+      {
+        "title_en": "Can an Inverter Be Too Big and How to Choose the Right Size?",
+        "title_ja": "インバーターは大きすぎることがあるか、適切な容量の選び方",
+        "url": "https://www.xindun-power.com/faq/can-an-inverter-be-too-big-and-how-to-choose-the-right-size.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%af%e5%a4%a7%e3%81%8d%e3%81%99%e3%81%8e%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b%e3%81%8b%e3%80%81%e9%81%a9%e5%88%87%e3%81%aa.html",
+        "post_id": 20829,
+        "nihongo_tag": true,
+        "category_id": 123
+      },
+      {
+        "title_en": "How to Match PV Power with Inverter Max PV Input Power?",
+        "title_ja": "太陽光パネルの出力をインバーターの最大PV入力電力にどう合わせるか？",
+        "url": "https://www.xindun-power.com/faq/how-to-match-pv-power-with-inverter-max-pv-input-power.html",
+        "status": "published",
+        "published_url": "https://www.xindunsolar.com/%e5%a4%aa%e9%99%bd%e5%85%89%e3%83%91%e3%83%8d%e3%83%ab%e3%81%ae%e5%87%ba%e5%8a%9b%e3%82%92%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%ae%e6%9c%80%e5%a4%a7pv%e5%85%a5%e5%8a%9b%e9%9b%bb.html",
+        "post_id": 20832,
+        "nihongo_tag": true,
+        "category_id": 123
+      }
+    ]
+  }
+}
